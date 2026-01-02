@@ -1,0 +1,7 @@
+# Ignorar todos os arquivos executáveis do Windows
+*.exe
+
+# Opcional: Ignorar outros binários comuns
+*.dll
+*.so
+*.bin

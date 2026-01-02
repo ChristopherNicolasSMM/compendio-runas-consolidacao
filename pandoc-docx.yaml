@@ -1,0 +1,57 @@
+# Arquivo de defaults do Pandoc para conversão DOCX
+# Uso: pandoc --defaults=pandoc-defaults.yaml arquivos.md -o output.docx
+# 
+# NOTA: Para usar template customizado, adicione --reference-doc=custom-reference.docx
+# ao comando ou use o script converter-para-docx.ps1 que oferece essa opção
+
+from: markdown
+to: docx
+
+metadata:
+  title: "Compêndio do Futhark Antigo"
+  subtitle: "Das Origens Cósmicas à Práxis Oracular e Mágica"
+  author: "Christopher Nicolas Santa Maria Mauricio"
+  date: "2025"
+  lang: "pt-BR"
+  keywords:
+    - runas
+    - Futhark
+    - magia nórdica
+    - oráculo
+    - mitologia nórdica
+    - Galdr
+    - prática esotérica
+
+# Variáveis LaTeX (aplicadas quando possível, mas DOCX usa principalmente o template)
+variables:
+  documentclass: book
+  geometry:
+    - top=2.55cm
+    - bottom=2.55cm
+    - left=2cm
+    - right=2cm
+  fontsize: 12pt
+  linestretch: 1.5
+  mainfont: "Calibri"
+  sansfont: "Caveat"
+  monofont: "Courier New"
+
+# Opções de formatação DOCX
+toc: true
+toc-depth: 3
+number-sections: true
+standalone: true
+wrap: none
+
+# Opções adicionais recomendadas para DOCX
+# (descomente se necessário)
+# highlight-style: tango
+# pdf-engine: xelatex  # apenas se converter para PDF
+# eol: unix
+
+# NOTA IMPORTANTE:
+# - Se usar --reference-doc=custom-reference.docx, os estilos do template
+#   terão precedência sobre algumas configurações acima
+# - Para máxima compatibilidade, crie um custom-reference.docx com os
+#   estilos desejados e use-o como template
+
