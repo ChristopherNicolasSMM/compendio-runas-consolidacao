@@ -41,37 +41,37 @@ $outputFile = "Compendio_Futhark_Antigo.docx"
 
 # Lista de arquivos na ordem correta (pasta livro)
 #$arquivos = @(
-#    "compêndio\sumario.md",
-#    "compêndio\prefacio.md",
-#    "compêndio\prologo.md",
-#    "compêndio\capitulo-01.md",
-#    "compêndio\capitulo-02.md",
-#    "compêndio\capitulo-03.md",
-#    "compêndio\capitulo-04.md",
-#    "compêndio\capitulo-05.md",
-#    "compêndio\capitulo-06.md",
-#    "compêndio\capitulo-07.md",
-#    "compêndio\capitulo-08.md",
-#    "compêndio\capitulo-09.md",
+#    "compendio\sumario.md",
+#    "compendio\prefacio.md",
+#    "compendio\prologo.md",
+#    "compendio\capitulo-01.md",
+#    "compendio\capitulo-02.md",
+#    "compendio\capitulo-03.md",
+#    "compendio\capitulo-04.md",
+#    "compendio\capitulo-05.md",
+#    "compendio\capitulo-06.md",
+#    "compendio\capitulo-07.md",
+#    "compendio\capitulo-08.md",
+#    "compendio\capitulo-09.md",
 #
-#    "compêndio\bibliografia.md",
+#    "compendio\bibliografia.md",
 #
-#    "compêndio\apendice-a.md",
-#    "compêndio\apendice-b.md",
-#    "compêndio\apendice-c.md",
-#    "compêndio\apendice-d.md",
-#    "compêndio\apendice-e.md",
-#    "compêndio\apendice-f.md",
+#    "compendio\apendice-a.md",
+#    "compendio\apendice-b.md",
+#    "compendio\apendice-c.md",
+#    "compendio\apendice-d.md",
+#    "compendio\apendice-e.md",
+#    "compendio\apendice-f.md",
 #
-#    "compêndio\indice-remissivo.md"
+#    "compendio\indice-remissivo.md"
 #)
 
 #Teste de arquivos
 $arquivos = @(
-    "compêndio\sumario.md",
-    "compêndio\prefacio.md",
-    "compêndio\prologo.md",
-    "compêndio\capitulo-01.md"
+    "compendio\sumario.md",
+    "compendio\prefacio.md",
+    "compendio\prologo.md",
+    "compendio\capitulo-01.md"
 )
 
 # Verificar se todos os arquivos existem

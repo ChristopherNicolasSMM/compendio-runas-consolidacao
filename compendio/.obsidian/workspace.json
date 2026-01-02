@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "capitulo-01.md",
+                "file": "prefacio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "capitulo-01"
+              "title": "prefacio"
             }
           }
         ],
@@ -202,8 +202,8 @@
   },
   "active": "7b589c225ecef925",
   "lastOpenFiles": [
-    "prefacio.md",
     "prologo.md",
+    "prefacio.md",
     "sumario.md",
     "capitulo-01.md",
     "apendice-a.md",

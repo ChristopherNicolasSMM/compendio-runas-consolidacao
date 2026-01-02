@@ -1,16 +1,16 @@
-## Sumário
+# Sumário
 
-### Prefacio
+## Prefacio
 
-### Prólogo
-- [O Mundo que Forjou as Runas](./prologo.md)
+## Prólogo
+- #### [O Mundo que Forjou as Runas](./prologo.md)
   - As Terras do Norte e o Espírito Nórdico
   - Quem Eram os Nórdicos?
   - Os Pilares da Tradição: Eddas e Sagas
   - As Runas no Contexto Deste Mundo
 
-### Parte I: Os Fundamentos Cósmicos e Iniciáticos
-- [Capítulo 1: O Segredo do Cosmos: Da Gênese ao Domínio da Força Rúnica](./capitulo-01.md)
+## Parte I: Os Fundamentos Cósmicos e Iniciáticos
+- #### [Capítulo 1: O Segredo do Cosmos: Da Gênese ao Domínio da Força Rúnica](./capitulo-01.md)
   - 1.1 Introdução: O Futhark Antigo como Anatomia do Real
   - 1.2 Cosmogonia Nórdica: O Caos Criativo e o Som Fundador
   - 1.3 O Galdr Primordial e a Ordenação do Cosmos
@@ -18,8 +18,8 @@
   - 1.5 Hávamál 144: A Técnica da Teurgia – As Oito Proficiências
   - 1.6 Da Teoria à Práxis: Forjando o Vínculo – A Criação do Conjunto Rúnico
 
-### Parte II: O Futhark Antigo: As 24 Forças Arquetípicas
-- [Capítulo 2: O Primeiro Ætt de Freyr e Freyja – O Ciclo da Vida Manifesta](./capitulo-02.md)
+## Parte II: O Futhark Antigo: As 24 Forças Arquetípicas
+- #### [Capítulo 2: O Primeiro Ætt de Freyr e Freyja – O Ciclo da Vida Manifesta](./capitulo-02.md)
   - 2.1 A Estrutura Tripartida: Os Três Pilares do Cosmos Rúnico
   - 2.2 Os Regentes Vanir: Freyr e Freyja – Os Senhores da Fertilidade e da Fecundidade
   - 2.3 ᚠ **Fehu**: O Gado, o Fogo do Mar e a Ética do Fluxo
@@ -28,7 +28,7 @@
   - *(As runas Ansuz, Raidho, Kenaz, Gebo e Wunjo serão desenvolvidas em versões futuras)*
   - 2.10 Síntese do Primeiro Ætt: A Espiral da Manifestação Vital
 
-- [Capítulo 3: O Segundo Ætt de Heimdallr – A Ordem do Tempo e do Destino](./capitulo-03.md)
+- #### [Capítulo 3: O Segundo Ætt de Heimdallr – A Ordem do Tempo e do Destino](./capitulo-03.md)
   - 3.1 A Transição Cósmica: Do Mundo Manifesto ao Mundo da Lei
   - 3.2 O Regente Vigilante: Heimdallr, Aquele que Vê e Ouve
   - 3.3 ᚺ **Hagalaz**: A Semente de Gelo e a Estrutura do Caos
@@ -41,7 +41,7 @@
   - 3.10 ᛋ **Sowilo**: A Roda Solar e a Vitória da Totalidade
   - 3.11 Síntese do Segundo Ætt: A Iniciação na Ordem do Cosmos
 
-- [Capítulo 4: O Terceiro Ætt de Týr – A Soberania do Espírito e o Legado Eterno](./capitulo-04.md)
+- #### [Capítulo 4: O Terceiro Ætt de Týr – A Soberania do Espírito e o Legado Eterno](./capitulo-04.md)
   - 4.0 O Ápice da Jornada: Da Matéria ao Espírito, do Eu ao Cosmos
   - 4.1 O Arquétipo do Sacrifício Soberano: Týr, a Mão que Garante a Ordem
   - 4.2 ᛏ **Tiwaz**: A Lança da Justiça e o Fogo do Dever
@@ -54,8 +54,8 @@
   - 4.9 ᛞ **Dagaz**: O Amanhecer, a Transformação Radical e a Totalidade
   - 4.10 Síntese do Terceiro Ætt: A Ascensão Ética e a Iluminação Final
 
-### Parte III: A Prática Integrada: Magia, Oráculo e Ética
-- [Capítulo 5: O Galdr – A Arquitetura do Som Primordial e a Vibroturgia do Destino](./capitulo-05.md)
+## Parte III: A Prática Integrada: Magia, Oráculo e Ética
+- #### [Capítulo 5: O Galdr – A Arquitetura do Som Primordial e a Vibroturgia do Destino](./capitulo-05.md)
   - 5.1 Do Caos ao Cosmos: A Gênese Vibracional e o Primeiro Galdr
   - 5.2 Vibroturgia: A Engenharia da Teia do Wyrd
   - 5.3 Evidência Histórica: Os Manuscritos como Manuais Técnicos
@@ -63,7 +63,7 @@
   - 5.5 Práxis Vibrotúrgica: O Ciclo de Execução do Galdr
   - 5.6 Otimização do Sinal: Os Fatores Críticos de Eficácia
 
-- [Capítulo 6: As Bindrunes – A Sinergia Geométrica e a Arquitetura do Destino](./capitulo-06.md)
+- #### [Capítulo 6: As Bindrunes – A Sinergia Geométrica e a Arquitetura do Destino](./capitulo-06.md)
   - 6.1 Da Letra à Fórmula: A Alquimia dos Símbolos
   - 6.2 A Engenharia do Símbolo: Metodologia em Cinco Fases
   - 6.3 Casos de Estudo: Anatomia de Fórmulas Práticas
@@ -71,14 +71,14 @@
   - 6.5 Bindrunes, Wyrd e Ørlög: Tecendo o Próprio Fio
   - Conclusão do Capítulo: O Artífice do Real
 
-- [Capítulo 7: A Arte Oracular e a Ética do Wyrd – Do Espelho à Tecelagem](./capitulo-07.md)
+- #### [Capítulo 7: A Arte Oracular e a Ética do Wyrd – Do Espelho à Tecelagem](./capitulo-07.md)
   - 7.1 Oráculo como Espelho Dinâmico: A Leitura do *Verðr* (O Tornar-Se)
   - 7.2 Wyrd e Örlög: A Teia, a Lei e a Liberdade Ética
   - 7.3 Metodologia Avançada: Lendo o Campo de Forças
   - 7.4 Ritualística Oracular: Do Véu à Gratidão
   - 7.5 Conclusão: Do Leitor ao Tecelão Consciente
 
-- [Capítulo 8: O Corpo como Altar – Sintonia Somática, Jornada do Mago e a Ética do Wyrd](./capitulo-08.md)
+- #### [Capítulo 8: O Corpo como Altar – Sintonia Somática, Jornada do Mago e a Ética do Wyrd](./capitulo-08.md)
   - 8.1 O Microcosmo Rúnico: O Corpo como Mapa da Realidade Cósmica
   - 8.2 Cartografia Vibracional Completa: As Runas na Anatomia Sutil
   - 8.3 Protocolos de Práxis Somática: Da Teoria à Transformação Corpórea
@@ -86,8 +86,8 @@
   - 8.5 A Jornada do Mago Rúnico: Dos Níveis de Práxis à Maestria Integrada
   - 8.6 O Legado e o Chamado Final: Vivendo como Altar
 
-### Parte IV: Conclusão e Perspectivas
-- [Capítulo 9: Síntese e Continuação da Jornada](./capitulo-09.md)
+## Parte IV: Conclusão e Perspectivas
+- #### [Capítulo 9: Síntese e Continuação da Jornada](./capitulo-09.md)
 
 - [Bibliografia Comentada e Recursos para Aprofundamento](./bibliografia.md)
 
@@ -103,6 +103,7 @@
 - [Índice Remissivo](./indice-remissivo.md) - Navegação rápida por termos, conceitos, nomes próprios e palavras técnicas
 
 ---
+
 #### Como Navegar por Este Livro
 
 Este livro foi estruturado para ser estudado sequencialmente, mas cada capítulo também funciona como uma referência autônoma. Recomenda-se:

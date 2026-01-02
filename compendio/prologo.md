@@ -1,6 +1,3 @@
----
-title: "Prólogo: O Mundo que Forjou as Runas"
----
 
 ## Prólogo: O Mundo que Forjou as Runas
 
