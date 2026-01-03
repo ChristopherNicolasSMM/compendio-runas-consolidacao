@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "ae6c2b81b167dff1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a19bba30d441a6f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef7d5a28777afabb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "compendio/sumario.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sumario"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a36305b60df4f30b",
+    "type": "split",
+    "children": [
+      {
+        "id": "faaa37f77ed2885b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a96045f2adcc4192",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "362f8711dd26ba6a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "0e7788d2ebc2f325",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "49430f1f8b848988",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c4d802029da4276",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "750c2e8d32bf936b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "compendio/prologo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para prologo"
+            }
+          },
+          {
+            "id": "2b9c340414072b1b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "compendio/prologo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para prologo"
+            }
+          },
+          {
+            "id": "3e6ab606108933d5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ca63d8a302f0778c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "d170459afa93037a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "compendio/prologo.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de prologo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "ef7d5a28777afabb",
+  "lastOpenFiles": [
+    "compendio/prologo.md",
+    "compendio/prefacio.md",
+    "compendio/sumario.md",
+    "compendio/capitulo-01.md",
+    "revisado/prefacio-human.md",
+    "revisado/capitulo-01.md",
+    "revisado/imagem/Élivágar.png",
+    "revisado/imagem",
+    "revisado/sumario.md",
+    "revisado/prologo.md",
+    "revisado",
+    "compendio/capitulo-05.md",
+    "compendio/capitulo-04.md",
+    "compendio/capitulo-03.md",
+    "compendio/capitulo-02.md",
+    "compendio/imagem/Élivágar.png",
+    "compendio/imagem",
+    "compendio/Nova pasta",
+    "teste-word-conver.md"
+  ]
+}
