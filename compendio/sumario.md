@@ -1,24 +1,24 @@
 # Sumário
 
-## Prefacio
+# Prefacio
 
-## Prólogo
+# Prólogo
 - #### [O Mundo que Forjou as Runas](./prologo.md)
-  - As Terras do Norte e o Espírito Nórdico
-  - Quem Eram os Nórdicos?
-  - Os Pilares da Tradição: Eddas e Sagas
-  - As Runas no Contexto Deste Mundo
+  - As terras do norte e o espírito nórdico
+  - Quem eram os nórdicos?
+  - Os pilares da tradição, as Eddas e sagas
+  - As runas no contexto deste mundo
 
-## Parte I: Os Fundamentos Cósmicos e Iniciáticos
-- #### [Capítulo 1: O Segredo do Cosmos: Da Gênese ao Domínio da Força Rúnica](./capitulo-01.md)
-  - Introdução: O Futhark Antigo como Anatomia do Real
-  - Cosmogonia Nórdica: O Caos Criativo e o Som Fundador
-  - O Galdr Primordial e a Ordenação do Cosmos
-  - O Arquétipo da Iniciação: A Auto-Imolação de Óðinn
-  - Hávamál 144: A Técnica da Teurgia – As Oito Proficiências
-  - Da Teoria à Práxis: Forjando o Vínculo – A Criação do Conjunto Rúnico
+# Parte I: Os Fundamentos Cósmicos e Iniciáticos
+- ##### [O segredo do cosmos: da gênese ao domínio da força rúnica](./capitulo-01.md)
+  - As runas como anatomia do real
+  - Ginnungagap, o abismo bocejante
+  - Os Onze nomes do Caos primordial: uma construção mítica posterior
+  - O som primordial e a ordenação do cosmos
+  - A auto-imolação de Óðinn
+  - Da Teoria à Práxis: Forjando o Vínculo, a criação do conjunto rúnico
 
-## Parte II: O Futhark Antigo: As 24 Forças Arquetípicas
+# Parte II: As 24 Runas do Futhark Antigo
 - #### [Capítulo 2: O Primeiro Ætt de Freyr e Freyja – O Ciclo da Vida Manifesta](./capitulo-02.md)
   - A Estrutura Tripartida: Os Três Pilares do Cosmos Rúnico
   - Os Regentes Vanir: Freyr e Freyja – Os Senhores da Fertilidade e da Fecundidade
@@ -53,7 +53,7 @@
   - ᛞ **Dagaz**: O Amanhecer, a Transformação Radical e a Totalidade
   - Síntese do Terceiro Ætt: A Ascensão Ética e a Iluminação Final
 
-## Parte III: A Prática Integrada: Magia, Oráculo e Ética
+# Parte III: A Prática Integrada: Magia, Oráculo e Ética
 - #### [Capítulo 5: O Galdr – A Arquitetura do Som Primordial e a Vibroturgia do Destino](./capitulo-05.md)
   - Do Caos ao Cosmos: A Gênese Vibracional e o Primeiro Galdr
   - Vibroturgia: A Engenharia da Teia do Wyrd
@@ -85,12 +85,12 @@
   - A Jornada do Mago Rúnico: Dos Níveis de Práxis à Maestria Integrada
   - O Legado e o Chamado Final: Vivendo como Altar
 
-## Parte IV: Conclusão e Perspectivas
+# Parte IV: Conclusão e Perspectivas
 - #### [Capítulo 9: Síntese e Continuação da Jornada](./capitulo-09.md)
 
 - [Bibliografia Comentada e Recursos para Aprofundamento](./bibliografia.md)
 
-### Apêndices e Recursos
+# Apêndices e Recursos
 - [Apêndice A: Glossário de Termos Nórdicos e Rúnicos](./apendice-a.md)
 - [Apêndice B: Tabelas de Referência Rápida (Fonemas, Valores, Ideogramas)](./apendice-b.md)
 - [Apêndice C: Guia de Pronúncia do Nórdico Antigo para o Galdr](./apendice-c.md)
@@ -98,7 +98,7 @@
 - [Apêndice E: Protocolos de Segurança e Emergência](./apendice-e.md)
 - [Apêndice F: Glossário Completo Norrænt-Português com Citações](./apendice-f.md)
 
-### Índices e Navegação
+# Índices e Navegação
 - [Índice Remissivo](./indice-remissivo.md) - Navegação rápida por termos, conceitos, nomes próprios e palavras técnicas
 
 ---

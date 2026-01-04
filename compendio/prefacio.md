@@ -1,7 +1,6 @@
 
-## Prefácio
-
-**A Sabedoria em Gotas: Um Compêndio para o Ritmo do Agora**
+# Prefácio
+##### A sabedoria em gotas para o ritmo do agora
 
 Vivemos na era do fluxo contínuo, o tempo que outrora era uma corrente larga e previsível, fragmentou-se em incontáveis riachos digitais, cada um exigindo um pedaço de nossa atenção a paciência para mergulhos profundos em tomos extensos tornou-se, para muitos, um luxo raro e a mente, bombardeada por estímulos, anseia por clareza, por essência, por conhecimento que se ofereça de forma não como um mar a ser atravessado a nado, mas como uma série de fontes refrescantes ao longo do caminho.
 
@@ -16,7 +15,7 @@ Essas breves seções são portais individuais onde você pode saborear uma por 
 
 Esta estrutura atende a um duplo propósito:
 
-**Respeita o Seu Ritmo:** Ela se adapta à sua vida, e não o contrário, cinco minutos entre compromissos tornam-se uma oportunidade para refletir sobre um *ættir*, uma pausa no fim do dia permite a assimilação de um princípio de *galdr*, oconhecimento profundo deixa de ser uma meta distante e transforma-se em um companheiro diário, acessível e generoso.
+**Respeita o Seu Ritmo:** Ela se adapta à sua vida, e não o contrário, cinco minutos entre compromissos tornam-se uma oportunidade para refletir sobre um *ættir*, uma pausa no fim do dia permite a assimilação de um princípio de *galdr*, o conhecimento profundo deixa de ser uma meta distante e transforma-se em um companheiro diário, acessível e generoso.
 
 **Estimula a Aprendizagem Ativa:** A mente humana retém e integra melhor a informação quando esta é oferecida em módulos digeríveis, seguidas de momentos de pausa e reflexão. 
 Cada *drop* é uma semente plantada, o espaço entre eles é o solo onde suas próprias conexões, intuições e perguntas podem brotar, criando uma compreensão verdadeiramente *sua* e orgânica.
