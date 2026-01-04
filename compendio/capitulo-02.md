@@ -1,12 +1,8 @@
----
-title: "Capítulo II: O Primeiro Ætt de Freyr e Freyja"
----
+# Capítulo II
+##### O Primeiro Ætt de Freyr e Freyja – O Ciclo da Vida Manifesta
 
-# Capítulo II: O Primeiro Ætt de Freyr e Freyja – O Ciclo da Vida Manifesta
 
-\newpage
-
-## 2.1. A Estrutura Tripartida: Os Três Pilares do Cosmos Rúnico
+## A Estrutura Tripartida: Os Três Pilares do Cosmos Rúnico
 
 O Futhark Antigo não é uma mera sequência alfabética, mas um **mapa sagrado tríplice** da realidade. Suas vinte e quatro runas organizam-se em três grupos de oito, os **Ættir** (singular: *Ætt*), palavra que significa tanto "família" quanto "direção" ou "lei". Esta divisão tripartida reflete um princípio cósmico profundo, observável em diversas culturas indo-europeias: a **estrutura de três funções ou reinos da existência**.
 
@@ -18,7 +14,7 @@ Cada *Ætt* representa um ciclo arquetípico completo de manifestação, sob a r
 
 Este capítulo desvendará o **Primeiro Ætt**, o fundamento sobre o qual toda a experiência se constrói: o ciclo da Vida que surge, cresce, floresce e frutifica.
 
-## 2.2. Os Regentes Vanir: Freyr e Freyja – Os Senhores da Fertilidade e da Fecundidade
+## Os Regentes Vanir: Freyr e Freyja – Os Senhores da Fertilidade e da Fecundidade
 
 Para compreender a energia que permeia estas oito primeiras runas, devemos conhecer as divindades que as governam: os irmãos **Freyr** e **Freyja**, os mais proeminentes dos **Vanir**.
 
@@ -40,7 +36,7 @@ Juntos, Freyr e Freyja governam o **ciclo completo da energia vital no plano fí
 
 ### Análise das Runas do Primeiro Ætt
 
-## 2.3. ᚠ - Fehu: O Gado, o Fogo do Mar e a Ética do Fluxo
+## ᚠ - Fehu: O Gado, o Fogo do Mar e a Ética do Fluxo
 
 *   **Nome Proto-Germânico:** *Fehu* (Gado, Riqueza Móvel)
 *   **Fonema:** F
@@ -86,7 +82,7 @@ Os **Poemas Rúnicos** – nossas fontes primárias de interpretação tradicion
     4.  Entoe suavemente "F-F-F" e imagine essa centelha viajando pela sua mão e entrando no objeto.
     5.  Afirme: *"Esta energia flui livremente, atrai e cria. Eu a compartilho com sabedoria."*
 
-## 2.4. ᚢ - Uruz: O Auroque, a Força Ancestral e a Saúde da Terra
+## ᚢ - Uruz: O Auroque, a Força Ancestral e a Saúde da Terra
 
 *   **Nome Proto-Germânico:** *Ūruz* (Auroque, o bovídeo selvagem extinto)
 *   **Fonema:** U (como em "urro")
@@ -127,7 +123,7 @@ Sua conexão com **Thórr** é vital. Thórr não é o deus da estratégia (Óð
     4.  Ao expirar, solte um som grave "UUU", sentindo a vibração no plexo solar e ossos.
     5.  Repita 3 vezes. Afirme: *"Eu sou forte, saudável e arraigado. Minha força vital é abundante."*
 
-## 2.5. ᚦ - Thurisaz: O Gigante, o Espinho e a Força do Limiar
+## ᚦ - Thurisaz: O Gigante, o Espinho e a Força do Limiar
 
 *   **Nome Proto-Germânico:** *Þurisaz* (Gigante, Þurs)
 *   **Fonema:** TH surdo (como em "thing")
@@ -176,12 +172,8 @@ Seu outro nome, **Þorn** (Espinho), revela sua função dupla: é uma **defesa*
 
 
 
-# **CAPÍTULO II: O PRIMEIRO ÆTT DE FREYR E FREYJA – O CICLO DA VIDA MANIFESTA**  
-*(Continuação)*  
 
----
-
-## **2.6. ᚨ - Ansuz: O Sopro Divino e a Palavra do Destino**
+## ᚨ - Ansuz: O Sopro Divino e a Palavra do Destino
 
 *   **Nome Proto-Germânico:** *Ansuz* (Um Æsir, uma divindade)
 *   **Fonema:** A
@@ -229,7 +221,7 @@ Os poemas rúnicos a celebram como fonte primordial de ordem, sabedoria e inicia
 
 ---
 
-## **2.7. ᚱ - Raidho: A Jornada, a Roda do Destino e a Lei do Movimento**
+## ᚱ - Raidho: A Jornada, a Roda do Destino e a Lei do Movimento
 
 *   **Nome Proto-Germânico:** *Raidō* (Cavalgada, Jornada, Carruagem)
 *   **Fonema:** R
@@ -272,7 +264,7 @@ Os poemas destacam o contraste entre a **estagnação** e o **movimento dirigido
 
 ---
 
-## **2.8. ᚲ - Kenaz: A Tocha do Conhecimento e a Ferida da Iniciação**
+## ᚲ - Kenaz: A Tocha do Conhecimento e a Ferida da Iniciação
 
 *   **Nome Proto-Germânico:** *Kenaz* (Tocha, Chama, Ferida/Úlcera)
 *   **Fonema:** K
@@ -315,7 +307,7 @@ Os poemas refletem essa dualidade geográfica e filosófica:
 
 ---
 
-## **2.9. ᚷ - Gebo: O Presente, o X do Equilíbrio e a União Sagrada**
+## ᚷ - Gebo: O Presente, o X do Equilíbrio e a União Sagrada
 
 *   **Nome Proto-Germânico:** *Gebō* (Presente, Dádiva)
 *   **Fonema:** G (suave, como em "presente")
@@ -351,7 +343,7 @@ O **Poema Anglo-Saxão** preserva sua essência social e espiritual:
 
 ---
 
-## **2.10. ᚹ - Wunjo: A Alegria do Clã e a Glória do Bem-Estar**
+## ᚹ - Wunjo: A Alegria do Clã e a Glória do Bem-Estar
 
 *   **Nome Proto-Germânico:** *Wunjō* (Alegria, Bem-Estar, Glória)
 *   **Fonema:** W
@@ -393,7 +385,17 @@ O **Poema Anglo-Saxão** a descreve com uma beleza que captura sua essência int
 ---
 
 
-## **2.11. Síntese do Primeiro Ætt: A Espiral da Manifestação Vital**
+
+
+
+
+
+
+
+
+
+
+## Síntese do Primeiro Ætt: A Espiral da Manifestação Vital
 
 O **Primeiro Ætt de Freyr e Freyja** traça um **ciclo orgânico e completo** da energia vital se manifestando no mundo de Midgard:
 
@@ -413,6 +415,10 @@ Este *Ætt* ensina que a **manifestação bem-sucedida não é um ato de força 
 
 
 ----
+
+
+
+
 
 ## 2.11. Síntese do Primeiro Ætt: A Espiral da Manifestação Vital
 

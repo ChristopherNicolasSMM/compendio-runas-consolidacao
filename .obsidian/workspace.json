@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5ce220bbf66b16d9",
+        "id": "dafade5187c7e040",
         "type": "tabs",
         "children": [
           {
-            "id": "42ccbfd696bf7b85",
+            "id": "552fda09249a89ca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "compendio/capitulo-02.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "capitulo-02"
             }
           }
         ]
@@ -179,13 +183,13 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "42ccbfd696bf7b85",
+  "active": "552fda09249a89ca",
   "lastOpenFiles": [
     "compendio/capitulo-01.md",
+    "compendio/capitulo-02.md",
     "compendio/sumario.md",
     "compendio/prologo.md",
     "compendio/prefacio.md",
-    "compendio/capitulo-02.md",
     "compendio/capitulo-06.md",
     "revisado/prefacio-human.md",
     "revisado/capitulo-01.md",
