@@ -68,7 +68,7 @@ $outputFile = "Compendio_Futhark_Antigo.docx"
 
 #Teste de arquivos
 $arquivos = @(
-    "compendio\sumario.md",
+#    "compendio\sumario.md",
     "compendio\prefacio.md",
     "compendio\prologo.md",
     "compendio\capitulo-01.md",
@@ -100,37 +100,37 @@ $arquivosExistentes = $arquivos | Where-Object { Test-Path $_ }
 $argumentosPandoc = @()
 
 # Perguntar ao usuário se deseja usar o template custom-reference.docx ANTES de construir argumentos
-$usarTemplate = $true
-#$usarTemplate = $false
-#if (Test-Path "custom-reference.docx") {
-#    Write-Host ""
-#    Write-Host "Arquivo custom-reference.docx encontrado!" -ForegroundColor Green
-#    $resposta = Read-Host "Deseja usar o template custom-reference.docx para formatação? (S/N - padrão: S)"
-#    if ($resposta -eq "" -or $resposta -eq "S" -or $resposta -eq "s") {
-#        $usarTemplate = $true
-#        Write-Host "Usando arquivo de referência: custom-reference.docx" -ForegroundColor Cyan
-#        Write-Host ""
-#        Write-Host "NOTA: Certifique-se de que os estilos no template estao nomeados corretamente:" -ForegroundColor Yellow
-#        Write-Host "  - Title (ou Titulo) para # titulos" -ForegroundColor Gray
-#        Write-Host "  - Heading 1 (ou Titulo 1) para ## titulos" -ForegroundColor Gray
-#        Write-Host "  - Heading 2 (ou Titulo 2) para ### titulos" -ForegroundColor Gray
-#        Write-Host "  - Heading 3 (ou Titulo 3) para #### titulos" -ForegroundColor Gray
-#        Write-Host "  - Heading 4 (ou Titulo 4) para ##### titulos" -ForegroundColor Gray
-#        Write-Host "  - Subtitle (ou Subtitulo) para subtitulos" -ForegroundColor Gray
-#        Write-Host "  - Normal para paragrafos" -ForegroundColor Gray
-#        Write-Host ""
-#    } else {
-#        Write-Host "Usando formatação padrão do Pandoc (sem template)." -ForegroundColor Yellow
-#    }
-#} else {
-#    Write-Host ""
-#    Write-Host "AVISO: Arquivo custom-reference.docx não encontrado!" -ForegroundColor Yellow
-#    Write-Host "  As fontes personalizadas (Acadian Runes, Caveat) NÃO serão aplicadas." -ForegroundColor Yellow
-#    Write-Host "  Para usar as fontes configuradas, crie o template seguindo:" -ForegroundColor Yellow
-#    Write-Host "  GUIA_TEMPLATE_WORD.md" -ForegroundColor Cyan
-#    Write-Host ""
-#    Write-Host "Usando formatação padrão do Pandoc (sem template)." -ForegroundColor Yellow
-#}
+#$usarTemplate = $true
+$usarTemplate = $false
+if (Test-Path "custom-reference.docx") {
+    Write-Host ""
+    Write-Host "Arquivo custom-reference.docx encontrado!" -ForegroundColor Green
+    $resposta = Read-Host "Deseja usar o template custom-reference.docx para formatação? (S/N - padrão: S)"
+    if ($resposta -eq "" -or $resposta -eq "S" -or $resposta -eq "s") {
+        $usarTemplate = $true
+        Write-Host "Usando arquivo de referência: custom-reference.docx" -ForegroundColor Cyan
+        Write-Host ""
+        Write-Host "NOTA: Certifique-se de que os estilos no template estao nomeados corretamente:" -ForegroundColor Yellow
+        Write-Host "  - Title (ou Titulo) para # titulos" -ForegroundColor Gray
+        Write-Host "  - Heading 1 (ou Titulo 1) para ## titulos" -ForegroundColor Gray
+        Write-Host "  - Heading 2 (ou Titulo 2) para ### titulos" -ForegroundColor Gray
+        Write-Host "  - Heading 3 (ou Titulo 3) para #### titulos" -ForegroundColor Gray
+        Write-Host "  - Heading 4 (ou Titulo 4) para ##### titulos" -ForegroundColor Gray
+        Write-Host "  - Subtitle (ou Subtitulo) para subtitulos" -ForegroundColor Gray
+        Write-Host "  - Normal para paragrafos" -ForegroundColor Gray
+        Write-Host ""
+    } else {
+        Write-Host "Usando formatação padrão do Pandoc (sem template)." -ForegroundColor Yellow
+    }
+} else {
+    Write-Host ""
+    Write-Host "AVISO: Arquivo custom-reference.docx não encontrado!" -ForegroundColor Yellow
+    Write-Host "  As fontes personalizadas (Acadian Runes, Caveat) NÃO serão aplicadas." -ForegroundColor Yellow
+    Write-Host "  Para usar as fontes configuradas, crie o template seguindo:" -ForegroundColor Yellow
+    Write-Host "  GUIA_TEMPLATE_WORD.md" -ForegroundColor Cyan
+    Write-Host ""
+    Write-Host "Usando formatação padrão do Pandoc (sem template)." -ForegroundColor Yellow
+}
 
 # Verificar se existe arquivo de defaults
 if (Test-Path "pandoc-docx.yaml") {
