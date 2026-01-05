@@ -136,7 +136,7 @@ A confecção do próprio conjunto é um *ritual de incorporação*, um **mini-R
 Materiais *órlög-trofðir* (carregados de destino) como por exemplo **Madeira** (Freixo, Carvalho, Teixo, o corte deve ser ritualizado) pode ser utilizado sementes que sejam lenhosas, **Pedra** de rio, **Osso** (obtido respeitosamente) ou **Metal** (associado ao Ferreiro Divino).
 Não se compra Runas e muito menos as confecciona por meio de plástico, resina e outros elementos que não sejam naturais, o MDF também entra nesta lista de "restrisões" pois é um compensado de madeira. 
 
-### O ritual de conformação, o rísta e fáa em ação
+### O ritual de confirmação, o rísta e fáa em ação
 
 **Preparação** Criar um *vé* (espaço sagrado), purificado com incenso de ervas e resinas aromaticas.
 

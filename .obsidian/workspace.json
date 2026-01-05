@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "compendio/capitulo-02.md",
+                "file": "compendio/capitulo-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "capitulo-02"
+              "title": "capitulo-01"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "2603e82ffd64859a",
   "lastOpenFiles": [
+    "compendio/capitulo-02.md",
     "~$stom-reference-a5.docx",
     "~WRL0003.tmp",
     "~WRD0002.tmp",
@@ -197,7 +198,6 @@
     "pandoc.exe",
     "compendio/capitulo-01.md",
     "compendio/capitulo-05.md",
-    "compendio/capitulo-02.md",
     "compendio/prefacio.md",
     "compendio/prologo.md",
     "compendio/sumario.md",
@@ -206,7 +206,6 @@
     "revisado/prefacio-human.md",
     "revisado/capitulo-01.md",
     "revisado/imagem/Élivágar.png",
-    "revisado/imagem",
     "revisado/sumario.md",
     "revisado/prologo.md",
     "compendio/capitulo-04.md",
