@@ -2,10 +2,6 @@
 ##### O Primeiro Ætt: Freyr e Freyja – O Ciclo da Vida Manifesta
 
 
----
----
----
-
 ## Introdução ao Universo Nórdico e às Runas
 
 Bem-vindos, exploradores da sabedoria ancestral!
@@ -52,7 +48,6 @@ Neste ponto devo trazer uma ressalva, um "pé no chão", as runas não “prevee
 Cada leitura é um diálogo com o *Örlög* (destino tecido), veremos sobre isso mais a frente, não uma sentença gravada. 
 O futuro permanece maleável, e a própria consciência trazida pela leitura já o modifica, assim, as runas funcionam como **ferramentas de clarificação, alerta e orientação**, não de adivinhação absoluta, mas sim um sistema divinatório e não adivinhatório. 
 
----
 
 ### Os Sistemas Rúnicos: Breve Distinção
 
@@ -66,7 +61,6 @@ Ao longo da história, o alfabeto rúnico evoluiu em diferentes ramos:
 
 Neste compêndio, focaremos no **Futhark Antigo**, o sistema mais completo e arquetípico, com suas 24 runas organizadas em três *Ættir* (famílias). Cada *Ætt* corresponde a um ciclo cósmico e é regido por forças divinas específicas — começando pelo **Primeiro Ætt de Freyr e Freyja**, o ciclo da vida manifesta.
 
----
 
 ### Um Convite à Jornada
 
@@ -77,7 +71,6 @@ Preparem-se, pois, para adentrar os **Nove Mundos** da cosmovisão nórdica, com
 Deixem o coração e a mente abertos. 
 
 A jornada começa agora.
-
 
 
 ## A Estrutura Tripartida: Os Três Pilares do Cosmos Rúnico
@@ -125,7 +118,11 @@ Juntos, Freyr e Freyja governam o **ciclo completo da energia vital no plano fí
 
 
 
+
+
 # Análise das Runas do Primeiro Ætt
+
+
 
 
 
@@ -134,20 +131,23 @@ Juntos, Freyr e Freyja governam o **ciclo completo da energia vital no plano fí
 
 *   **Nome Proto-Germânico:** *Fehu* (Gado, Riqueza Móvel)
 *   **Fonema:** F
-*   **Divindade Regente:** **Freyja** (Senhora da Prosperidade e da Circulação)
-*   **Elemento Primário:** **Fogo Vital** (Energia cinética, impulso criativo)
-*   **Mundo Associado:** **Vanaheimr / Midgard** (como esfera de atividade)
+*   **Divindade Regente:** **Freyja** - Senhora da Prosperidade e da Circulação
+*   **Elemento Primário:** **Fogo Vital** - Energia cinética, impulso criativo
+*   **Mundo Associado:** **Vanaheimr / Midgard** - Como esfera de atividade
 *   **Arquétipo Central:** **A Energia Primordial em Movimento. O Potencial que Exige Ação.**
 
 **Análise Arquetípica e Mítica:**
-Fehu é a faísca inicial, a primeira mobilização de força a partir do vazio. No contexto germânico, a riqueza (*fe*) era sinônimo de **gado** – não uma moeda estática, mas um **ativo vivo**, nômade, que precisa circular (transumância) para se alimentar e reproduzir. Esta é a essência de Fehu: **riqueza como energia em fluxo**, não como posse estática. Seu poder é gerativo, mas exige movimento e gestão ética.
+Fehu é a faísca inicial, a primeira mobilização de força a partir do vazio, no contexto germânico, a riqueza (*fe*) era sinônimo de **gado** e não uma moeda estática, mas um **ativo vivo**, nômade, que precisa circular (transumância) para se alimentar e reproduzir, sendo esta a essência de Fehu **riqueza como energia em fluxo**, não como posse estática. 
+Seu poder é gerativo, mas exige movimento e gestão ética.
 
-Os **Poemas Rúnicos** – nossas fontes primárias de interpretação tradicional – capturam magistralmente sua natureza ambivalente:
+Os **Poemas Rúnicos** – nossas fontes primárias de interpretação tradicional capturam magistralmente sua natureza ambivalente:
 
 *   **Poema Islandês (século XV):**
     *   *"Fé er frænda róg ok flæðar viti ok grafseiðs gata."*
     *   **"A riqueza é discórdia entre parentes e fogo do mar e caminho da serpente."**
-    *   A "discórdia entre parentes" alerta para os conflitos gerados pela cobiça e pela má gestão da herança (energia). O "**fogo do mar**" (*flæðarviti*) é um fenômeno de bioluminescência – riqueza que brilha à distância mas é intocável, ilusória, um fogo-fátuo. O "**caminho da serpente**" remete a uma riqueza que se move de forma sinuosa, subterrânea e potencialmente perigosa.
+    *   A "discórdia entre parentes" alerta para os conflitos gerados pela cobiça e pela má gestão da herança (energia). 
+    * O "**fogo do mar**" (*flæðarviti*) é um fenômeno de bioluminescência, riqueza que brilha à distância mas é intocável, ilusória, um fogo-fátuo. 
+    * O "**caminho da serpente**" remete a uma riqueza que se move de forma sinuosa, subterrânea e potencialmente perigosa.
 
 *   **Poema Norueguês (século XIII):**
     *   *"Fé vældr frænda róge; fæðesk ulfr í skóge."*
@@ -157,65 +157,74 @@ Os **Poemas Rúnicos** – nossas fontes primárias de interpretação tradicion
 *   **Poema Anglo-Saxão (século IX/X – o mais antigo):**
     *   *"Feoh byþ frofur fira gehwylcum; sceal ðeah manna gehwylc miclun hyt dælan gif he wile for drihtne domes hleotan."*
     *   **"A riqueza é conforto para todos os homens; contudo, cada homem deve compartilhá-la amplamente se desejar ganhar glória perante o Senhor."**
-    *   Aqui está a **chave ética**: Fehu é benéfica apenas quando **circula**. A generosidade (*dælan*) é o antídoto para a discórdia. A riqueza deve ser ferramenta de criação de *dom* (honra, reputação), não de sua destruição.
+    *   Aqui está a **chave ética**: Fehu é benéfica apenas quando **circula**, a generosidade (*dælan*) é o antídoto para a discórdia, a riqueza deve ser ferramenta de criação de *dom* (honra, reputação), não de sua destruição.
 
 **Práxis Mágica e Oracular:**
 *   **Uso no Galdr (Magia):**
     *   **Propósito:** Atrair oportunidades de **prosperidade inicial**, **ativar projetos**, aumentar a **energia vital pessoal**, proteger bens em movimento.
-    *   **Técnica:** Visualização de luz dourada fluindo como um rio. Entoação do som gutural **"F-F-F"**, vibrado na garganta e nos lábios, imitando o vento que traz mudança. Oferecer algo de valor (um *blót*) para "semear" a energia.
-    *   **Bindrune Clássica:** Fehu + Raidho = Prosperidade em viagens ou negócios. Fehu + Gebo = Troca comercial justa e benéfica.
+    *   **Técnica:** Visualização de luz dourada fluindo como um rio. Entoação do som gutural **"F-F-F--RRUUUUUU"**, vibrado na garganta e nos lábios, imitando o vento que traz mudança, oferecer algo de valor (um *blót*) para "semear" a energia, vamos combinar que os sons serão "traduzidos para uma pronuncia que possamos fazer sendo falantes de português do Brasil"
+    *   **Bindrune Clássica:** 
+    * Fehu + Raidho = Prosperidade em viagens ou negócios. 
+    * Fehu + Gebo = Troca comercial justa e benéfica.
 
 *   **Uso na Spá (Adivinhação):**
     *   **Posição Direita:** Início, novo empreendimento, energia disponível, prosperidade potencial, fertilidade criativa. **"O gado está em movimento."**
-    *   **Posição Invertida (Merkstave):** Perda material, estagnação financeira, ganância que paralisa, energia bloqueada, conflito por recursos. **"O gado está doente ou preso no curral."** Um chamado para revisar a gestão da própria energia (tempo, dinheiro, atenção).
+* 
+    *   **Posição Invertida (Merkstave):** Perda material, estagnação financeira, ganância que paralisa, energia bloqueada, conflito por recursos. 
+    * **"O gado está doente ou preso no curral"** um chamado para revisar a gestão da própria energia (tempo, dinheiro, atenção).
 
 *   **Exercício Prático de Conexão:**
-    1.  Segure uma moeda ou objeto que simbolize valor para você.
-    2.  Feche os olhos e sinta o impulso de *querer* algo (um projeto, uma melhoria).
-    3.  Visualize esse desejo como uma centelha dourada (Fehu) no seu peito.
-    4.  Entoe suavemente "F-F-F" e imagine essa centelha viajando pela sua mão e entrando no objeto.
-    5.  Afirme: *"Esta energia flui livremente, atrai e cria. Eu a compartilho com sabedoria."*
+    * Segure uma moeda ou objeto que simbolize valor para você, feche os olhos e sinta o impulso de *querer* algo seja um projeto ou uma melhoria, agora visualize esse desejo como uma centelha dourada, e faça o traço mental ou fisico com as mãos e visualize Fehu no seu peito.
+    *  Entoe suavemente "F-F-F-RRU-U-U-U-U" e imagine essa centelha viajando pela sua mão e entrando no objeto.
+    *  Afirme: *"Esta energia flui livremente, atrai e cria. Eu a compartilho com sabedoria."*
 
 ## ᚢ - Uruz: O Auroque, a Força Ancestral e a Saúde da Terra
 
-*   **Nome Proto-Germânico:** *Ūruz* (Auroque, o bovídeo selvagem extinto)
+*   **Nome Proto-Germânico:** *Ūruz*, Auroque, o bovídeo selvagem extinto em média tinha o tamanho de um Fiat Doblo
 *   **Fonema:** U (como em "urro")
-*   **Divindade Regente:** **Thórr** (como personificação da **força vital bruta, da saúde e da defesa da fertilidade**)
-*   **Elemento Primário:** **Terra-Sangue** (Força telúrica, vitalidade física, instinto de sobrevivência)
-*   **Mundo Associado:** **Jötunheimr** (como fonte das forças primordiais indomadas)
+*   **Divindade Regente:** **Thórr**,como personificação da **força vital bruta, da saúde e da defesa da virilidade**
+*   **Elemento Primário:** **Terra-Sangue** - Força telúrica, vitalidade física, instinto de sobrevivência
+*   **Mundo Associado:** **Jötunheimr** - Como fonte das forças primordiais indomadas
 *   **Arquétipo Central:** **A Força Vital Crua. A Matéria-Prima da Existência. A Resistência Inata.**
 
 **Análise Arquetípica e Mítica:**
-Se Fehu é o gado domesticado (riqueza), Uruz é o **auroque selvagem** (*ūr*) – a força primordial **antes da domesticação**. É a energia bruta da vida, a saúde robusta, a resistência física e o **instinto de sobrevivência**. É a "matéria-prima" do corpo e do caráter. Enquanto Fehu é potencial em movimento, Uruz é o **poder latente** que torna o movimento possível.
+Se Fehu é o gado domesticado (riqueza), Uruz é o **auroque selvagem** (*ūr*), a força primordial **antes da domesticação**, É a energia bruta da vida, a saúde robusta, a resistência física e o **instinto de sobrevivência**, a "matéria-prima" do corpo e do caráter. 
+Enquanto Fehu é potencial em movimento, Uruz é o **poder latente** que torna o movimento possível, sua conexão com **Thórr** é vital. 
 
-Sua conexão com **Thórr** é vital. Thórr não é o deus da estratégia (Óðinn), mas da **força aplicada**, do vigor que protege Midgard. Ele é a força vital da comunidade, assim como Uruz é a força vital do indivíduo. A evolução semântica do nome é reveladora:
+Thórr não é o deus da estratégia (Óðinn), mas da **força aplicada**, do vigor que protege Midgard, ele é a força vital da comunidade, assim como Uruz é a força vital do indivíduo, a evolução semântica do nome é reveladora:
 
 *   **Poema Anglo-Saxão (preserva o sentido original):**
     *   *"Úr byþ anmod ond oferhyrned, felafrecne deor, feohteþ mid hornum mære morstapa; þæt is modig wuht."*
     *   **"O Auroque é solitário e de chifres altos, fera muito feroz, luta com os chifres, famoso pisador do pântano; essa é uma criatura corajosa."**
-    *   Foco total na **força indomável, solitária e desafiadora**. O "pisador do pântano" conecta-o às forças telúricas e à capacidade de enfrentar terrenos difíceis (adversidades).
+    *   Foco total na **força indomável, solitária e desafiadora**, o "pisador do pântano" conecta-o às forças telúricas e à capacidade de enfrentar terrenos difíceis, adversidades.
 
 *   **Poemas Nórdicos (mostram uma transformação semântica):**
     *   Usam **"Úr"**, que significa **"chuvisco/garoa"** ou **"escória/ferrugem"**.
     *   **Poema Islandês:** *"Úr er skýja grátr ok skára þverrir ok hirðis hatr."* – **"A Chuva é lamento das nuvens e destruidor da colheita e ódio do pastor."**
-    *   Isto pode ser uma corrupção fonética ao longo do tempo, ou uma **profunda metáfora alquímica**. A força bruta (o ferro) exposta aos elementos transforma-se em ferrugem (fracasso, doença) – ou é **purificada e temperada** pela "chuva" das provas e desafios, saindo mais resiliente. Uruz, portanto, também é a **força que se revela e se fortalece através da adversidade**.
+    *   Isto pode ser uma corrupção fonética ao longo do tempo, ou uma **profunda metáfora alquímica**, a força bruta, o ferro, exposta aos elementos transforma-se em ferrugem ,fracasso, doença, ou é **purificada e temperada** pela "chuva" das provas e desafios, saindo mais resiliente. 
+    * Uruz, portanto, também é a **força que se revela e se fortalece através da adversidade**.
 
 **Práxis Mágica e Oracular:**
 *   **Uso no Galdr (Magia):**
-    *   **Propósito:** **Cura física profunda**, recuperação após doença ou esgotamento, aumento de **vigor e resistência**, **proteção** através da força de presença (como um auroque que defende seu território).
-    *   **Técnica:** Trabalhar com o corpo. Postura firme, pés enraizados. O som é um **"UUU"** gutural e profundo, emanado do diafragma, como o urro de um animal poderoso. Visualizar-se absorvendo a força da terra, tornando-se sólido como uma rocha.
-    *   **Bindrune Clássica:** Uruz + Thurisaz = Escudo de força defensiva impenetrável. Uruz + Ansuz = Força vital direcionada por uma vontade clara (cura dirigida).
+    *   **Propósito:** **Cura física profunda**, recuperação após doença ou esgotamento, aumento de **vigor e resistência**, **proteção** através da força de presença, como um auroque que defende seu território.
+    *   **Técnica:** Trabalhar com o corpo, com postura firme, pés enraizados. O som é um **"U-U-U-U-R-U-U-U-Z"** gutural e profundo, emanado do diafragma, como o urro de um animal poderoso. 
+    * Visualizar-se absorvendo a força da terra, tornando-se sólido como uma rocha.
+    *   **Bindrune Clássica:** 
+    * Uruz + Thurisaz = Escudo de força defensiva impenetrável. 
+    * Uruz + Ansuz = Força vital direcionada por uma vontade clara, cura dirigida.
 
 *   **Uso na Spá (Adivinhação):**
-    *   **Posição Direita:** Saúde, força vital, coragem física, mudança poderosa (como uma metamorfose), resiliência, contato com a natureza selvagem. **"A força do auroque está com você."**
-    *   **Posição Invertida:** Fraqueza, doença, esgotamento, força mal direcionada (brutalidade), estagnação por falta de energia. **"O auroque está ferido ou cansado."** Um chamado para cuidar da saúde, descansar ou reorientar a força.
+    *   **Posição Direita:** Saúde, força vital, coragem física, mudança poderosa, como uma metamorfose, resiliência, contato com a natureza selvagem. 
+    * **"A força do auroque está com você."**
+    
+    *   **Posição Invertida:** Fraqueza, doença, esgotamento, força mal direcionada (brutalidade), estagnação por falta de energia. 
+    * **"O auroque está ferido ou cansado."** Um chamado para cuidar da saúde, descansar ou reorientar a força.
 
 *   **Exercício Prático de Conexão (Enraizamento):**
-    1.  Fique descalço sobre a terra, grama ou um tapete.
-    2.  Inspire profundamente, visualizando raízes saindo das solas dos pés e mergulhando nas profundezas da terra.
-    3.  Segure a respiração e sinta a força telúrica subindo por essas raízes.
-    4.  Ao expirar, solte um som grave "UUU", sentindo a vibração no plexo solar e ossos.
-    5.  Repita 3 vezes. Afirme: *"Eu sou forte, saudável e arraigado. Minha força vital é abundante."*
+    *  Fique descalço sobre a terra, grama ou um tapete, inspire profundamente, visualizando raízes saindo das solas dos pés e mergulhando nas profundezas da terra.
+    *  Segure a respiração e sinta a força telúrica, a força da terra, do planeta, subindo por essas raízes, ao expirar, solte um som grave "UUU", sentindo a vibração no plexo solar e ossos.
+    * Repita algumas vezes e então faça o Galdr completo **"U-U-U-U-R-U-U-U-Z"** gutural e profundo.
+    *  Repita algumas vezes e afirme: *"Eu sou forte, saudável e arraigado (raízes fortes), minha força vital é abundante."*
 
 ## ᚦ - Thurisaz: O Gigante, o Espinho e a Força do Limiar
 

@@ -71,7 +71,8 @@ $arquivos = @(
     "compendio\sumario.md",
     "compendio\prefacio.md",
     "compendio\prologo.md",
-    "compendio\capitulo-01.md"
+    "compendio\capitulo-01.md",
+    "compendio\capitulo-02.md"
 )
 
 # Verificar se todos os arquivos existem

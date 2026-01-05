@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "77949530805eb9b5",
+        "id": "eb67b76be3302328",
         "type": "tabs",
         "children": [
           {
-            "id": "2603e82ffd64859a",
+            "id": "1df27f52cca8c631",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "compendio/capitulo-01.md",
+                "file": "compendio/capitulo-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "capitulo-01"
+              "title": "capitulo-02"
             }
           }
         ]
@@ -183,8 +183,10 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "2603e82ffd64859a",
+  "active": "1df27f52cca8c631",
   "lastOpenFiles": [
+    "Compendio_Futhark_Antigo.docx",
+    "compendio/capitulo-01.md",
     "compendio/capitulo-02.md",
     "~$stom-reference-a5.docx",
     "~WRL0003.tmp",
@@ -194,9 +196,7 @@
     "~WRD0000.tmp",
     "~$stom-reference.docx",
     "~$mpendio_Futhark_Antigo.docx",
-    "Compendio_Futhark_Antigo.docx",
     "pandoc.exe",
-    "compendio/capitulo-01.md",
     "compendio/capitulo-05.md",
     "compendio/prefacio.md",
     "compendio/prologo.md",
