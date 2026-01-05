@@ -2,15 +2,15 @@
 ##### O segredo do cosmos: da gênese ao domínio da força rúnica
 
 
-## As runas como anatomia do real
-A abordagem deste tratado rejeita a visão reducionista que confina o **Futhark antigo** (ou *Elder Futhark*) ao papel de mero antepassado paleográfico dos alfabetos nórdicos, na *heill* (visão de mundo integrada) germânica pré-cristã, a raiz linguística **rūn** se desdobra num espectro semântico denso tais como (*segredo*, *sussurro confidencial*, *conselho oculto*, *mistério* e *cifra*), um *stafr* (estave, glifo) rúnico não é portanto uma letra, mas uma **entidade energética cristalizada**, um arquétipo primordial ativo que estrutura a realidade perceptível e imperceptível. 
+## As Runas como Anatomia do Real
+A abordagem deste compêndio rejeita a visão reducionista que confina o **Futhark antigo** (ou *Elder Futhark*) ao papel de mero antepassado paleográfico dos alfabetos nórdicos, na *heill* (visão de mundo integrada) germânica pré-cristã, a raiz linguística **rūn** se desdobra num espectro semântico denso tais como (*segredo*, *sussurro confidencial*, *conselho oculto*, *mistério* e *cifra*), um *stafr* (estave, glifo) rúnico não é portanto uma letra, mas uma **entidade energética cristalizada**, um arquétipo primordial ativo que estrutura a realidade perceptível e imperceptível. 
 
 Sua natureza é trifuncional, serve à **comunicação** (função paleográfica), ao **encantamento** (função mágico-esotérica) e à **revelação da estrutura cósmica** (função cosmogônica).
 
 Trabalhar com o Futhark Antigo é engajar-se numa **teurgia**, que visa interagir com a própria matriz do universo.
 Esta obra posiciona-se na intersecção entre a **filologia rigorosa** e a **hermenêutica esotérica**, defendendo que a prática rúnica autêntica só floresce quando enraizada no solo fértil da narrativa cosmogônica e no arquétipo do sacrifício iniciático, equilibrando **vit** (conhecimento intelectual) com **máttr** (poder prático).
 
-## Ginnungagap, o abismo bocejante
+## Ginnungagap, O Abismo Bocejante
 A origem das runas é inseparável da narrativa da origem de tudo, antes da ordenação dos nove mundos, existia apenas o **Ginnungagap**  o vazio atroz ou abismo bocejante, e este não era mera ausência, mas uma **potência latente indiferenciada**, uma matriz de possibilidade infinita, tensionada por dois princípios antitéticos:
 
 *   **Muspellheimr:** Ao sul, o reino do **fogo primordial**, da energia pura, expansiva e indomável, guardado pelo gigante *Surtr*.
@@ -36,7 +36,7 @@ A vida surge do **encontro catastrófico e criativo** entre estes princípios, n
 
 
 
-### Os Onze nomes do Caos primordial: uma construção mítica posterior
+### Os Onze Nomes do Caos Primordial: Uma Construção Mítica Posterior
 
 Na narrativa de Snorri, os **Élivágar** são um conceito coletivo, um conjunto anônimo de correntes venenosas que são a própria essência fluida de Niflheim, no entanto a imaginação mitológica, sempre ávida por detalhes, buscou nomear esses rios da origem, com a tradição posterior e através de uma interpretação erudita se associou os Élivágar a uma famosa lista de rios cósmicos mencionados em outro texto fundacional como o poema **Grímnismál (Os Ditos de Grimnir)**, da _Edda Poética_.
 
@@ -81,20 +81,20 @@ Assim, os **Élivágar**, sejam vistos como um coletivo ou como os onze rios no
 
 Eles são o fluxo primordial da potencialidade bruta, o estado líquido e informe de toda a existência antes da coagulação no gelo (a estase) e do posterior derretimento pelo fogo (a energia ativa) que dará origem a tudo o que é, a tudo que existe, eles são o somatório de todas as possibilidades, desde violentas, vastas, perigosas à férteis, ao se encontrarem com o fogo oposto, desencadeiam o ato criativo que ecoa em todos os níveis do mundo, inclusive na revelação das runas.
 
-## O som primordial e a ordenação do cosmos
+## O Som Primordial e a Ordenação do Cosmos
 Esta narrativa física possui um correlato metafísico fundamental onde a colisão entre fogo e gelo gerou uma **vibração primordial**, um **som fundador** que reverberou através do Ginnungagap. 
 Este som é a primeira manifestação do **Galdr**, o canto de poder que modela a realidade, é deste conhecimento filosófico nórdico que as runas, como **padrões vibratórios e ideacionais estáveis**, emergem, sendo os **fonemas do cosmos**, as unidades de significado que compõem a linguagem com a qual se dialoga com o destino (*Örlög*), ou seja a runa é, assim, a **forma gráfica de uma frequência sonora específica**.
 
 Os descendentes de Búri, os deuses **Óðinn, Vili e Vé**, personificaram a consciência ordenadora. Após vencerem Ymir, utilizaram seu corpo para forjar o mundo conhecido (**Midgard**), a sua carne tornou-se a terra e seu sangue os mares, seus ossos as montanhas e seu crânio o céu. 
 No centro deste cosmos ergue-se **Yggdrasil**, o Freixo do Mundo, eixo (*axis mundi*) que conecta e sustenta todos os **Nove Reinos** junto às suas raízes, no **Poço de Urdr**, as três **Nornas** (Urdr, Verðandi, Skuld) tecem os fios do destino de todos os seres.
 
-## A auto-imolação de Óðinn
+## A Auto-Imolação de Óðinn
 Se as runas são os constituintes do real, seu acesso consciente não é trivial, o mito de sua conquista é um arquétipo universal de iniciação, narrado no **Hávamál** (estrofes 138-141) **Óðinn**, o *Allföðr*, em sua busca por *vit* e *máttr*, submete-se a um rito extremo.
 
 > *"Veit ek, at ek hekk vindga meiði á nætr allar níu, geiri undaðr ok gefinn Óðni, sjálfr sjálfum mér..."*
 > (“Sei que pendurei na árvore batida pelo vento, nove noites inteiras, ferido pela lança e dedicado a Óðinn, eu a mim mesmo...”)
 
-### Análise simbólica do rito
+### Análise Simbólica do Rito
 *   **O Local:** **Yggdrasill**. Pendurar-se nela é posicionar-se no **centro do cosmos**.
 *   **O Instrumento:** Sua lança **Gungnir**, a ferida autoinfligida é um ato de **vontade soberana**.
 *   **O Tempo:** **Nove noites**, um ciclo completo de gestação no útero do mistério.
@@ -108,7 +108,7 @@ No ápice deste sofrimento, no silêncio entre os mundos, ocorre a revelação.
 A **conquista** (*ná*) é ativa e violenta, as runas são **arrancadas** do abismo do inconsciente cósmico, o grito é o primeiro *Galdr* pós-descoberta, Óðinn retorna transformado no **Rúnatýr** (Deus das Runas). 
 Este mito estabelece que o conhecimento rúnico é adquirido através de um **processo de morte e renascimento da consciência**.
 
-### As oito proficiências
+### As Oito Proficiências
 O mito fornece a autoridade, na estrofe 144 do Hávamál fornece a **metodologia operativa**: as *Átta Skil Óðins* (Oito Proficiências). 
 O imperativo **“Veistu hvé skal?”** (“Sabes tu como se deve?”) estabelece o **rito correto** e a **obrigação sagrada** como pré-condições.
 
@@ -127,7 +127,7 @@ As proficiências formam um **ciclo operativo completo e não-linear**:
 
 Este ciclo garante que a magia rúnica seja um processo **integral e responsável**.
 
-## Da Teoria à Práxis: Forjando o Vínculo, a criação do conjunto rúnico
+## Da Teoria à Práxis: Forjando o Vínculo, A Criação do Conjunto rúnico
 
 ### A criação do conjunto rúnico
 A confecção do próprio conjunto é um *ritual de incorporação*, um **mini-Ragnarök interior** que destrói a ignorância para construir um instrumento de sabedoria.

@@ -140,7 +140,7 @@ if (Test-Path "pandoc-docx.yaml") {
     $argumentosPandoc += "--metadata-file=metadata.yaml"
     $argumentosPandoc += "--toc"
     $argumentosPandoc += "--toc-depth=3"
-    $argumentosPandoc += "--number-sections"
+    $argumentosPandoc += " --no-number-sections"
     $argumentosPandoc += "--standalone"
     Write-Host "Usando configurações de: metadata.yaml (modo fallback)" -ForegroundColor Yellow
 }

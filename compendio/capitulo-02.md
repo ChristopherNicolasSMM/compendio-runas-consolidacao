@@ -1,40 +1,138 @@
 # Capítulo II
-##### O Primeiro Ætt de Freyr e Freyja – O Ciclo da Vida Manifesta
+##### O Primeiro Ætt: Freyr e Freyja – O Ciclo da Vida Manifesta
+
+
+---
+---
+---
+
+## Introdução ao Universo Nórdico e às Runas
+
+Bem-vindos, exploradores da sabedoria ancestral!
+Embarcamos hoje numa jornada fascinante pelo coração da mitologia nórdica, um universo rico em deuses, heróis e seres míticos que ainda ecoam em nosso imaginário e prática espiritual.
+
+No centro deste cosmos está **Óðinn**, o *Allföðr* (Pai de Todos), a divindade mais complexa e reverenciada do panteão nórdico, sendo o Deus da sabedoria, da guerra, da poesia e da magia, é frequentemente descrito como um ancião de um só olho, tendo sacrificado o outro em troca de conhecimento no **Poço de Mímir**, como bem observou Neil Gaiman em *Mitologia Nórdica*, Óðinn é “o mais sábio, o mais ardiloso e o mais enigmático dos deuses”, ele é o líder dos **Æsir**, patrono de poetas e xamãs, sua busca incessante pelo *vit* (sabedoria) o levou a sacrifícios extremos, incluindo a autoimolação em **Yggdrasill** para conquistar as runas.
+
+Sua natureza multifacetada revela-se em seus muitos nomes, cada um refletindo um aspecto de seu poder:
+
+- **Allföðr** – Pai de Todos  
+- **Valföðr** – Pai dos Escolhidos (dos *einherjar* no Valhöll)  
+- **Hrafnáss** – Deus dos Corvos (companheiro de Huginn e Muninn)  
+- **Grímnir** – O Encapuzado (o que viaja disfarçado)  
+- **Yggr** – O Terrível (associado ao *galdr* e à guerra)  
+- **Sigföðr** – Pai da Vitória  
+- **Viðarr** – Mestre da Magia
+
+Dominar as runas é, em certa medida, seguir os passos de Óðinn, mergulhar na profundidade do conhecimento e da prática espiritual através do sacrifício da ignorância. 
+Como lembra Gaiman, Óðinn “pagou o preço pelo conhecimento com seu próprio sofrimento”. 
+Ao aprender e praticar as runas, honramos esse legado de busca e transformação.
+
+
+### A Origem e Natureza das Runas
+
+A origem histórica das runas perde-se no tempo, mas sua essência arquetípica é atemporal, desde os primeiros símbolos do Paleolítico, usados em magias simpáticas para caça e proteção, o ser humano buscou marcar a realidade com sinais carregados de intenção. 
+
+Entre os séculos II e VIII d.C., consolidou-se entre os povos germânicos um alfabeto conhecido como **Futhark Antigo**, cujo nome como vimos anteriormente deriva da raiz **rūn** — “segredo”, “sussurro”, “mistério”.
+
+Mais do que letras, as runas são **entidades energéticas cristalizadas, podemos comparar também como portais de poder**, padrões vibratórios que estruturam o real, e trabalhar com elas é acessar **arquétipos** (formas-pensamento gravadas no inconsciente coletivo), criadas por necessidades humanas universais (proteção, abundância, transformação, etc.). 
+Cada runa é uma porta para uma força cósmica específica, acessível através da prática oracular e do *galdr* (canto de poder) e da visualização.
+
+Por exemplo:
+
+- **Hagalaz** (o granizo) representa forças de transformação abrupta, o “gelo” que quebra padrões.  
+- **Thurisaz** (o espinho/gigante) simboliza tanto a proteção quanto o perigo, a força defensiva e o caos necessário.  
+- **Fehu** (o gado) encarna a riqueza em movimento, a prosperidade como fluxo vivo.
+
+As runas “conversam” conosco através de símbolos, sons e intenção, ao entoar seus *galdr* e magnetizá-las com nossa voz e presença, ativamos sua energia, um princípio que encontra eco na física quântica, onde o observador influencia o campo energético.
+
+
+### Runas como Oráculo: Visão, não Predestinação
+
+Neste ponto devo trazer uma ressalva, um "pé no chão", as runas não “preveem” um futuro imutável, mas sim como todo oráculo digno desse nome, elas capturam a **energia do momento** e refletem as **probabilidades em curso**. 
+Cada leitura é um diálogo com o *Örlög* (destino tecido), veremos sobre isso mais a frente, não uma sentença gravada. 
+O futuro permanece maleável, e a própria consciência trazida pela leitura já o modifica, assim, as runas funcionam como **ferramentas de clarificação, alerta e orientação**, não de adivinhação absoluta, mas sim um sistema divinatório e não adivinhatório. 
+
+---
+
+### Os Sistemas Rúnicos: Breve Distinção
+
+Ao longo da história, o alfabeto rúnico evoluiu em diferentes ramos:
+
+| Sistema | Período | Runas | Características |
+|--------|---------|-------|----------------|
+| **Futhark Antigo** | séc. II–VIII d.C. | 24 | Original, usado em magia e inscrições por tribos germânicas. |
+| **Futhark Jovem** | séc. IX–XII d.C. | 16 | Simplificado, usado na Era Viking (ramos longos e curtos). |
+| **Futhorc Anglo-Saxão** | séc. V–XI d.C. | até 33 | Expandido para sons do inglês antigo, usado em manuscritos. |
+
+Neste compêndio, focaremos no **Futhark Antigo**, o sistema mais completo e arquetípico, com suas 24 runas organizadas em três *Ættir* (famílias). Cada *Ætt* corresponde a um ciclo cósmico e é regido por forças divinas específicas — começando pelo **Primeiro Ætt de Freyr e Freyja**, o ciclo da vida manifesta.
+
+---
+
+### Um Convite à Jornada
+
+Agora que vimos um pouco mais sobre o que estamos a estudar, e colocamos nosso foco e consciência alinhados as expectativas e ao processo, quero lembrar a todos que esta prática é, acima de tudo, um caminho de **autodescoberta e devoção**, ao estudar cada runa, não apenas aprendemos símbolos, mas estabelecemos relação com forças ancestrais que jamais morreram, pois um deus só morre quando é esquecido e ao vivermos sua energia, mantemo-los vivos no *cosmos* e em nós.
+
+Preparem-se, pois, para adentrar os **Nove Mundos** da cosmovisão nórdica, compreender cada reino e cada runa, e aplicar esse conhecimento em tiragens, *galdr* e práticas diárias. 
+
+Deixem o coração e a mente abertos. 
+
+A jornada começa agora.
+
 
 
 ## A Estrutura Tripartida: Os Três Pilares do Cosmos Rúnico
 
-O Futhark Antigo não é uma mera sequência alfabética, mas um **mapa sagrado tríplice** da realidade. Suas vinte e quatro runas organizam-se em três grupos de oito, os **Ættir** (singular: *Ætt*), palavra que significa tanto "família" quanto "direção" ou "lei". Esta divisão tripartida reflete um princípio cósmico profundo, observável em diversas culturas indo-europeias: a **estrutura de três funções ou reinos da existência**.
+O Futhark Antigo não é uma mera sequência alfabética, mas um **mapa sagrado tríplice** da realidade, onde suas vinte e quatro runas organizam-se em três grupos de oito, os **Ættir**  que é o singular de *Ætt*, palavra que significa tanto "família" quanto "direção" ou "lei", esta divisão tripartida reflete um princípio cósmico profundo, observável em diversas culturas indo-europeias a **estrutura de três funções ou reinos da existência**.
 
 Cada *Ætt* representa um ciclo arquetípico completo de manifestação, sob a regência de uma força divina específica:
 
-1.  **O Primeiro Ætt (de Freyr e Freyja):** Rege o **mundo manifesto** – a **matéria animada**, a vida biológica, a ordem social e os ciclos naturais de crescimento e abundância. É o reino dos **Vanir**.
-2.  **O Segundo Ætt (de Heimdallr):** Rege o **mundo intermediário** – as **forças da consciência**, do destino, da proteção, da transformação e dos processos que ligam o céu e a terra, o interno e o externo. É o reino dos **guardiões e mediadores**.
-3.  **O Terceiro Ætt (de Týr):** Rege o **mundo da ordem cósmica e do sacrifício** – a **lei suprema**, a justiça, a soberania, o espírito puro e o renascimento através da perda consciente. É o reino da **soberania ética** dos Æsir.
+**O Primeiro Ætt (de Freyr e Freyja):** Rege o **mundo manifesto**
+A **matéria animada**, a vida biológica, a ordem social e os ciclos naturais de crescimento e abundância. É o reino dos **Vanir**.
+
+**O Segundo Ætt (de Heimdallr):** Rege o **mundo intermediário**.
+Onde as **forças da consciência**, do destino, da proteção, da transformação e dos processos que ligam o céu e a terra, o interno e o externo, é o reino dos **guardiões e mediadores**.
+
+**Já o terceiro Ætt (de Týr):** Rege o **mundo da ordem cósmica e do sacrifício**,
+A **lei suprema**, a justiça, a soberania, o espírito puro e o renascimento através da perda consciente, é o reino da **soberania ética** dos Æsir.
+
+
+Vamos seguir estudando por meio dos poemas sendo os mais fiéis ao viés pagão e por isso talvez menos compreendidos adequadamente nos dias atuais, os poemas Norueguês e Islandês, e os poemas anglo saxão não mais "cristianizados" se assim podemos dizer. 
+Pessoalmente gosto muito da visão os 2 primeiros mas como todo estudioso, devemos sempre lembrar das 8 habilidades que Óðinn nos ensina e com isso acredito que todos os 3 tem sua importância, por isso assim como os povos antigos sejam eles quais forem, e assim como os próprios nórdicos, não segregam o conhecimento, assim também o faremos, somando para compreender melhor. 
 
 Este capítulo desvendará o **Primeiro Ætt**, o fundamento sobre o qual toda a experiência se constrói: o ciclo da Vida que surge, cresce, floresce e frutifica.
 
+
 ## Os Regentes Vanir: Freyr e Freyja – Os Senhores da Fertilidade e da Fecundidade
 
-Para compreender a energia que permeia estas oito primeiras runas, devemos conhecer as divindades que as governam: os irmãos **Freyr** e **Freyja**, os mais proeminentes dos **Vanir**.
+Para compreender a energia que permeia estas oito primeiras runas, devemos conhecer as divindades que as governam, os irmãos:  **Freyr** e **Freyja**, os mais proeminentes dos **Vanir**.
 
-Os **Vanir** constituem um panteão distinto dos **Æsir** (como Óðinn e Thórr). Enquanto os Æsir personificam a soberania, a guerra, a sabedoria e a ordem social, os Vanir são as divindades da **natureza fecunda**, da **fertilidade**, da **prosperidade material**, da **magia sensorial** (*seiðr*) e da **paz frutífera**. Após uma guerra inicial, Æsir e Vanir trocaram reféns e uniram-se, simbolizando a **integração necessária entre a ordem cultural (Æsir) e a força vital natural (Vanir)**.
+Os **Vanir** constituem um panteão distinto dos **Æsir** (como Óðinn e Thórr). 
 
-*   **Freyr ("O Senhor"):** Deus da **paz** (*friðr*), da **prosperidade**, da **chuva e do sol fertilizantes**, e da **virilidade sagrada**. Como rei sacro, sua presença garante colheitas abundantes e bem-estar ao seu povo. Seus símbolos falam de seu domínio:
+Enquanto os Æsir personificam a soberania, a guerra, a sabedoria e a ordem social, os Vanir são as divindades da **natureza fecunda**, da **fertilidade**, da **prosperidade material**, da **magia sensorial** (*seiðr*) e da **paz frutífera**, após uma guerra inicial, Æsir e Vanir trocaram reféns e uniram-se, simbolizando a **integração necessária entre a ordem cultural (Æsir) e a força vital natural (Vanir)**.
+
+*   **Freyr ("O Senhor"):** Deus da **paz** (*friðr*), da **prosperidade**, da **chuva e do sol fertilizantes**, e da **virilidade sagrada**. Como rei sacro, sua presença garante colheitas abundantes e bem-estar ao seu povo, seus símbolos falam de seu domínio:
     *   **Gullinbursti:** O javali de cerdas douradas que puxa sua carruagem, simbolizando força fecunda e prosperidade que "fuça" a terra para encontrar riquezas.
     *   **Skíðblaðnir:** O navio mágico que sempre tem vento favorável e pode ser dobrado ao tamanho de um lenço, representando **jornadas bem-sucedidas** e a **adaptabilidade da fortuna**.
     *   A renúncia à sua espada auto-combatente para conquistar a gigante **Gerðr** ensina que, neste *Ætt*, a verdadeira força está no **desejo**, na **atração** e no **crescimento orgânico**, não na coerção.
 
-*   **Freyja ("A Senhora"):** Deusa do **amor**, da **beleza**, da **sexualidade sagrada**, da **magia *seiðr*** e da **morte seletiva**. Senhora de **Fólkvangr** ("Campo do Povo"), para onde vai metade dos guerreiros mortos, conecta a paixão da vida ao mistério da morte e renascimento. Seus atributos definem a circulação de energia:
+*   **Freyja ("A Senhora"):** Deusa do **amor**, da **beleza**, da **sexualidade sagrada**, da **magia *seiðr*** e da **morte seletiva**, senhora de **Fólkvangr** ("Campo do Povo"), para onde vai metade dos guerreiros mortos, conecta a paixão da vida ao mistério da morte e renascimento, os seus atributos definem a circulação de energia:
     *   Seu colar **Brísingamen**, obtido através de pactos, simboliza a **riqueza conquistada pelo engajamento**.
     *   Suas **lágrimas de ouro vermelho** mostram a **riqueza que brota da emoção profunda**.
     *   Como mestra que ensina o *seiðr* a Óðinn, ela representa a **magia prática, corpórea e de destino** que complementa a magia rúnica mais intelectual do Pai de Todos.
 
-Juntos, Freyr e Freyja governam o **ciclo completo da energia vital no plano físico**: o impulso (desejo), a atração, o crescimento, a fruição, a colheita, a troca e o prazer da existência encarnada. Cada runa deste *Ætt* é uma faceta deste grande ciclo.
+Juntos, Freyr e Freyja governam o **ciclo completo da energia vital no plano físico**, o impulso (desejo), a atração, o crescimento, a fruição, a colheita, a troca e o prazer da existência encarnada. Cada runa deste *Ætt* é uma faceta deste grande ciclo.
 
-\newpage
 
-### Análise das Runas do Primeiro Ætt
+
+
+
+
+# Análise das Runas do Primeiro Ætt
+
+
+
+
+
 
 ## ᚠ - Fehu: O Gado, o Fogo do Mar e a Ética do Fluxo
 

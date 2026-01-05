@@ -26,10 +26,10 @@ metadata:
 variables:
   documentclass: book
   geometry:
-    - top=2.55cm
-    - bottom=2.55cm
-    - left=2cm
-    - right=2cm
+    - top=2.5cm
+    - bottom=2.5cm
+    - left=2.5cm
+    - right=2.5cm
   fontsize: 12pt
   linestretch: 1.5
   mainfont: "Calibri"
@@ -39,7 +39,7 @@ variables:
 # Opções de formatação DOCX
 toc: true
 toc-depth: 3
-number-sections: true
+number-sections: false
 standalone: true
 wrap: none
 
