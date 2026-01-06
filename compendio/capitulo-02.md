@@ -193,16 +193,18 @@ Enquanto Fehu é potencial em movimento, Uruz é o **poder latente** que torna o
 
 Thórr não é o deus da estratégia (Óðinn), mas da **força aplicada**, do vigor que protege Midgard, ele é a força vital da comunidade, assim como Uruz é a força vital do indivíduo, a evolução semântica do nome é reveladora:
 
-*   **Poema Anglo-Saxão (preserva o sentido original):**
-    *   *"Úr byþ anmod ond oferhyrned, felafrecne deor, feohteþ mid hornum mære morstapa; þæt is modig wuht."*
-    *   **"O Auroque é solitário e de chifres altos, fera muito feroz, luta com os chifres, famoso pisador do pântano; essa é uma criatura corajosa."**
-    *   Foco total na **força indomável, solitária e desafiadora**, o "pisador do pântano" conecta-o às forças telúricas e à capacidade de enfrentar terrenos difíceis, adversidades.
 
 *   **Poemas Nórdicos (mostram uma transformação semântica):**
     *   Usam **"Úr"**, que significa **"chuvisco/garoa"** ou **"escória/ferrugem"**.
     *   **Poema Islandês:** *"Úr er skýja grátr ok skára þverrir ok hirðis hatr."* – **"A Chuva é lamento das nuvens e destruidor da colheita e ódio do pastor."**
     *   Isto pode ser uma corrupção fonética ao longo do tempo, ou uma **profunda metáfora alquímica**, a força bruta, o ferro, exposta aos elementos transforma-se em ferrugem ,fracasso, doença, ou é **purificada e temperada** pela "chuva" das provas e desafios, saindo mais resiliente. 
     * Uruz, portanto, também é a **força que se revela e se fortalece através da adversidade**.
+
+*   **Poema Anglo-Saxão (preserva o sentido original):**
+    *   *"Úr byþ anmod ond oferhyrned, felafrecne deor, feohteþ mid hornum mære morstapa; þæt is modig wuht."*
+    *   **"O Auroque é solitário e de chifres altos, fera muito feroz, luta com os chifres, famoso pisador do pântano; essa é uma criatura corajosa."**
+    *   Foco total na **força indomável, solitária e desafiadora**, o "pisador do pântano" conecta-o às forças telúricas e à capacidade de enfrentar terrenos difíceis, adversidades.
+
 
 **Práxis Mágica e Oracular:**
 *   **Uso no Galdr (Magia):**
