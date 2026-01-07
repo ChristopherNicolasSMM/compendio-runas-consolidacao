@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "eb67b76be3302328",
+        "id": "032781bc46dd74a4",
         "type": "tabs",
         "children": [
           {
-            "id": "1df27f52cca8c631",
+            "id": "0e7b446372a08bad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "compendio/capitulo-02.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "capitulo-02"
+              "title": "Nova aba"
             }
           }
         ]
@@ -183,10 +179,10 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "1df27f52cca8c631",
+  "active": "0e7b446372a08bad",
   "lastOpenFiles": [
-    "compendio/capitulo-01.md",
     "compendio/capitulo-02.md",
+    "compendio/capitulo-01.md",
     "~$mpendio_Futhark_Antigo.docx",
     "Compendio_Futhark_Antigo.docx",
     "custom-reference.docx",
