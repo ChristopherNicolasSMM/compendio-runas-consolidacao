@@ -11,10 +11,14 @@
             "id": "0e7b446372a08bad",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "compendio/capitulo-03.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "capitulo-03"
             }
           }
         ]
@@ -182,11 +186,11 @@
   "active": "0e7b446372a08bad",
   "lastOpenFiles": [
     "compendio/capitulo-02.md",
+    "compendio/capitulo-03.md",
     "compendio/capitulo-01.md",
     "~$mpendio_Futhark_Antigo.docx",
     "Compendio_Futhark_Antigo.docx",
     "custom-reference.docx",
-    "compendio/capitulo-03.md",
     "Custom Reference - Templates/custom-reference-a5.docx",
     "Custom Reference - Templates/custom-reference.docx",
     "Custom Reference - Templates",
