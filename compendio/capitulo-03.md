@@ -1,10 +1,7 @@
----
-title: "Capítulo III: O Segundo Ætt de Heimdallr"
----
+# Capítulo III
+##### O Segundo Ætt de Heimdallr - A Ordem do Tempo e do Destino
 
-# Capítulo III: O Segundo Ætt de Heimdallr – A Ordem do Tempo e do Destino
 
-\newpage
 
 ## A Transição Cósmica: Do Mundo Manifesto ao Mundo da Lei
 
@@ -26,9 +23,8 @@ Para compreender a energia que permeia estas oito runas centrais, devemos nos vo
 
 Heimdallr rege este Ætt porque cada runa aqui trata de um **princípio ordenador, um limiar ou uma força de transição** que exige vigilância. É o Ætt onde se aprende a **escutar o destino** (Nauthiz), a **ver através do gelo** (Isa), a **manter-se firme no eixo** (Eihwaz) e a **erguer a mão em defesa** (Algiz), culminando na **luz vitoriosa** (Sowilo) que é a recompensa da percepção correta.
 
-\newpage
 
-### Análise das Runas do Segundo Ætt
+
 
 ## ᚺ - Hagalaz: A Semente de Gelo e os Padrões
 

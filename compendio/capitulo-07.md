@@ -1,10 +1,8 @@
----
-title: "Capítulo VII: A Arte Oracular e a Ética do Wyrd"
----
+# Capítulo VII
+##### A Arte Oracular e a Ética do Wyrd - Do Espelho à Tecelagem
 
-# Capítulo VII: A Arte Oracular e a Ética do Wyrd – Do Espelho à Tecelagem
 
-\newpage
+
 
 ## 7.1. Oráculo como Espelho Dinâmico: A Leitura do *Verðr* (O Tornar-Se)
 

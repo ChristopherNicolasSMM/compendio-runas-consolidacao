@@ -1,10 +1,8 @@
----
-title: "Capítulo VIII: O Corpo como Altar"
----
+# Capítulo VIII
+##### O Corpo como Altar - Sintonia Somática, Jornada do Mago e a Ética do Wyrd
 
-# Capítulo VIII: O Corpo como Altar – Sintonia Somática, Jornada do Mago e a Ética do Wyrd
 
-\newpage
+
 
 ## 8.1. O Microcosmo Rúnico: O Corpo como Mapa da Realidade Cósmica
 

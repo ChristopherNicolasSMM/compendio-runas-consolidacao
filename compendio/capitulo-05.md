@@ -1,10 +1,8 @@
----
-title: "Capítulo V: O Galdr"
----
+# Capítulo V
+##### O Galdr - A Arquitetura do Som Primordial e a Vibroturgia do Destino
 
-# Capítulo V: O Galdr – A Arquitetura do Som Primordial e a Vibroturgia do Destino
 
-\newpage
+
 
 ## 5.1. Do Caos ao Cosmos: A Gênese Vibracional e o Primeiro Galdr
 

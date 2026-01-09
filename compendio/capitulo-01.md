@@ -144,7 +144,7 @@ Não se compra Runas e muito menos as confecciona por meio de plástico, resina 
 
 **A Coloração (Fáa):** Aplicar pigmento **vermelho** (ocre, tintura vegetal) no entalhe, visualizando a runa acendendo-se como uma brasa, este ato **sela** a força vital no glifo.
 
-#### A consagração final, senda e o pacto
+### A consagração final, senda e o pacto
 
 **Energização Individual:** Soprar (*önd*) sobre cada runa, sussurrando seu nome e intento.
 

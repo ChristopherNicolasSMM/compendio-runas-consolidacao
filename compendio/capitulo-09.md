@@ -1,8 +1,4 @@
----
-title: "Capítulo IX: A Alquimia dos Elementos"
----
-
-# Capítulo IX: 
+# Capítulo IX
 ##### A Alquimia dos Elementos – Prática Mágica com Runas, Ervas e Matéria
 
 \newpage

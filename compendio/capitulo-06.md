@@ -1,10 +1,7 @@
----
-title: "Capítulo VI: As Bindrunes"
----
+# Capítulo VI
+##### As Bindrunes - A Sinergia Geométrica e a Arquitetura do Destino
 
-# Capítulo VI: As Bindrunes – A Sinergia Geométrica e a Arquitetura do Destino
 
-\newpage
 
 ## 6.1. Da Letra à Fórmula: A Alquimia dos Símbolos
 

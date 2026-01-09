@@ -117,8 +117,6 @@ Juntos, Freyr e Freyja governam o **ciclo completo da energia vital no plano fí
 
 
 
-# Análise das Runas do Primeiro Ætt
-
 
 ## ᚠ - Fehu: O Gado, o Fogo do Mar e a Ética do Fluxo
 
