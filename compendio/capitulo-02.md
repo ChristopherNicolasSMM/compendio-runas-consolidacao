@@ -117,14 +117,7 @@ Juntos, Freyr e Freyja governam o **ciclo completo da energia vital no plano fí
 
 
 
-
-
-
 # Análise das Runas do Primeiro Ætt
-
-
-
-
 
 
 ## ᚠ - Fehu: O Gado, o Fogo do Mar e a Ética do Fluxo
@@ -197,11 +190,13 @@ Enquanto Fehu é potencial em movimento, Uruz é o **poder latente** que torna o
 Thórr não é o deus da estratégia (Óðinn), mas da **força aplicada**, do vigor que protege Midgard, ele é a força vital da comunidade, assim como Uruz é a força vital do indivíduo, a evolução semântica do nome é reveladora:
 
 
-*   **Poemas Nórdicos (mostram uma transformação semântica):**
+*   **Poema Islandês**
     *   Usam **"Úr"**, que significa **"chuvisco/garoa"** ou **"escória/ferrugem"**.
-    *   **Poema Islandês:** *"Úr er skýja grátr ok skára þverrir ok hirðis hatr."* – **"A Chuva é lamento das nuvens e destruidor da colheita e ódio do pastor."**
-    
-    *  **Poema Norueguês:** _"Úr er af illu járne; opt løypr reinn á hjarne."_ – **"A Escória é do ferro ruim; muitas vezes a rena corre sobre a neve congelada."**
+    *   **Poema Islandês:** *"Úr er skýja grátr ok skára þverrir ok hirðis hatr."*
+    * **"A Chuva é lamento das nuvens e destruidor da colheita e ódio do pastor."**
+
+    *  **Poema Norueguês:** _"Úr er af illu járne; opt løypr reinn á hjarne."_ 
+    * **"A Escória é do ferro ruim; muitas vezes a rena corre sobre a neve congelada."**
     
     Isto pode ser uma corrupção fonética ao longo do tempo, ou uma **profunda metáfora alquímica**, a força bruta, o ferro, exposta aos elementos transforma-se em ferrugem (escória), fracasso, doença, ou é **purificada e temperada** pela "chuva" das provas e desafios, saindo mais resiliente, poema norueguês contrasta a "escória" (o resíduo impuro) com a rena correndo sobre o gelo duro (_hjarne_), talvez simbolizando a força pura que emerge após a purificação.
     

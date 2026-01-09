@@ -34,6 +34,21 @@ Estas obras fornecem o contexto, a análise histórica e a base filológica nece
 *   **Page, R. I.** *An Introduction to English Runes.* 2ª ed., Boydell Press, 1999. Focado no Futhorc anglo-saxão, é uma masterclass em como estudar runas a partir dos achados arqueológicos, analisando inscrições monumentais e amuletos.
 *   **McKinnell, John, et al.** *Runes, Magic and Religion: A Sourcebook.* Universität Wien, 2004. Uma coletânea preciosa de fontes primárias (romanas, medievais) que mencionam o uso mágico de runas, fornecendo contexto histórico real para a prática.
 
+
+alguns itens forão consultados daqui então tratar e incluir na bibliografia... 
+
+1. **Poema Rúnico Norueguês** (_Norwegian Rune Poem_):
+    - **Data**: Redigido por volta do século XIII (em nórdico antigo).
+    - **Fonte Sobrevivente**: Um único manuscrito do século XVII (Codex Upsaliensis, C 87).
+    - **Estrutura**: Fornece uma estrofe curta para cada uma das 16 runas do **Futhark Jovem**.
+        
+2. **Poema Rúnico Islandês** (_Icelandic Rune Poem_):
+    - **Data**: Redigido por volta do século XV (em nórdico antigo).
+    - **Fonte Sobrevivente**: Quatro manuscritos dos séculos XVII e XVIII.
+    - **Estrutura**: Também para o **Futhark Jovem** (16 runas), mas as estrofes são mais crípticas e, por vezes, mais mágicas.
+
+
+
 ### **🌌 Sobre Mitologia e Cosmologia**
 *   **Lindow, John.** *Norse Mythology: A Guide to Gods, Heroes, Rituals, and Beliefs.* Oxford University Press, 2001. **A melhor enciclopédia acadêmica de mitologia nórdica em um único volume.** Organizado alfabeticamente, com entradas densas, bem referenciadas e livres de romantizações modernas. Sua seção sobre "tempo e destino" é crucial para entender *Wyrd* e *Örlög*.
 *   **Simek, Rudolf.** *Dictionary of Northern Mythology.* Traduzido por Angela Hall, D.S. Brewer, 1993. Mais compacto e encyclopédico que Lindow, com forte foco em filologia e conexões linguísticas. Excelente para consultas rápidas e profundas.

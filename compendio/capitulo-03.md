@@ -211,32 +211,13 @@ Os poemas a celebram como a dádiva perene das forças da fertilidade:
 
 
 
-
-
-
-
-	revisar poemaaaaaaaaaaaaaaaaaaa
-
-
 *   **Poema Islandês (o mais explícito e significativo):**
     *   *"Ár er gumna góði ok gott sumar algróinn akr. annus avi."*
     *   **"O Ano é o bem dos homens e um bom verão e um campo totalmente crescido. (diz-se) ano de abundância."**
     
     *   E, crucialmente, acrescenta: **"ek segi at Freyr ok Freyja er árs allvaldar."**
     *   **"Eu digo que Freyr e Freyja são os governantes do ano."**
-    *   Esta conexão direta com os Vanir mostra Jera como a **ponte entre os Ættir**: é a força ordenadora do tempo aplicada ao domínio da fertilidade. É a lei que rege a abundância.
-* 
-	* Ár er gumna góði ok gott sumar algróinn akr."_
-	- **"O Ano é a benesse dos homens e um bom verão e um campo bem cultivado."**
-    
-	- (Nota: O trecho _"ek segi at Freyr ok Freyja er árs allvaldar"_ ["eu digo que Freyr e Freyja são os governantes do ano"], citado em algumas traduções, **não aparece na transcrição do PDF** do artigo base. A essência, porém, permanece intacta na associação direta com a fertilidade e a abundância).
-
-
-
-
-
-
-
+    *   Esta conexão direta com os Vanir mostra Jera como a **ponte entre os Ættir**, é a força ordenadora do tempo aplicada ao domínio da fertilidade. É a lei que rege a abundância.
 
 
 - **Poema Norueguês (século XIII – foco na generosidade ancestral):**
@@ -287,39 +268,11 @@ Eihwaz é a runa do **eixo imóvel em meio ao movimento**, da **transição cons
 Os poemas ressaltam sua natureza de ligação, resistência e perigo:
 
 
-
-
-
-
-
-
-
-
-
-
-*   **Poema Islandês (usa o nome *Ýr*, mas refere-se à mesma runa/árvore):**
-    *   *"Ýr er vetrgrønstr viða; vant er, er brennr, at svíða."*
-    *   **"O Teixo é o mais verde no inverno; quando queima, é difícil de apagar."**
-    *   Enfatiza sua **eterna vitalidade** (verde no inverno) e sua **resistência e poder** uma vez ativado (fogo difícil de apagar).
-    
-    * - _"Ýr er bendr bogi ok brotgiarn járn ok fífu fárbauti."_
+*   **Poema Islandês (usa o nome *Ýr* doYounger Futhark, mas refere-se à mesma runa/árvore):**
+    * "Ýr er bendr bogi ok brotgiarn járn ok fífu fárbauti."_
 	- **"O Arco é um arco curvado e ferro quebrando-se e arremessador de flechas."**
     
 - Aqui, a associação com o teixo como **matéria-prima para arcos** toma a frente, a runa representa a **ferramenta de tensão e projeção** e o arco curvado (_bendr bogi_), a ponta de ferro que se quebra no impacto (_brotgiarn járn_) e a ação do arqueiro (_fárbauti_, "causador de hostilidade"), esta é a **energia de Eihwaz em ação**: a resiliência sob tensão transformada em projeção direta e poderosa através de um limiar (o voo da flecha).
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 - **Poema Norueguês (século XIII – sob o nome _Ýr_):**
@@ -404,7 +357,7 @@ A fonte primária é o **Poema Anglo-Saxão**, pois os poemas nórdicos perderam
 ## ᛉ - Algiz: A Mão do Deus e a Defesa do Limiar
 
 *   **Nome Proto-Germânico:** *Algiz* (Alce) / *Elhaz* (Junco)
-*   **Fonema:** Z (fonema original, um "R" final vibrante) ou "R".
+*   **Fonema:** Z  fonema original.
 *   **Arquétipo Regente:** **Heimdallr, o Vigia**, e os **Espíritos Guardiões** (Dises, Fylgjur)
 *   **Elemento Primário:** **Ar em Defesa / Água de Pântano**
 *   **Mundo Associado:** **A Ponte Bifröst** e **qualquer limiar sagrado**
@@ -415,6 +368,14 @@ Algiz é a runa da **proteção divina ativa e da conexão instintiva com força
 Representa a **defesa que não vem da rigidez, mas da flexibilidade consciente**, como o junco que se dobra ao vento mas não quebra, ou o alce que usa seus chifres com agilidade mortal para proteger-se, é a **proteção vigilante e ativa de Heimdallr**, que **ouve e vê** a ameaça antes que ela cruze o limiar, também está ligada aos **espíritos protetores** ancestrais (*fylgjur*) e femininos (*dísir*), que guiam e defendem o clã.
 
 Os poemas focam em sua natureza defensiva, passivo-agressiva e ligada ao terreno:
+
+
+
+
+
+
+
+
 
 - **Poema Islandês (século XV – sob o nome _Lögr_, "Água"):**
     - _"Lögr er vellanda vatn ok viðr ketill ok glömmunga grund."_
@@ -428,6 +389,16 @@ Os poemas focam em sua natureza defensiva, passivo-agressiva e ligada ao terreno
         
     - Esta é uma bela estrofe, ela contrasta a **força natural, pura e fluida da proteção** (a cachoeira, _foss_) com a beleza estática e material (_gull_, _nosser_ – enfeites), a mensagem é que a **verdadeira proteção (Algiz) é um processo ativo e natural como uma cascata**, não um objeto decorativo. 
     - É uma força viva, não uma posse.
+
+
+
+
+
+
+
+
+
+
 
 *   **Poema Anglo-Saxão (sob o nome *Eolhx*, "Junco"):**
     *   *"Eolhx secg eard hæfþ oftust on fenne wexeð on wature, wundaþ grimme, blōde brēneð beorna gehwylcne ðe him ænigne onfeng gedeþ."*
@@ -484,19 +455,10 @@ Os poemas a celebram como força cósmica ordenadora e guia:
     *   Foca em seu papel de **iluminadora, alegradora** e **agente de mudança** ("vento" que leva embora o gelo).
     * 
 *   **Poema Norueguês:**
-    *   *"Sól er skýja skjöldr ok skínandi röðull ok ísa aldrtregi."*
-    *   **"O Sol é escudo das nuvens e roda brilhante e a ruína do gelo."**
-    *   Ela é **defesa** (escudo que protege dos elementos), **movimento ordenado eterno** (roda) e a **força de transformação positiva** que destrói a estagnação (o gelo de Isa).
 
-
-
-
-- _"Sól er landa ljóme; lúti ek helgum dóme."_
-- **"O Sol é a luz das terras; eu me curvo ao sagrado julgamento."**
-    
-- Esta versão adiciona uma dimensão de **reverência e submissão sagrada**. A luz solar não é apenas uma força física; é um **julgamento sagrado** (_helgum dóme_) que ilumina a verdade e merece reverência. Conecta Sowilo à justiça divina e à clareza moral.
-
-
+	- _"Sól er landa ljóme; lúti ek helgum dóme."_
+	- **"O Sol é a luz das terras; eu me curvo ao sagrado julgamento."**
+	- Esta versão adiciona uma dimensão de **reverência e submissão sagrada**. A luz solar não é apenas uma força física; é um **julgamento sagrado** (_helgum dóme_) que ilumina a verdade e merece reverência. Conecta Sowilo à justiça divina e à clareza moral.
 
 
 *   **Poema Anglo-Saxão (ligando-a à jornada segura):**
@@ -507,11 +469,6 @@ Os poemas a celebram como força cósmica ordenadora e guia:
 
 - _"Sigel semannum symble biþ on hihte, ðonne hī hine feriaþ ofer fisces beþ, oþ hī brimhengest bringeþ to lande."_
 - **"O Sol para os homens do mar é sempre uma esperança, quando eles a conduzem sobre o banho do peixe, até que o corcel do mar os traga à terra."**
-
-
-
-
-
 
 
 **Práxis Mágica e Oracular:**
@@ -537,22 +494,6 @@ Os poemas a celebram como força cósmica ordenadora e guia:
     * *"Eu carrego a luz do sol dentro de mim,*
     * *Sou são, sou forte, sou vitorioso,*
     * *Minha vontade brilha com clareza."*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -610,7 +551,7 @@ O **Segundo Ætt de Heimdallr** representa a transição da consciência do plan
 
 ### A Lição do Segundo Ætt
 
-Este conjunto ensina que a **verdadeira maestria não está em controlar o mundo, mas em aprender a fluir dentro das suas leis imutáveis**. É um treinamento para a **sobrevivência consciente**:
+Este conjunto ensina que a **verdadeira maestria não está em controlar o mundo, mas em aprender a fluir dentro das suas leis imutáveis**, é um treinamento para a **sobrevivência consciente.**
 
 *   A adversidade (**Hagalaz**) e a restrição (**Nauthiz**) forjam o caráter.
 *   A pausa (**Isa**) ensina paciência e introspecção.
@@ -620,8 +561,9 @@ Este conjunto ensina que a **verdadeira maestria não está em controlar o mundo
 *   A defesa vigilante (**Algiz**) protege a jornada sem torná-la rígida.
 *   A vitória final (**Sowilo**) é a **luz integrada** que surge não do triunfo sobre o cosmos, mas da **harmonia consciente com ele**.
 
-### Conclusão: A Consciência de Yggdrasill
 
-Dominar as energias do Segundo Ætt é desenvolver a **consciência do vigia (Heimdallr)**. É aprender a "ouvir a grama crescer e ver a lã nas ovelhas à distância" – perceber os fios do destino, os ciclos do tempo e os limiares entre os mundos. O praticante deixa de ser um mero habitante de Midgard para se tornar um **viajante consciente da Árvore do Mundo (Yggdrasill)**, capaz de suportar o frio de Niflheim, cruzar a ponte de gelo, receber os dados do destino e, finalmente, brilhar com a luz conquistada que é tanto um dom quanto uma realização.
+Dominar as energias do Segundo Ætt é desenvolver a **consciência do vigia (Heimdallr)**, é aprender a "ouvir a grama crescer e ver a lã nas ovelhas à distância", perceber os fios do destino, os ciclos do tempo e os limiares entre os mundos. 
+
+O praticante deixa de ser um mero habitante de Midgard para se tornar um **viajante consciente da Árvore do Mundo (Yggdrasill)**, capaz de suportar o frio de Niflheim, cruzar a ponte de gelo, receber os dados do destino e, finalmente, brilhar com a luz conquistada que é tanto um dom quanto uma realização.
 
 Esta jornada de **iniciação cósmica** prepara o terreno para o desafio final do **Terceiro Ætt de Týr**, que tratará do **sacrifício soberano, da justiça ética suprema e da transcendência do eu individual em favor de uma ordem maior e da herança duradoura**.
