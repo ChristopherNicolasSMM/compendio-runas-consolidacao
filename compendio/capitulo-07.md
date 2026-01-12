@@ -1,7 +1,6 @@
 # Capítulo VII:
+
 ##### A Arte Oracular e a Ética do Wyrd: Do Espelho à Tecelagem
-
-
 
 
 ## Oráculo como Espelho Dinâmico: A Leitura do *Verðr* (O Tornar-Se)
@@ -11,20 +10,22 @@ A prática oracular rúnica (*Spá*) distancia-se radicalmente de sistemas de ad
 **A Runas como Palavras-Código do Cosmos:** Cada glifo é uma **força ativa** (*megin*), um arquétipo vivo. Quando convocadas em um contexto oracular, elas não "contam a sorte", mas **ressonam** com as configurações energéticas do consulente e sua situação. Elas iluminam os **nós** na teia – pontos de tensão, potenciais, bloqueios e fluxos – oferecendo um *conselho ativo* diretamente da inteligência estruturante do universo. O oráculo, assim, é um diálogo entre a consciência humana e o cosmos, cujo objetivo final é **ampliar a consciência para uma ação mais sábia e alinhada**.
 
 ### **Prática Fundacional: A Runa do Dia e da Noite**
+
 Para cultivar a sensibilidade oracular, o praticante deve integrar o diálogo com as runas na rotina.
 
-*   **A Runa do Dia (Ao Amanhecer):**
-    *   **Pergunta:** "Qual energia arquetípica preciso **reconhecer e integrar** para navegar este dia com sabedoria e força?"
-    *   **Processo:** Após um momento de centramento, saca-se uma runa. Esta é a **Runa Visível**, o tom vibratório dominante, o desafio ou dom do dia. **Crucialmente**, saca-se uma segunda runa sem olhar, colocando-a **virada para baixo**. Esta é a **Runa Oculta**, representando a *dís* (espírito guardião) do dia, um aspecto do inconsciente, um potencial latente ou uma sombra que pede integração. À noite, reflete-se sobre como ambas se manifestaram.
-*   **A Runa da Noite (Ao Dormir):**
-    *   **Processo:** Após meditar sobre o dia que passou, escolhe-se (ou saca-se) uma runa que represente uma lição a ser integrada ou uma questão a ser esclarecida nos sonhos. Coloca-se sob o travesseiro. A runa atua como um **foco para o *draumsýn* (visão onírica)**, facilitando sonhos lúcidos ou reveladores e a cura durante o sono.
+- **A Runa do Dia (Ao Amanhecer):**
+    - **Pergunta:** "Qual energia arquetípica preciso **reconhecer e integrar** para navegar este dia com sabedoria e força?"
+    - **Processo:** Após um momento de centramento, saca-se uma runa. Esta é a **Runa Visível**, o tom vibratório dominante, o desafio ou dom do dia. **Crucialmente**, saca-se uma segunda runa sem olhar, colocando-a **virada para baixo**. Esta é a **Runa Oculta**, representando a *dís* (espírito guardião) do dia, um aspecto do inconsciente, um potencial latente ou uma sombra que pede integração. À noite, reflete-se sobre como ambas se manifestaram.
+
+- **A Runa da Noite (Ao Dormir):**
+    - **Processo:** Após meditar sobre o dia que passou, escolhe-se (ou saca-se) uma runa que represente uma lição a ser integrada ou uma questão a ser esclarecida nos sonhos. Coloca-se sob o travesseiro. A runa atua como um **foco para o *draumsýn* (visão onírica)**, facilitando sonhos lúcidos ou reveladores e a cura durante o sono.
 
 ## Wyrd e Örlög: A Teia, a Lei e a Liberdade Ética
 
 A profundidade da prática oracular exige um domínio claro da cosmologia do destino nórdico, centrada em dois conceitos interligados:
 
-*   **Örlög** ("Lei Primordial"): É o **alicerce causal**. São as condições pré-existentes lançadas no grande lago da existência: escolhas passadas (desta vida e de ancestrais), contratos kármicos, dons inatos e limitações estruturais. É o "fardo" e a "sorte" com a qual se inicia a jornada. O *Örlög* é imutável em sua natureza de *causa já lançada*; é o dado bruto da existência.
-*   **Wyrd** ("Tecitura"): É o **processo dinâmico e contínuo**. Personificado pelas três Nornas (Urðr, Verðandi, Skuld) ao pé de Yggdrasil, o Wyrd é a teia infinita que é constantemente tecida, desfeita e retecida a partir dos fios do Örlög e das novas ações (**Horlog**). É impessoal, sempre em fluxo, e conecta todas as coisas.
+- **Örlög** ("Lei Primordial"): É o **alicerce causal**. São as condições pré-existentes lançadas no grande lago da existência: escolhas passadas (desta vida e de ancestrais), contratos kármicos, dons inatos e limitações estruturais. É o "fardo" e a "sorte" com a qual se inicia a jornada. O *Örlög* é imutável em sua natureza de *causa já lançada*; é o dado bruto da existência.
+- **Wyrd** ("Tecitura"): É o **processo dinâmico e contínuo**. Personificado pelas três Nornas (Urðr, Verðandi, Skuld) ao pé de Yggdrasil, o Wyrd é a teia infinita que é constantemente tecida, desfeita e retecida a partir dos fios do Örlög e das novas ações (**Horlog**). É impessoal, sempre em fluxo, e conecta todas as coisas.
 
 **O Oráculo como Mapa do Ponto de Tensão:** Uma tiragem rúnica é um instantâneo de um **ponto específico na teia do Wyrd**. Ela mostra:
 1.  **Como os fios do Örlög** (causas passadas) estão se manifestando no presente.
@@ -34,15 +35,16 @@ A profundidade da prática oracular exige um domínio claro da cosmologia do des
 Assim, a runa nunca é uma "sentença" do Örlög. É um **instrumento de interação consciente** com ele. A leitura bem-feita não aprisiona no destino; **liberta para a ação responsável dentro do destino.**
 
 ### **A Ética do Oráculo: O Pacto Sagrado com as Nornas**
+
 Manusear as runas para si ou para outrem é firmar um **pacto sagrado** com as próprias forças do destino. O leitor (*Spámaðr* ou *Völva*) torna-se um **canal e um intermediário**, tocando fios sensíveis do Wyrd alheio. Daí emergem pilares éticos inegociáveis:
 
-1.  **Reverência (Blótskáld):** Pelo símbolo, pelo mistério e pela jornada única do consulente. O espaço (*vé*) deve ser preparado, a mente, purificada.
-2.  **Neutralidade Ativa e Empática:** O leitor é um **espelho**, não um juiz. Deve apresentar a mensagem rúnica com clareza, compaixão e isenção, sem projetar seus próprios desejos, medos ou julgamentos.
-3.  **Responsabilidade Energética (Víg) e a Lei da Troca:** Leituras que revelam traumas profundos, padrões kármicos pesados ou perigos iminentes (**"leitura de sombra"**) criam um impacto energético (*ágangr*). A ética nórdica, baseada na reciprocidade (*do ut des*), exige um **ato de equilíbrio**. Isso pode ser:
-    *   Uma **oferenda física** (pão, mel, hidromel) deixada na natureza após a leitura.
-    *   Uma **doação** para uma causa relacionada à questão tratada.
-    *   Um **sacrifício de tempo e energia** do leitor em estudo ou meditação focada pelo bem-estar do consulente.
-    *   A recomendação de um **ritual específico** de limpeza ou fortalecimento para o consulente realizar.
+1. **Reverência (Blótskáld):** Pelo símbolo, pelo mistério e pela jornada única do consulente. O espaço (*vé*) deve ser preparado, a mente, purificada.
+2. **Neutralidade Ativa e Empática:** O leitor é um **espelho**, não um juiz. Deve apresentar a mensagem rúnica com clareza, compaixão e isenção, sem projetar seus próprios desejos, medos ou julgamentos.
+3. **Responsabilidade Energética (Víg) e a Lei da Troca:** Leituras que revelam traumas profundos, padrões kármicos pesados ou perigos iminentes (**"leitura de sombra"**) criam um impacto energético (*ágangr*). A ética nórdica, baseada na reciprocidade (*do ut des*), exige um **ato de equilíbrio**. Isso pode ser:
+    - Uma **oferenda física** (pão, mel, hidromel) deixada na natureza após a leitura.
+    - Uma **doação** para uma causa relacionada à questão tratada.
+    - Um **sacrifício de tempo e energia** do leitor em estudo ou meditação focada pelo bem-estar do consulente.
+    - A recomendação de um **ritual específico** de limpeza ou fortalecimento para o consulente realizar.
 
 Esta prática honra as Nornas, equilibra a troca no Wyrd e protege o leitor da absorção passiva de *hamingja* (sorte/poder) ou energias pesadas alheias.
 
@@ -51,13 +53,16 @@ Esta prática honra as Nornas, equilibra a troca no Wyrd e protege o leitor da a
 A maestria oracular está em interpretar não runas isoladas, mas o **campo de forças vivo** criado por sua disposição e interação.
 
 ### **O Centro Gravitacional: Identificando o Sol da Tiragem**
+
 Em todo layout, há uma runa que atua como **eixo central**, o ponto de maior densidade energética. Esta não é necessariamente a runa no centro físico, mas a **Runa do Megin (Força)**.
-*   **Como Identificá-la:**
-    1.  **Resposta Somática:** A runa que provoca uma reação física clara no leitor (calor súbito, frio, formigamento, uma "pressão" no peito ou estômago).
-    2.  **Chamado Visual/Intuitivo:** A runa para a qual o olhar é irresistivelmente atraído primeiro, ou que "parece pulsar".
-    3.  **Repetição Temática:** Se o mesmo arquétipo aparece em várias runas de uma tiragem complexa, a essência desse arquétipo é o centro.
-    4.  **Síntese Lógica:** A runa que, sozinha, melhor resume o conflito ou oportunidade central da questão.
-*   **Função Oracular:** Todas as outras runas **orbitam e qualificam** este centro. Elas mostram as influências que o alimentam, o desafiam, o iluminam ou são eclipsadas por ele. A interpretação deve sempre **partir deste núcleo e expandir-se**.
+
+- **Como Identificá-la:**
+    1. **Resposta Somática:** A runa que provoca uma reação física clara no leitor (calor súbito, frio, formigamento, uma "pressão" no peito ou estômago).
+    2. **Chamado Visual/Intuitivo:** A runa para a qual o olhar é irresistivelmente atraído primeiro, ou que "parece pulsar".
+    3. **Repetição Temática:** Se o mesmo arquétipo aparece em várias runas de uma tiragem complexa, a essência desse arquétipo é o centro.
+    4. **Síntese Lógica:** A runa que, sozinha, melhor resume o conflito ou oportunidade central da questão.
+
+- **Função Oracular:** Todas as outras runas **orbitam e qualificam** este centro. Elas mostram as influências que o alimentam, o desafiam, o iluminam ou são eclipsadas por ele. A interpretação deve sempre **partir deste núcleo e expandir-se**.
 
 ### **A Alquimia das Polaridades: Conflito e Sinergia**
 A verdadeira história é contada pelas **relações** entre as runas.
@@ -84,9 +89,9 @@ Um ato oracular é um **ritual em miniatura**. Estruturá-lo com solenidade ampl
 1.  **Purificação (Hreinsa):** Lavar as mãos com água e sal. Passar fumaça de **salvia, zimbro ou alecrim** pelo espaço, pelas runas e ao redor do consulente.
 2.  **Criação do Vé (Espaço Sagrado):** Delimitar simbolicamente a área com um cordão, quatro pedras ou simplesmente visualizar um círculo de luz protetora.
 3.  **Invocações Iniciais (usando o Hávamál):**
-    *   (Segurando o saco de runas) *"Hávi kveða alla, / er hefirnafnskili..."* ("Ao Altíssimo saúdo, / aquele que tem nome de fama..." - invocando Óðinn, senhor das runas).
-    *   (Soprando suavemente sobre as runas) *"Ónd er inn gamli, / ór Ymis hausi..."* ("O sopro é do antigo, / da cabeça de Ymir..." - Hávamál 141, invocando a origem cósmica do poder rúnico).
-    *   (Voltando-se para as três direções) *"Urðr, Verðandi, Skuld, / í undirsjávarströndu..."* ("Urðr, Verðandi, Skuld, / na praia sob o mar..." - convocando as Nornas e seu poder de tecelagem).
+    - (Segurando o saco de runas) *"Hávi kveða alla, / er hefirnafnskili..."* ("Ao Altíssimo saúdo, / aquele que tem nome de fama..." - invocando Óðinn, senhor das runas).
+    - (Soprando suavemente sobre as runas) *"Ónd er inn gamli, / ór Ymis hausi..."* ("O sopro é do antigo, / da cabeça de Ymir..." - Hávamál 141, invocando a origem cósmica do poder rúnico).
+    - (Voltando-se para as três direções) *"Urðr, Verðandi, Skuld, / í undirsjávarströndu..."* ("Urðr, Verðandi, Skuld, / na praia sob o mar..." - convocando as Nornas e seu poder de tecelagem).
 4.  **Formulação da Pergunta:** Guiar o consulente a formular uma questão **aberta, focada no processo e na compreensão**. Exemplo transformador: **"O que preciso **compreender** sobre a dinâmica do meu relacionamento atual para caminhar em direção a uma união mais plena?"** em vez de **"Ele(a) me ama?"**.
 
 ### **Métodos de Tiragem Avançados**
@@ -140,3 +145,25 @@ Ao unir a **percepção** do padrão (*Spá*), a **compreensão** de sua origem 
 Esta tríade — **Mente (interpretação), Coração (ética), Vontade (ação mágica)** — é o coração pulsante da práxis rúnica integral. Ela capacita o indivíduo a não apenas navegar nas correntes do destino, mas a **dialogar com elas, aprender com elas e, com sabedoria, ajudar a dar forma à própria teia que o sustenta.**
 
 ---
+
+## Termos em Nórdico Antigo Utilizados neste Capítulo
+
+- **Ágangr** - Impacto energético, influência. Ver: [Índice Remissivo](./indice-remissivo.md#a)
+- **Alfar** (sing. Álf) - Elfos, seres da natureza. Ver: [Índice Remissivo](./indice-remissivo.md#a)
+- **Blótskáld** - Reverência, respeito sagrado. Ver: [Índice Remissivo](./indice-remissivo.md#b)
+- **Dís** (pl. Dísir) - Espírito guardião. Ver: [Índice Remissivo](./indice-remissivo.md#d)
+- **Do ut des** - "Dou para que dês", princípio de reciprocidade. Ver: [Índice Remissivo](./indice-remissivo.md#d)
+- **Draumsýn** - Visão onírica, sonhos reveladores. Ver: [Índice Remissivo](./indice-remissivo.md#d)
+- **Drengskapr** - Código de honra e ética nórdica. Ver: [Índice Remissivo](./indice-remissivo.md#d)
+- **Dvergar** (sing. Dvergr) - Anões, seres da terra. Ver: [Índice Remissivo](./indice-remissivo.md#d)
+- **Galdr** - Canto mágico, encantamento vibracional. Ver: [Índice Remissivo](./indice-remissivo.md#g)
+- **Hamingja** - Força vital, sorte pessoal. Ver: [Índice Remissivo](./indice-remissivo.md#h)
+- **Horlog** - Ações presentes que influenciam o Wyrd. Ver: [Índice Remissivo](./indice-remissivo.md#h)
+- **Megin** - Poder inerente, força ativa. Ver: [Índice Remissivo](./indice-remissivo.md#m)
+- **Nornas** - Três entidades que tecem o destino. Ver: [Índice Remissivo](./indice-remissivo.md#n)
+- **Örlög** - "Lei primordial" ou "destino pré-tecido". Ver: [Índice Remissivo](./indice-remissivo.md#o)
+- **Spá** - Arte da adivinhação, leitura oracular. Ver: [Índice Remissivo](./indice-remissivo.md#s)
+- **Vé** - Espaço sagrado, recinto ritual. Ver: [Índice Remissivo](./indice-remissivo.md#v)
+- **Verðr** - O tornar-se, processo dinâmico do destino. Ver: [Índice Remissivo](./indice-remissivo.md#v)
+- **Víg** - Vigilância, responsabilidade energética. Ver: [Índice Remissivo](./indice-remissivo.md#v)
+- **Wyrd** - A teia do destino em constante movimento. Ver: [Índice Remissivo](./indice-remissivo.md#w)

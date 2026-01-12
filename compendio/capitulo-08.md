@@ -1,7 +1,6 @@
 # Capítulo VIII:
+
 ##### O Corpo como Altar: Sintonia Somática, Jornada do Mago e a Ética do Wyrd
-
-
 
 
 ## O Microcosmo Rúnico: O Corpo como Mapa da Realidade Cósmica
@@ -11,13 +10,14 @@ A jornada através do Futhark atinge sua plenitude prática na compreensão de q
 Cada runa não representa apenas uma força cósmica abstrata; ela **ressoa com regiões específicas do corpo humano**, com glândulas, sistemas nervosos e centros de energia (*hvel*, "rodas", análogos aos *chakras* mas com características nórdicas distintas). A magia rúnica, em seu estágio mais avançado, transcende a externalização (entalhes, talismãs) para se tornar **cura vibracional somática** (*Læknir með Rúnar*). O corpo deixa de ser um mero veículo e se transforma no **altar vivo** onde o sacrifício de Óðinn é reencenado diariamente através do *Galdr*, convertendo a carne em *hlaut* (sangue sacrificial) energético e os ossos em *teinn* (galho de poder) canalizador.
 
 ### **A Teoria da Ressonância Somática: O Corpo como Taça de Cristal**
+
 A eficácia da aplicação somática baseia-se em três princípios fundamentais:
 
-1.  **Fonética e Pontos de Articulação:** Cada som rúnico ativa uma região específica do aparelho fonador, que por ressonância estimula áreas corporais correspondentes. O **"F"** gutural de **Fehu** vibra nos pulmões; o **"L"** líquido de **Laguz** ressoa no fluxo cerebrospinal.
+1. **Fonética e Pontos de Articulação:** Cada som rúnico ativa uma região específica do aparelho fonador, que por ressonância estimula áreas corporais correspondentes. O **"F"** gutural de **Fehu** vibra nos pulmões; o **"L"** líquido de **Laguz** ressoa no fluxo cerebrospinal.
 
-2.  **Arquétipo e Função Fisiológica:** A natureza de cada runa corresponde naturalmente a sistemas orgânicos. **Uruz** (força bruta) conecta-se ao sistema musculoesquelético; **Ansuz** (palavra divina) à garganta e tireoide; **Berkana** (crescimento) ao sistema reprodutivo.
+2. **Arquétipo e Função Fisiológica:** A natureza de cada runa corresponde naturalmente a sistemas orgânicos. **Uruz** (força bruta) conecta-se ao sistema musculoesquelético; **Ansuz** (palavra divina) à garganta e tireoide; **Berkana** (crescimento) ao sistema reprodutivo.
 
-3.  **Evidência na Tradição Mágica:** Manuscritos islandeses posteriores (*galdrabækur*) e práticas *seiðr* folclóricas preservam associações entre runas e pontos corporais para cura ou influência.
+3. **Evidência na Tradição Mágica:** Manuscritos islandeses posteriores (*galdrabækur*) e práticas *seiðr* folclóricas preservam associações entre runas e pontos corporais para cura ou influência.
 
 ## Cartografia Vibracional Completa: As Runas na Anatomia Sutil
 
@@ -73,31 +73,34 @@ Combine *Galdrs* em sequência para sistemas complexos:
 ### **Exercícios Práticos de Integração**
 
 **1. A Sintonização Diária (Runa do Corpo):**
-* Após a *Runa do Dia* oracular, selecione a runa cuja energia somática você mais necessita.
-* Execute o Protocolo Básico de Ativação, focando exclusivamente nessa runa por 9 ciclos.
-* Observe durante o dia como a qualidade dessa runa se manifesta em sua disposição e percepção corporal.
+
+- Após a *Runa do Dia* oracular, selecione a runa cuja energia somática você mais necessita.
+- Execute o Protocolo Básico de Ativação, focando exclusivamente nessa runa por 9 ciclos.
+- Observe durante o dia como a qualidade dessa runa se manifesta em sua disposição e percepção corporal.
 
 **2. O Banho Rúnico de Limpeza (com Laguz):**
-* Prepare banho com água morna e sal marinho.
-* Antes de entrar, segure as mãos sobre a água e entoe *"LÁÁÁ-GUUUZ"*, visualizando-a carregada com energia fluida purificadora.
-* Durante o banho, visualize emoções pesadas e energias estagnadas sendo dissolvidas.
-* Ao esvaziar a banheira, visualize todas as impurezas sendo levadas, fechando o ciclo.
+
+- Prepare banho com água morna e sal marinho.
+- Antes de entrar, segure as mãos sobre a água e entoe *"LÁÁÁ-GUUUZ"*, visualizando-a carregada com energia fluida purificadora.
+- Durante o banho, visualize emoções pesadas e energias estagnadas sendo dissolvidas.
+- Ao esvaziar a banheira, visualize todas as impurezas sendo levadas, fechando o ciclo.
 
 **3. A Meditação do Eixo (com Eihwaz):**
-* Sente-se ereto. Visualize Yggdrasil dentro de sua coluna.
-* Com cada inspiração, sinta raízes descendo da base da coluna às profundezas da terra.
-* Com cada expiração, sinta galhos subindo do topo do crânio aos reinos superiores.
-* Entoe *"EIIIH-WAAAZ"* suavemente, sentindo-se como o *axis mundi* do seu próprio universo.
+
+- Sente-se ereto. Visualize Yggdrasil dentro de sua coluna.
+- Com cada inspiração, sinta raízes descendo da base da coluna às profundezas da terra.
+- Com cada expiração, sinta galhos subindo do topo do crânio aos reinos superiores.
+- Entoe *"EIIIH-WAAAZ"* suavemente, sentindo-se como o *axis mundi* do seu próprio universo.
 
 ## Advertências e Ética Somática: Os Limites do Corpo-Templo
 
 A aplicação somática direta exige **responsabilidade extrema**. O corpo é um templo vivo, não um laboratório.
 
-1.  **Não Substitui a Medicina:** Esta é terapia **complementar e energética**. Sempre busque diagnóstico e tratamento médico adequado.
-2.  **Dosagem Energética:** Runas como **Thurisaz, Hagalaz, Nauthiz** são **potentes e abrasivas**. Use por períodos curtos (máximo 3 dias) e apenas quando necessário. Uso prolongado pode causar irritabilidade, insônia ou agravar condições.
-3.  **Estado do Praticante:** Nunca pratique *Galdr* somático intenso se estiver com febre, muito fraco ou emocionalmente instável.
-4.  **Escuta Corporal (Hlýða):** Se uma runa causar desconforto agudo, náusea ou dor durante o *Galdr*, **PARE IMEDIATAMENTE**. Sua energia pode não ser adequada no momento.
-5.  **Ética do Toque:** Ao realizar *Galdr* para outra pessoa, **sempre peça permissão explícita**. Aja como **condutor**, não como invasor. Use luvas energéticas (visualização de *Algiz*) para proteção mútua.
+1. **Não Substitui a Medicina:** Esta é terapia **complementar e energética**. Sempre busque diagnóstico e tratamento médico adequado.
+2. **Dosagem Energética:** Runas como **Thurisaz, Hagalaz, Nauthiz** são **potentes e abrasivas**. Use por períodos curtos (máximo 3 dias) e apenas quando necessário. Uso prolongado pode causar irritabilidade, insônia ou agravar condições.
+3. **Estado do Praticante:** Nunca pratique *Galdr* somático intenso se estiver com febre, muito fraco ou emocionalmente instável.
+4. **Escuta Corporal (Hlýða):** Se uma runa causar desconforto agudo, náusea ou dor durante o *Galdr*, **PARE IMEDIATAMENTE**. Sua energia pode não ser adequada no momento.
+5. **Ética do Toque:** Ao realizar *Galdr* para outra pessoa, **sempre peça permissão explícita**. Aja como **condutor**, não como invasor. Use luvas energéticas (visualização de *Algiz*) para proteção mútua.
 
 ## A Jornada do Mago Rúnico: Dos Níveis de Práxis à Maestria Integrada
 
@@ -132,4 +135,29 @@ A maior autoridade rúnica está **dentro de você**, forjada pelo estudo, tempe
 **A teia está diante de você. As runas estão em suas mãos e em seu corpo. Agora, torne-se o altar vivo onde o cosmos se reflete e se transforma.**
 
 ---
+
+## Termos em Nórdico Antigo Utilizados neste Capítulo
+
+- **Fylgja** - Espírito guardião pessoal, animal de poder. Ver: [Índice Remissivo](./indice-remissivo.md#f)
+- **Galdr** - Canto mágico, encantamento vibracional. Ver: [Índice Remissivo](./indice-remissivo.md#g)
+- **Galdramaðr/kona** - Operador de magia rúnica. Ver: [Índice Remissivo](./indice-remissivo.md#g)
+- **Galdrastafir** - "Bastões mágicos" da tradição islandesa. Ver: [Índice Remissivo](./indice-remissivo.md#g)
+- **Hara** - Centro energético inferior, localizado no ventre. Ver: [Índice Remissivo](./indice-remissivo.md#h)
+- **Hlaut** - Sangue sacrificial, sangue energético. Ver: [Índice Remissivo](./indice-remissivo.md#h)
+- **Hóf** - Moderação, humildade, equilíbrio. Ver: [Índice Remissivo](./indice-remissivo.md#h)
+- **Hvel** - Rodas, centros de energia (análogos aos chakras). Ver: [Índice Remissivo](./indice-remissivo.md#h)
+- **Hybris** - Orgulho excessivo, arrogância. Ver: [Índice Remissivo](./indice-remissivo.md#h)
+- **Læknir með Rúnar** - Cura com runas, cura vibracional somática. Ver: [Índice Remissivo](./indice-remissivo.md#l)
+- **Ofmetnaðr** - Orgulho excessivo, arrogância. Ver: [Índice Remissivo](./indice-remissivo.md#o)
+- **Örlög** - "Lei primordial" ou "destino pré-tecido". Ver: [Índice Remissivo](./indice-remissivo.md#o)
+- **Rúnmeistari** - Mestre integrado das runas. Ver: [Índice Remissivo](./indice-remissivo.md#r)
+- **Seiðr** - Forma de magia nórdica. Ver: [Índice Remissivo](./indice-remissivo.md#s)
+- **Skuld** - Uma das três Nornas, representa o Futuro/Obrigação. Ver: [Índice Remissivo](./indice-remissivo.md#s)
+- **Skuggi** - Sombra, aspecto oculto. Ver: [Índice Remissivo](./indice-remissivo.md#s)
+- **Stír** - Palavra, fala com peso. Ver: [Índice Remissivo](./indice-remissivo.md#s)
+- **Teinn** - Galho de poder, canalizador. Ver: [Índice Remissivo](./indice-remissivo.md#t)
+- **Vé** - Espaço sagrado, recinto ritual. Ver: [Índice Remissivo](./indice-remissivo.md#v)
+- **Vefari** - Tecelão, praticante avançado que manipula o Wyrd. Ver: [Índice Remissivo](./indice-remissivo.md#v)
+- **Verk** - Ações, obras. Ver: [Índice Remissivo](./indice-remissivo.md#v)
+- **Wyrd** - A teia do destino em constante movimento. Ver: [Índice Remissivo](./indice-remissivo.md#w)
 

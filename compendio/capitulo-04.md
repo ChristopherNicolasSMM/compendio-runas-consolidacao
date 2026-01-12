@@ -1,9 +1,10 @@
 # Capítulo IV:
+
 ##### O Terceiro Ætt de Týr: A Soberania do Espírito e o Legado Eterno
 
 
-
 ## O Ápice da Jornada
+
 ##### Da Matéria ao Espírito, do Eu ao Cosmos
 
 O **Terceiro e último Ætt** do Futhark Antigo representa a culminação evolutiva da consciência iniciada nos ciclos anteriores, se o Primeiro Ætt (de Freyr e Freyja) estabeleceu as **fundações da vida manifesta** e o segundo (de Heimdallr) forjou o **caráter através da lei cósmica**, este oiteto final eleva-se ao reino do **espírito, da ética transcendente e do legado eterno**.
@@ -13,26 +14,26 @@ Dedicado a **Týr**, o deus de uma só mão, este Ætt governa os princípios qu
 É o Ætt da **responsabilidade última**, o reconhecimento de que a verdadeira liberdade nasce da submissão voluntária à lei mais elevada, e que a verdadeira herança é aquela que se constrói para as gerações futuras.
 
 ## O Arquétipo do Sacrifício Soberano
+
 ##### Týr, a Mão que Garante a Ordem
 
 Para compreender a energia severa e luminosa deste Ætt, devemos contemplar a figura de **Týr** (do proto-germânico *Tīwaz*, "o deus"), uma das divindades mais antigas e fundamentais do panteão, **o legislador cósmico,** antes de Óðinn ascender à proeminência, Týr era provavelmente o deus-céu principal, associado à lei, justiça, ordem cósmica e assembleias (þing), seu nome sobrevive em "Tuesday" (Terça-feira, Týsdagr) e na raiz da palavra "deus" em várias línguas germânicas.
 
-*   **O Sacrifício da Mão Direita:** O mito definidor ocorre durante o **aprisionamento do lobo Fenrir**, os deuses, incapazes de conter a ameaça crescente do caos (Fenrir) pela força, recorrem à astúcia e criam a corrente mágica Gleipnir, desconfiado, o lobo só aceita ser amarrado se um dos deuses colocar a **mão em sua boca como penhor de boa-fé**, **apenas Týr tem a integridade e coragem para fazê-lo**, **quando Fenrir percebe a traição e se vê irremediavelmente preso, ele arranca a mão de Týr**.
+- **O Sacrifício da Mão Direita:** O mito definidor ocorre durante o **aprisionamento do lobo Fenrir**, os deuses, incapazes de conter a ameaça crescente do caos (Fenrir) pela força, recorrem à astúcia e criam a corrente mágica Gleipnir, desconfiado, o lobo só aceita ser amarrado se um dos deuses colocar a **mão em sua boca como penhor de boa-fé**, **apenas Týr tem a integridade e coragem para fazê-lo**, **quando Fenrir percebe a traição e se vê irremediavelmente preso, ele arranca a mão de Týr**.
 
-*   **O Signado da Honra,** este ato não é uma derrota, mas a **vitória suprema da honra sobre o instinto de autopreservação**, Týr sacrifica sua **mão direita**, símbolo da ação, do pacto (*hand-shake*), da habilidade, para garantir a **sobrevivência da ordem cósmica**, ele se torna o **deus de uma só mão**, marcado eternamente pelo seu compromisso com a lei que transcende o indivíduo.
+- **O Signado da Honra,** este ato não é uma derrota, mas a **vitória suprema da honra sobre o instinto de autopreservação**, Týr sacrifica sua **mão direita**, símbolo da ação, do pacto (*hand-shake*), da habilidade, para garantir a **sobrevivência da ordem cósmica**, ele se torna o **deus de uma só mão**, marcado eternamente pelo seu compromisso com a lei que transcende o indivíduo.
 
 Týr rege este Ætt porque cada runa aqui exige uma forma de **sacrifício consciente, responsabilidade ou entrega**, o sacrifício do ego em favor da justiça (Tiwaz), da mãe pelo filho (Berkano), do indivíduo pela parceria (Ehwaz), da vontade pessoal pelo bem coletivo (Mannaz), do controle pelo fluxo (Laguz), da ação pela gestação (Ingwaz), da liberdade absoluta pela herança (Othala) e, finalmente, da identidade limitada pela iluminação (Dagaz).
 
 
-
 ## ᛏ - Tiwaz: A Lança da Justiça e o Fogo do Dever
 
-*   **Nome Proto-Germânico:** *Tīwaz* (O deus Týr)
-*   **Fonema:** T
-*   **Divindade Regente:** **Týr**
-*   **Elemento Primário:** **Ar Cortante / Fogo da Vontade**
-*   **Mundo Associado:** **A Assembleia (Þing) e o Campo de Batalha Justo**
-*   **Arquétipo Central:** **A Lei que Transcende o Indivíduo. O Sacrifício Consciente pela Ordem.**
+- **Nome Proto-Germânico:** *Tīwaz* (O deus Týr)
+- **Fonema:** T
+- **Divindade Regente:** **Týr**
+- **Elemento Primário:** **Ar Cortante / Fogo da Vontade**
+- **Mundo Associado:** **A Assembleia (Þing) e o Campo de Batalha Justo**
+- **Arquétipo Central:** **A Lei que Transcende o Indivíduo. O Sacrifício Consciente pela Ordem.**
 
 **Análise Arquetípica e Mítica:**
 Tiwaz é a **runa da justiça cósmica, da honra inquebrantável e do sacrifício ético**, seu glifo (ᛏ) é uma **flecha ou lança apontada para cima**, simbolizando **direção moral, foco inabalável e ascensão espiritual** através do cumprimento do dever, representa o **princípio masculino ordenador** em sua forma mais pura, não a fertilidade bruta, mas a **lei que estrutura**, é a energia da **assembléia de homens livres** onde as disputas são resolvidas pela palavra e pelo juramento, não pela força bruta. 
@@ -40,103 +41,103 @@ O mito da mão perdida de Týr está impresso nesta runa, a verdadeira vitória 
 
 Os **Poemas Rúnicos** capturam sua essência de sacrifício e liderança:
 
-*   **Poema Norueguês:**
-    *   *"Týr er æinendr ása; opt værðr smiðr blása."*
+-   **Poema Norueguês:**
+    -   *"Týr er æinendr ása; opt værðr smiðr blása."*
     * "**Tyr é o deus de uma mão, às vezes o ferreiro está malhando (o ferro).**"
     * Esta versão foca mais na **ação e ofício** (o ferreiro) do que na realeza, mas mantém o núcleo.
 
 
-*   **Poema Islandês:**
-    *   *"Týr er einhendr áss; ok ulfs leifar; ok hofa hilmir."*
-    *  **"Týr é o deus de uma só mão e o remanescente do lobo e o príncipe dos templos."**
-    *   A descrição é direta e poderosa, o **deus marcado** (*einhendr*), ligado para sempre à sua provação (*ulfs leifar*), e entronizado como **autoridade sagrada** (*hofa hilmir*).
+-   **Poema Islandês:**
+    -   *"Týr er einhendr áss; ok ulfs leifar; ok hofa hilmir."*
+    -  **"Týr é o deus de uma só mão e o remanescente do lobo e o príncipe dos templos."**
+    -   A descrição é direta e poderosa, o **deus marcado** (*einhendr*), ligado para sempre à sua provação (*ulfs leifar*), e entronizado como **autoridade sagrada** (*hofa hilmir*).
 
-*   **Poema Anglo-Saxão (a chave ética):**
-    *   *"Tīr biþ tācna sum, healdeð trywa wel wīþ æþelingas; ā biþ on færylde ofer nihta genipu, næfre swiceþ."*
-    *   **"Týr é um sinal, mantém a fé bem com os nobres; está sempre em viagem sobre a escuridão da noite, nunca falha."**
-    *   Aqui está o cerne: **"mantém a fé"** (*healdeð trywa*). Tiwaz é a **constância fiel** que navega através da escuridão do caos e da injustiça, sem jamais trair seu princípio. É a luz-guia da ética.
+-   **Poema Anglo-Saxão (a chave ética):**
+    -   *"Tīr biþ tācna sum, healdeð trywa wel wīþ æþelingas; ā biþ on færylde ofer nihta genipu, næfre swiceþ."*
+    -   **"Týr é um sinal, mantém a fé bem com os nobres; está sempre em viagem sobre a escuridão da noite, nunca falha."**
+    -   Aqui está o cerne: **"mantém a fé"** (*healdeð trywa*). Tiwaz é a **constância fiel** que navega através da escuridão do caos e da injustiça, sem jamais trair seu princípio. É a luz-guia da ética.
 
 **Práxis Mágica e Oracular:**
-*   **Uso no Galdr (Magia):**
-    *   **Propósito:** Invocar **justiça** em disputas legais ou conflitos morais e fortalecer a **coragem para fazer sacrifícios necessários** (deixar um emprego, terminar um relacionamento tóxico), garantir **vitória honrosa** em competições ou batalhas legais, **focar a vontade** em um objetivo ético de longo prazo.
-    *   **Técnica:** O som é um **"T"** nítido, seco e decisivo, como o bater de um martelo na assembleia ou o estalido de uma lançam visualize a seta de Tiwaz atravessando a névoa da indecisão ou da injustiça, trazendo clareza e resolução.
-    *   **Bindrune de Justiça:** 
-    * Tiwaz + Raidho = O caminho da justiça sendo seguido. 
-    * Tiwaz + Algiz = Proteção através da lei e da honra.
 
-*   **Uso na Spá (Adivinhação):**
-    *   **Posição Direita:** Justiça, honra, sacrifício que vale a pena, liderança ética, vitória legal, foco moral, dever cumprido. * **"A balança está em suas mãos. Aja com honra."**
-    *   **Posição Invertida (Merkstave):** Injustiça, desonra, sacrifício inútil ou forçado, vitória pirrônica (que destrói o vencedor), falta de princípios, legalismo vazio. **"A mão que jura está vazia."** Um chamado para examinar a própria integridade ou para se proteger de sistemas corruptos.
+- **Uso no Galdr (Magia):**
+    - **Propósito:** Invocar **justiça** em disputas legais ou conflitos morais e fortalecer a **coragem para fazer sacrifícios necessários** (deixar um emprego, terminar um relacionamento tóxico), garantir **vitória honrosa** em competições ou batalhas legais, **focar a vontade** em um objetivo ético de longo prazo.
+    - **Técnica:** O som é um **"T"** nítido, seco e decisivo, como o bater de um martelo na assembleia ou o estalido de uma lança. Visualize a seta de Tiwaz atravessando a névoa da indecisão ou da injustiça, trazendo clareza e resolução.
+    - **Bindrune de Justiça:**
+        - Tiwaz + Raidho = O caminho da justiça sendo seguido.
+        - Tiwaz + Algiz = Proteção através da lei e da honra.
 
-*   **Exercício Prático de Conexão (O Juramento de Týr):**
-    *   Pense em um princípio ou promessa que você precisa honrar, mas que exige um sacrifício, com a mão direita (ou a esquerda, se for canhoto), faça o gesto de um juramento sobre o seu coração, olhe para sua mão e visualize Tiwaz brilhando sobre ela.
-    *   Sussurre em voz baixa e firme: 
-    * *"Por Týr, pela minha honra, eu sacrifico o conforto pela verdade,*
-    * *Minha palavra é minha mão."*
-    *   Aceite a sensação de perda que possa vir, sabendo que ela forja uma autoridade interior maior.
+- **Uso na Spá (Adivinhação):**
+    - **Posição Direita:** Justiça, honra, sacrifício que vale a pena, liderança ética, vitória legal, foco moral, dever cumprido. **"A balança está em suas mãos. Aja com honra."**
+    - **Posição Invertida (Merkstave):** Injustiça, desonra, sacrifício inútil ou forçado, vitória pirrônica (que destrói o vencedor), falta de princípios, legalismo vazio. **"A mão que jura está vazia."** Um chamado para examinar a própria integridade ou para se proteger de sistemas corruptos.
+
+- **Exercício Prático de Conexão (O Juramento de Týr):**
+    - Pense em um princípio ou promessa que você precisa honrar, mas que exige um sacrifício, com a mão direita (ou a esquerda, se for canhoto), faça o gesto de um juramento sobre o seu coração, olhe para sua mão e visualize Tiwaz brilhando sobre ela.
+    - Sussurre em voz baixa e firme:
+        - *"Por Týr, pela minha honra, eu sacrifico o conforto pela verdade,*
+        - *Minha palavra é minha mão."*
+    - Aceite a sensação de perda que possa vir, sabendo que ela forja uma autoridade interior maior.
 
 ---
 
 ## ᛒ - Berkana: A Bétula, o Ventre do Mundo e a Força que Nutre
 
-*   **Nome Proto-Germânico:** *Berkanan* (Bétula)
-*   **Fonema:** B
-*   **Divindade Regente:** **Frigg** (senhora do lar, do casamento e da previsão)
-*   **Elemento Primário:** **Terra Fértil / Água Nutridora**
-*   **Mundo Associado:** **O Lar (Heimr) e os Bosques Sagrados**
-*   **Arquétipo Central:** **O Princípio Feminino Criativo. O Crescimento Protegido. O Útero da Transformação.**
+- **Nome Proto-Germânico:** *Berkanan* (Bétula)
+- **Fonema:** B
+- **Divindade Regente:** **Frigg** (senhora do lar, do casamento e da previsão)
+- **Elemento Primário:** **Terra Fértil / Água Nutridora**
+- **Mundo Associado:** **O Lar (Heimr) e os Bosques Sagrados**
+- **Arquétipo Central:** **O Princípio Feminino Criativo. O Crescimento Protegido. O Útero da Transformação.**
 
 **Análise Arquetípica e Mítica:**
 Berkano é a **runa do princípio feminino criativo em sua forma de nutrição, proteção e renovação cíclica**, representa a **Bétula** (*Bjǫrk*), a árvore pioneira de casca branca e pura, associada ao **renascimento, purificação e novos começos**, enquanto Tiwaz é a lei que estrutura, Berkano é o **cuidado** que permite à vida florescer dentro dessa estrutura, é a runa do **ventre**, do **lar**, da **família** e de todo **processo de crescimento orgânico, gradual e protegido** ela está ligada a **Frigg**, a mãe que conhece os destinos mas não os altera, e às **Dísir**, espíritos femininos ancestrais que protegem o clã, Berkano não é passividade, é a força ativa que **contém, nutre, aquece e faz brotar**.
 
 Os poemas destacam sua beleza natural, vitalidade e papel protetor:
 
+- **Poema Islandês:**
+    - *"Bjarkan er laufgat tré ok lítit tré ok ungsamligr viðr."*
+    - **"A Bétula é uma árvore frondosa e uma pequena árvore e uma madeira jovem."**
+    - Foca em sua **natureza jovem, tenra e cheia de potencial**, o estágio inicial de todo crescimento.
 
-*   **Poema Islandês:**
-    *   *"Bjarkan er laufgat tré ok lítit tré ok ungsamligr viðr."*
-    *   **"A Bétula é uma árvore frondosa e uma pequena árvore e uma madeira jovem."**
-    *   Foca em sua **natureza jovem, tenra e cheia de potencial**, o estágio inicial de todo crescimento.
+- **Poema Norueguês:**
+    - *"Bjarkan er laufgrønstr líma; Loki bar flærða tíma."*
+    - **"A Bétula é a mais verde de folhas; Loki trouxe a hora do engano."**
+    - A misteriosa menção a **Loki** serve como aviso: mesmo na beleza e no crescimento (a bétula verdejante), pode haver **engano ou perigo oculto** (Loki), um alerta para não confiar cegamente nas aparências, mesmo as mais belas.
 
-*   **Poema Norueguês:**
-    *   *"Bjarkan er laufgrønstr líma; Loki bar flærða tíma."*
-    *   **"A Bétula é a mais verde de folhas; Loki trouxe a hora do engano."**
-    *   A misteriosa menção a **Loki** serve como aviso: mesmo na beleza e no crescimento (a bétula verdejante), pode haver **engano ou perigo oculto** (Loki), um alerta para não confiar cegamente nas aparências, mesmo as mais belas.
-
-*   **Poema Anglo-Saxão (o mais descritivo):**
-    *   *"Beorc byþ blēda lēas, bereþ efne swā ðēah tānas būtan tūdder, bēorht on blēdum, hēah on helme, hrysted fægere, geloden lēafum, lyfte getenge."*
-    *   **"A Bétula é sem frutos, mas mesmo assim carrega galhos sem semente, brilhante em seus ramos, alta em sua copa, belamente adornada, carregada de folhas, tocando o céu."**
-    *   Enfatiza sua **beleza generosa e protetora**, ela pode ser "sem frutos" no sentido utilitário imediato, mas seu valor está em fornecer **crescimento, sombra e beleza**, os requisitos para que outras coisas frutifiquem.
+- **Poema Anglo-Saxão (o mais descritivo):**
+    - *"Beorc byþ blēda lēas, bereþ efne swā ðēah tānas būtan tūdder, bēorht on blēdum, hēah on helme, hrysted fægere, geloden lēafum, lyfte getenge."*
+    - **"A Bétula é sem frutos, mas mesmo assim carrega galhos sem semente, brilhante em seus ramos, alta em sua copa, belamente adornada, carregada de folhas, tocando o céu."**
+    - Enfatiza sua **beleza generosa e protetora**, ela pode ser "sem frutos" no sentido utilitário imediato, mas seu valor está em fornecer **crescimento, sombra e beleza**, os requisitos para que outras coisas frutifiquem.
 
 **Práxis Mágica e Oracular:**
-*   **Uso no Galdr (Magia):**
-    *   **Propósito:** Rituais de **fertilidade** (para conceber filhos, projetos ou ideias), **proteção do lar e da família**, especialmente de crianças, **cura** física e emocional, particularmente de mulheres. 
-    * **Iniciar** qualquer empreendimento que precise de um ambiente seguro para crescer. **Renovação** após doença ou trauma.
-    *   **Técnica:** O som é um **"B"** suave, bilabial e acolhedor, como um sussurro de mãe ou o balbuciar de uma criança, visualize a bétula branca crescendo, envolvendo o que precisa ser protegido ou nutrido em sua luz suave.
-    *   **Bindrune de Crescimento Protegido:** 
-    * Berkano + Algiz = Um escudo de proteção materna/ancestral. 
-    * Berkano + Jera = Crescimento e frutificação cíclica e segura.
 
-*   **Uso na Spá (Adivinhação):**
-    *   **Posição Direita:** Nascimento, crescimento, cuidado maternal, proteção, cura, novo começo familiar, fertilidade criativa, lar, **"a semente está segura no ventre, nutra e proteja."**
-    *   **Posição Invertida:** Estagnação no crescimento, problemas familiares ou domésticos, negligência, infertilidade (física ou criativa), aborto de projetos, ambiente tóxico, **"o ventre está frio, o lar está em desordem,"** um chamado para cuidar de si, criar um espaço seguro ou resolver conflitos familiares.
+- **Uso no Galdr (Magia):**
+    - **Propósito:** Rituais de **fertilidade** (para conceber filhos, projetos ou ideias), **proteção do lar e da família**, especialmente de crianças, **cura** física e emocional, particularmente de mulheres. **Iniciar** qualquer empreendimento que precise de um ambiente seguro para crescer. **Renovação** após doença ou trauma.
+    - **Técnica:** O som é um **"B"** suave, bilabial e acolhedor, como um sussurro de mãe ou o balbuciar de uma criança, visualize a bétula branca crescendo, envolvendo o que precisa ser protegido ou nutrido em sua luz suave.
+    - **Bindrune de Crescimento Protegido:**
+        - Berkano + Algiz = Um escudo de proteção materna/ancestral.
+        - Berkano + Jera = Crescimento e frutificação cíclica e segura.
 
-*   **Exercício Prático de Conexão (O Abraço da Bétula):**
-    *   Se possível, encontre uma bétula ou uma árvore que simbolize proteção para você. Se não, visualize-a, coloque as mãos sobre seu próprio ventre (centro criativo) ou sobre o coração, respire profundamente e, ao expirar, emita um som suave "B", sentindo uma onda de calor e segurança se espalhando de dentro para fora.
-    *   Visualize uma casca branca e luminosa de bétula se formando ao seu redor, como um útero protetor.
-    *   Afirme: 
-    * *"Eu sou nutrido(a) e seguro(a),*
-    * *Do meu centro, a vida cresce com força e beleza."*
+- **Uso na Spá (Adivinhação):**
+    - **Posição Direita:** Nascimento, crescimento, cuidado maternal, proteção, cura, novo começo familiar, fertilidade criativa, lar, **"a semente está segura no ventre, nutra e proteja."**
+    - **Posição Invertida:** Estagnação no crescimento, problemas familiares ou domésticos, negligência, infertilidade (física ou criativa), aborto de projetos, ambiente tóxico, **"o ventre está frio, o lar está em desordem,"** um chamado para cuidar de si, criar um espaço seguro ou resolver conflitos familiares.
+
+- **Exercício Prático de Conexão (O Abraço da Bétula):**
+    - Se possível, encontre uma bétula ou uma árvore que simbolize proteção para você. Se não, visualize-a, coloque as mãos sobre seu próprio ventre (centro criativo) ou sobre o coração, respire profundamente e, ao expirar, emita um som suave "B", sentindo uma onda de calor e segurança se espalhando de dentro para fora.
+    - Visualize uma casca branca e luminosa de bétula se formando ao seu redor, como um útero protetor.
+    - Afirme:
+        - *"Eu sou nutrido(a) e seguro(a),*
+        - *Do meu centro, a vida cresce com força e beleza."*
 
 ---
 
 ## ᛖ - Ehwaz: A Parceria, o Cavalo e a Jornada Compartilhada
 
-*   **Nome Proto-Germânico:** *Ehwaz* (Cavalo)
-*   **Fonema:** E (aberto, como em "elo")
-*   **Divindade Regente:** **Sleipnir** (o corcel de oito patas de Óðinn)
-*   **Elemento Primário:** **Terra em Movimento / Ar da Cooperação**
-*   **Mundo Associado:** **A Estrada (Leið) e a Jornada em Companhia**
-*   **Arquétipo Central:** **A Confiança Mútua que Move Montanhas. O Progresso Através da União.**
+- **Nome Proto-Germânico:** *Ehwaz* (Cavalo)
+- **Fonema:** E (aberto, como em "elo")
+- **Divindade Regente:** **Sleipnir** (o corcel de oito patas de Óðinn)
+- **Elemento Primário:** **Terra em Movimento / Ar da Cooperação**
+- **Mundo Associado:** **A Estrada (Leið) e a Jornada em Companhia**
+- **Arquétipo Central:** **A Confiança Mútua que Move Montanhas. O Progresso Através da União.**
 
 **Análise Arquetípica e Mítica:**
 Ehwaz é a **runa da parceria harmoniosa, do progresso conjunto e da confiança que permite a jornada**, representa o **Cavalo** (*jór*), não como força bruta, mas como **companheiro simbiótico de jornada**, seu glifo (ᛖ) sugere **dois seres unidos, movendo-se em sincronia perfeita**, diferente de Raidho (a jornada em si), Ehwaz é o **veículo vivo e a relação de confiança** que a torna possível, eficiente e até prazerosa, é a energia da **diade perfeita**: cavalo e cavaleiro, mestre e aprendiz, casal, sócios, amigos de batalha. 
@@ -145,10 +146,10 @@ Está ligada a **Sleipnir**, que carrega Óðinn entre os mundos, a mais profund
 Os poemas a celebram como símbolo de status, alegria e utilidade fundamentada na lealdade:
 
 
-*   **Poema Anglo-Saxão (o único que contém os versos completos):**
-    *   *"Eh byþ for eorlum æþelinga wyn, heard on hōfe, hæleþum geþlēdē, ðā him fæste on fēðme stondaþ."*
-    *   **"O Cavalo é para os príncipes a alegria dos nobres, duro no casco, fiel aos heróis, para aqueles que firmemente o montam."**
-    *   A chave está em **"fiel aos heróis"** (*hæleþum geþlēdē*) e **"firmemente o montam"** (*fæste on fēðme stondaþ*). A parceria só funciona com **lealdade de ambas as partes e uma conexão firme e estável**.
+-   **Poema Anglo-Saxão (o único que contém os versos completos):**
+    -   *"Eh byþ for eorlum æþelinga wyn, heard on hōfe, hæleþum geþlēdē, ðā him fæste on fēðme stondaþ."*
+    -   **"O Cavalo é para os príncipes a alegria dos nobres, duro no casco, fiel aos heróis, para aqueles que firmemente o montam."**
+    - A chave está em **"fiel aos heróis"** (*hæleþum geþlēdē*) e **"firmemente o montam"** (*fæste on fēðme stondaþ*). A parceria só funciona com **lealdade de ambas as partes e uma conexão firme e estável**.
     * 
     * Também há outra versão encontrada e muito aceita:
     * "Eh byþ for eorlum æþelinga wyn, hors hofum wlanc, ðær him hæleþ ymb welege on wicgum wrixlaþ spræce and biþ unstyllum æfre frofur."
@@ -156,18 +157,18 @@ Os poemas a celebram como símbolo de status, alegria e utilidade fundamentada n
 
 
 **Práxis Mágica e Oracular:**
-*   **Uso no Galdr (Magia):**
+-   **Uso no Galdr (Magia):**
     * **Propósito:** Fortalecer **relacionamentos** (românticos, de amizade, de negócios), facilitar **mudanças de casa, trabalho ou cidade** (jornada com estabilidade), **harmonizar equipes** ou grupos, **acelerar processos** de forma estável e segura, não caótica, melhorar a **comunicação e confiança** em qualquer parceria.
-    *   **Técnica:** O som é um **"E"** aberto, amigável e que se prolonga, como um relincho suave ou uma exclamação de reconhecimento, visualize duas energias se movendo lado a lado, perfeitamente sincronizadas, como as patas de um cavalo a trote.
-    *   **Bindrune de Parceria:** 
+    -   **Técnica:** O som é um **"E"** aberto, amigável e que se prolonga, como um relincho suave ou uma exclamação de reconhecimento, visualize duas energias se movendo lado a lado, perfeitamente sincronizadas, como as patas de um cavalo a trote.
+    -   **Bindrune de Parceria:** 
     * Ehwaz + Gebo = Uma aliança ou parceria baseada em troca justa e lealdade. 
     * Ehwaz + Raidho = Uma jornada ou mudança realizada com suporte e eficiência.
 
-*   **Uso na Spá (Adivinhação):**
-    *   **Posição Direita:** Parceria, cooperação, progresso estável, mudança positiva, lealdade, confiança, viagem (especialmente com outros), sincronia, **"você não está sozinho, o movimento é conjunto e confiável."**
-    *   **Posição Invertida:** Conflito em parcerias, deslealdade, traição, mudança caótica ou bloqueada, falta de sincronia, desconfiança que paralisa, **"o cavalo está assustado ou o cavaleiro é inepto"**, um chamado para revisar os termos de uma parceria ou trabalhar a comunicação.
+-   **Uso na Spá (Adivinhação):**
+    -   **Posição Direita:** Parceria, cooperação, progresso estável, mudança positiva, lealdade, confiança, viagem (especialmente com outros), sincronia, **"você não está sozinho, o movimento é conjunto e confiável."**
+    -   **Posição Invertida:** Conflito em parcerias, deslealdade, traição, mudança caótica ou bloqueada, falta de sincronia, desconfiança que paralisa, **"o cavalo está assustado ou o cavaleiro é inepto"**, um chamado para revisar os termos de uma parceria ou trabalhar a comunicação.
 
-*   **Exercício Prático de Conexão (A Dança da Confiança):**
+-   **Exercício Prático de Conexão (A Dança da Confiança):**
     * Se possível, faça este exercício com um parceiro, caso contrário, visualize um, fiquem frente a frente, mantendo contato visual.
     * Um lidera movimentos lentos e simples com os braços ou corpo, o outro espelha exatamente, tentando sincronizar-se, troquem o papel de líder, o objetivo não é comandar, mas **sentir** e **seguir**.
     * Durante o exercício, entoe mentalmente "Ehwaz", ao final, agradeçam pela conexão. 
@@ -177,12 +178,12 @@ Os poemas a celebram como símbolo de status, alegria e utilidade fundamentada n
 
 ## ᛗ - Mannaz: A Humanidade, o Espelho e a Teia Social
 
-*   **Nome Proto-Germânico:** *Mannaz* (Homem, Ser Humano)
-*   **Fonema:** M
-*   **Divindade Regente:** **Heimdallr** (como Rígr, o Estruturador Social)
-*   **Elemento Primário:** **Ar Intelectual / Éter Social**
-*   **Mundo Associado:** **Midgard em sua Expressão Social e Cultural**
-*   **Arquétipo Central:** **O Self como Parte do Todo. A Consciência Coletiva. A Inteligência Aplicada.**
+-   **Nome Proto-Germânico:** *Mannaz* (Homem, Ser Humano)
+-   **Fonema:** M
+-   **Divindade Regente:** **Heimdallr** (como Rígr, o Estruturador Social)
+-   **Elemento Primário:** **Ar Intelectual / Éter Social**
+-   **Mundo Associado:** **Midgard em sua Expressão Social e Cultural**
+-   **Arquétipo Central:** **O Self como Parte do Todo. A Consciência Coletiva. A Inteligência Aplicada.**
 
 **Análise Arquetípica e Mítica:**
 Mannaz é a **runa da humanidade consciente, da mente e da ordem social interdependente**, representa o **Ser Humano** (*maðr*) não como indivíduo isolado, mas como **célula de um organismo maior**, a família, o clã, a tribo, a humanidade, seu glifo (ᛗ) lembra dois seres apoiados um no outro, ou um ser com braços abertos, um símbolo perfeito de **interdependência**, enquanto Ansuz é a inspiração divina e a palavra, Mannaz é a **inteligência aplicada**, a razão que organiza o mundo, seu patrono é **Heimdallr-Rígr**, o deus que viajou entre os homens e estabeleceu as três classes sociais (escravo, homem livre, nobre), dando estrutura e função à sociedade, Mannaz nos lembra de nossas **responsabilidades para com os outros**, de nosso **lugar na teia de relações** e de que nosso maior poder reside na cooperação inteligente.
@@ -190,36 +191,36 @@ Mannaz é a **runa da humanidade consciente, da mente e da ordem social interdep
 Os poemas exploram o papel do homem como construtor, adornador e, finalmente, mortal:
 
 
-*   **Poema Islandês:**
-    *   *"Maðr er manns gaman ok moldar auki ok skipa skreytir."*
-    *   **"O Homem é a alegria do homem e o aumento da terra e o adornador dos navios."**
-    *   Destaca o triplo papel humano, **social** (alegria do homem), **produtivo** (aquele que aumenta o valor da terra através da agricultura) e **cultural/artístico** (aquele que adorna navios, criando beleza e identidade).
+-   **Poema Islandês:**
+    -   *"Maðr er manns gaman ok moldar auki ok skipa skreytir."*
+    -   **"O Homem é a alegria do homem e o aumento da terra e o adornador dos navios."**
+    - Destaca o triplo papel humano, **social** (alegria do homem), **produtivo** (aquele que aumenta o valor da terra através da agricultura) e **cultural/artístico** (aquele que adorna navios, criando beleza e identidade).
 
-*   **Poema Norueguês:**
-    *   *"Maðr er moldar auki; mikil er græip á hauki."*
-    *   **"O Homem é o aumento da terra, grande é a garra do falcão."**
-    *   O homem como **cultivador e melhorador** do mundo natural, a comparação com a garra do falcão pode sugerir que a força humana, como a do falcão, é uma ferramenta para ação e sobrevivência, mas também um adendo a situações em que a confiança possa sobressair.
+-   **Poema Norueguês:**
+    -   *"Maðr er moldar auki; mikil er græip á hauki."*
+    -   **"O Homem é o aumento da terra, grande é a garra do falcão."**
+    - O homem como **cultivador e melhorador** do mundo natural, a comparação com a garra do falcão pode sugerir que a força humana, como a do falcão, é uma ferramenta para ação e sobrevivência, mas também um adendo a situações em que a confiança possa sobressair.
     
-*   **Poema Anglo-Saxão (o mais filosófico e profundo):**
-    *   *"Man byþ on myrgþe his magan lēof: sceal þēah ānra gehwylc ōðrum swīcan, forðam Drihten wyle dōme sine þæt earme flæsc eorþan betǣcan."*
-    *   **"O Homem é na alegria querido ao seu parente, ainda assim, cada um deve trair o outro, pois o Senhor deseja, por seu julgamento, que a miserável carne confie à terra."**
-    *   Este verso é crucial, ele celebra a **alegria da companhia humana** ("querido ao seu parente"), mas introduz uma melancolia nórdica realista: **"cada um deve trair o outro"**. Isto não é necessariamente sobre deslealdade pessoal, mas sobre a **traição final da morte** que separa todos, é um lembrete da **condição humana finita** que nos iguala a todos ("a miserável carne"), Mannaz, portanto, engloba tanto a glória da sociedade quanto sua fragilidade fundamental.
+-   **Poema Anglo-Saxão (o mais filosófico e profundo):**
+    -   *"Man byþ on myrgþe his magan lēof: sceal þēah ānra gehwylc ōðrum swīcan, forðam Drihten wyle dōme sine þæt earme flæsc eorþan betǣcan."*
+    -   **"O Homem é na alegria querido ao seu parente, ainda assim, cada um deve trair o outro, pois o Senhor deseja, por seu julgamento, que a miserável carne confie à terra."**
+    - Este verso é crucial, ele celebra a **alegria da companhia humana** ("querido ao seu parente"), mas introduz uma melancolia nórdica realista: **"cada um deve trair o outro"**. Isto não é necessariamente sobre deslealdade pessoal, mas sobre a **traição final da morte** que separa todos, é um lembrete da **condição humana finita** que nos iguala a todos ("a miserável carne"), Mannaz, portanto, engloba tanto a glória da sociedade quanto sua fragilidade fundamental.
 
 
 **Práxis Mágica e Oracular:**
-*   **Uso no Galdr (Magia):**
-    *   **Propósito:** Obter **ajuda, conselho ou cooperação** de outras pessoas ou da comunidade, aumentar a **inteligência, memória e habilidades sociais**, resolver **conflitos grupais** ou familiares, **honrar os ancestrais** e conectar-se à sabedoria da linhagem, trabalhos de **autoconhecimento** e entendimento do próprio papel no mundo.
-    *   **Técnica:** O som é um **"M"** profundo, ressonante e contínuo, vibrando no crânio, como um mantra coletivo ou o zumbido de uma multidão distante, visualize-se no centro de uma rede de luzes (pessoas), cada conexão fortalecida pelo som.
-    *   **Bindrune de Comunidade:** 
+-   **Uso no Galdr (Magia):**
+    -   **Propósito:** Obter **ajuda, conselho ou cooperação** de outras pessoas ou da comunidade, aumentar a **inteligência, memória e habilidades sociais**, resolver **conflitos grupais** ou familiares, **honrar os ancestrais** e conectar-se à sabedoria da linhagem, trabalhos de **autoconhecimento** e entendimento do próprio papel no mundo.
+    -   **Técnica:** O som é um **"M"** profundo, ressonante e contínuo, vibrando no crânio, como um mantra coletivo ou o zumbido de uma multidão distante, visualize-se no centro de uma rede de luzes (pessoas), cada conexão fortalecida pelo som.
+    -   **Bindrune de Comunidade:** 
     * Mannaz + Gebo = Uma troca ou aliança social benéfica para todos. 
     * Mannaz + Ansuz = Sabedoria coletiva ou comunicação eficaz em grupo.
 
-*   **Uso na Spá (Adivinhação):**
-    *   **Posição Direita:** Comunidade, cooperação, consciência social, intelecto, tradição, ajuda mútua, o "Self" em relação, **"você é um elo na corrente, busque e ofereça apoio."**
-    *   **Posição Invertida (Merkstave):** Isolamento, egoísmo, conflito social, falta de ética ou traição, rejeição do grupo, crise de identidade, **"o espelho está quebrado, você está só contra muitos."** 
+-   **Uso na Spá (Adivinhação):**
+    -   **Posição Direita:** Comunidade, cooperação, consciência social, intelecto, tradição, ajuda mútua, o "Self" em relação, **"você é um elo na corrente, busque e ofereça apoio."**
+    -   **Posição Invertida (Merkstave):** Isolamento, egoísmo, conflito social, falta de ética ou traição, rejeição do grupo, crise de identidade, **"o espelho está quebrado, você está só contra muitos."** 
     * Um chamado para reparar relações, humilhar o ego ou buscar integração saudável.
 
-*   **Exercício Prático de Conexão (A Rede das Relações):**
+-   **Exercício Prático de Conexão (A Rede das Relações):**
     * Em um papel, desenhe um ponto central que o represente (Mannaz), ao redor, desenhe outros pontos para pessoas importantes em sua vida (família, amigos, colegas).
     * Conecte cada ponto ao centro com uma linha. Em cada linha, escreva uma palavra que defina aquela relação (ex: "amor", "respeito", "conflito", "apoio"), olhe para o diagrama e sinta a rede de conexões, qual linha precisa ser fortalecida? Qual precisa ser limpa ou solta?
     * Coloque as mãos sobre o centro e sussurre: 
@@ -230,44 +231,44 @@ Os poemas exploram o papel do homem como construtor, adornador e, finalmente, mo
 
 ## ᛚ - Laguz: O Fluxo da Vida, a Intuição e o Poço do Inconsciente
 
-*   **Nome Proto-Germânico:** *Laguz* (Água, Lago, Mar)
-*   **Fonema:** L
-*   **Divindade Regente:** **Njörðr** (Deus do Mar, da Costa e da Prosperidade Navegável)
-*   **Elemento Primário:** **Água Viva**
-*   **Mundo Associado:** **Os Oceanos, Rios, e o Poço de Mimir**
-*   **Arquétipo Central:** **O Inconsciente Coletivo. A Emoção que Flui. A Adaptabilidade Vital.**
+-   **Nome Proto-Germânico:** *Laguz* (Água, Lago, Mar)
+-   **Fonema:** L
+-   **Divindade Regente:** **Njörðr** (Deus do Mar, da Costa e da Prosperidade Navegável)
+-   **Elemento Primário:** **Água Viva**
+-   **Mundo Associado:** **Os Oceanos, Rios, e o Poço de Mimir**
+-   **Arquétipo Central:** **O Inconsciente Coletivo. A Emoção que Flui. A Adaptabilidade Vital.**
 
 **Análise Arquetípica e Mítica:**
 Laguz é a **runa do fluxo vital primordial, da intuição profunda e do reino do inconsciente**. Representa a **Água** (*lögr*) em todos os seus aspectos: o mar que dá vida e leva embora, o rio do tempo e do destino (*Wyrd*), as emoções que fluem, a intuição que "vem à tona". Seu glifo (ᛚ) pode ser visto como uma onda quebrando ou uma planta aquática ondulando – **movimento vivo e adaptável**. Diferente de Isa (água congelada, estase), Laguz é água em **movimento constante e transformador**. Está ligada a **Njörðr**, o Vanir que domina a costa, o comércio e a riqueza que vem do fluxo (pesca, navegação). Também está sob o domínio das **Nornas**, pois o destino é como um rio com muitas correntes. Laguz é a **fertilidade oculta**, o que está abaixo da superfície: sonhos, desejos, memórias reprimidas, potencial não manifestado. É a runa que nos ensina a **navegar, não a lutar contra a corrente**.
 
 Os poemas capturam sua beleza, utilidade e perigo inerente:
 
-*   **Poema Anglo-Saxão (o mais vívido e metafórico):**
-    *   *"Lagū byþ lēodum langsum geþuht, gif hī sculun nēþan on nacan tealtum and hī sæȳþa swȳþe brēgaþ and se brimhengest brūceþ on geþwæte."*
-    *   **"O Mar parece interminável para os homens, se eles se aventurarem em um barco instável, e as ondas do mar os aterrorizam muito, e o corcel do mar (navio) não obedece ao leme."**
+-   **Poema Anglo-Saxão (o mais vívido e metafórico):**
+    -   *"Lagū byþ lēodum langsum geþuht, gif hī sculun nēþan on nacan tealtum and hī sæȳþa swȳþe brēgaþ and se brimhengest brūceþ on geþwæte."*
+    -   **"O Mar parece interminável para os homens, se eles se aventurarem em um barco instável, e as ondas do mar os aterrorizam muito, e o corcel do mar (navio) não obedece ao leme."**
     *  Esta é a descrição perfeita de Laguz: é o **campo de possibilidades** ("interminável"), que pode ser **aterrorizante** para quem não está preparado ("barco instável") e **incontrolável** quando não se respeita suas leis ("não obedece ao leme"). A jornada só é possível com a embarcação adequada (o ego integrado) e conhecimento (intuição).
 
-*   **Poema Islandês:**
-    *   *"Lögr er vellanda vatn ok viðr ketill ok glömmungr grund."*
-    *   **"A Água é água fervente e um caldeirão largo e terra dos peixes."**
-    *   Enfatiza a água como **elemento de transformação** (fervura, caldeirão) e como **habitat de vida oculta** ("terra dos peixes" – o inconsciente povoado).
+-   **Poema Islandês:**
+    -   *"Lögr er vellanda vatn ok viðr ketill ok glömmungr grund."*
+    -   **"A Água é água fervente e um caldeirão largo e terra dos peixes."**
+    - Enfatiza a água como **elemento de transformação** (fervura, caldeirão) e como **habitat de vida oculta** ("terra dos peixes" – o inconsciente povoado).
 
-*   **Poema Norueguês:**
-    *   *"Lǫgr er, fællr ór fjalle foss; en gull ero nosser."*
-    *   **"A Água é, que cai da montanha como uma cascata; e ornamentos são de ouro."**
-    *   Liga a água poderosa e pura (cachoeira) à **riqueza e valor** (ouro), talvez referindo-se à prosperidade que o comércio marítimo (Njörðr) trazia.
+-   **Poema Norueguês:**
+    -   *"Lǫgr er, fællr ór fjalle foss; en gull ero nosser."*
+    -   **"A Água é, que cai da montanha como uma cascata; e ornamentos são de ouro."**
+    - Liga a água poderosa e pura (cachoeira) à **riqueza e valor** (ouro), talvez referindo-se à prosperidade que o comércio marítimo (Njörðr) trazia.
 
 **Práxis Mágica e Oracular:**
-*   **Uso no Galdr (Magia):**
-    *   **Propósito:** Aumentar a **intuição, percepção psíquica e clarividência**. Facilitar a **cura emocional** e a fluidez dos sentimentos reprimidos. Realizar magia de **sonhos lúcidos** e acesso ao inconsciente. Trabalhos de **fertilidade** (de ideias ou física). **Proteger viagens por água**. Ajudar na **adaptação** a mudanças de vida.
-    *   **Técnica:** O som é um **"L"** líquido, fluido e ondulante, como o balbuciar de um riacho ou o som das onlas na praia. Visualize-se flutuando em águas calmas e seguras, ou navegando habilmente em mar aberto, em sintonia com as correntes.
-    *   **Bindrune de Intuição:** Laguz + Perthro = Acesso a segredos e conhecimentos ocultos do inconsciente. Laguz + Ansuz = Intuição que se expressa em palavras claras (poesia, profecia).
+-   **Uso no Galdr (Magia):**
+    -   **Propósito:** Aumentar a **intuição, percepção psíquica e clarividência**. Facilitar a **cura emocional** e a fluidez dos sentimentos reprimidos. Realizar magia de **sonhos lúcidos** e acesso ao inconsciente. Trabalhos de **fertilidade** (de ideias ou física). **Proteger viagens por água**. Ajudar na **adaptação** a mudanças de vida.
+    -   **Técnica:** O som é um **"L"** líquido, fluido e ondulante, como o balbuciar de um riacho ou o som das onlas na praia. Visualize-se flutuando em águas calmas e seguras, ou navegando habilmente em mar aberto, em sintonia com as correntes.
+    -   **Bindrune de Intuição:** Laguz + Perthro = Acesso a segredos e conhecimentos ocultos do inconsciente. Laguz + Ansuz = Intuição que se expressa em palavras claras (poesia, profecia).
 
-*   **Uso na Spá (Adivinhação):**
-    *   **Posição Direita:** Intuição, fluxo, emoções, cura, sonhos, fertilidade, adaptabilidade, jornada interna, aceitação. **"Confie na maré. Deixe-se levar pelo fluxo correto."**
-    *   **Posição Invertida:** Estagnação emocional, intuição bloqueada, negação do inconsciente, medo do fluxo (da vida, das emoções), "afogamento" em sentimentos ou circunstâncias, perigo em viagens aquáticas. **"Você está lutando contra a corrente. Pare e flutue."**
+-   **Uso na Spá (Adivinhação):**
+    -   **Posição Direita:** Intuição, fluxo, emoções, cura, sonhos, fertilidade, adaptabilidade, jornada interna, aceitação. **"Confie na maré. Deixe-se levar pelo fluxo correto."**
+    -   **Posição Invertida:** Estagnação emocional, intuição bloqueada, negação do inconsciente, medo do fluxo (da vida, das emoções), "afogamento" em sentimentos ou circunstâncias, perigo em viagens aquáticas. **"Você está lutando contra a corrente. Pare e flutue."**
 
-*   **Exercício Prático de Conexão (Meditação do Rio Submerso):**
+-   **Exercício Prático de Conexão (Meditação do Rio Submerso):**
     1.  Sente-se em silêncio. Feche os olhos e visualize-se deitado no fundo de um rio límpido e calmo.
     2.  Veja a luz do sol filtrando-se pela água, criando padrões móveis acima de você.
     3.  Sinta a água sustentando seu corpo completamente. Você não precisa respirar; apenas é sustentado.
@@ -279,33 +280,33 @@ Os poemas capturam sua beleza, utilidade e perigo inerente:
 
 ## ᛜ - Ingwaz: O Deus Ing, a Semente e a Conclusão Fértil
 
-*   **Nome Proto-Germânico:** *Ingwaz* (O deus Ing)
-*   **Fonema:** NG (nasal, como em "ango", "sing")
-*   **Divindade Regente:** **Freyr** (como **Ingvi-Freyr**, ancestral da dinastia real dos Ynglings)
-*   **Elemento Primário:** **Terra em Repouso / Fogo Latente**
-*   **Mundo Associado:** **A Terra Adormecida no Inverno e o Campo Arado**
-*   **Arquétipo Central:** **O Potencial Concentrado. A Gestação Silenciosa. A Conclusão que Contém um Novo Início.**
+-   **Nome Proto-Germânico:** *Ingwaz* (O deus Ing)
+-   **Fonema:** NG (nasal, como em "ango", "sing")
+-   **Divindade Regente:** **Freyr** (como **Ingvi-Freyr**, ancestral da dinastia real dos Ynglings)
+-   **Elemento Primário:** **Terra em Repouso / Fogo Latente**
+-   **Mundo Associado:** **A Terra Adormecida no Inverno e o Campo Arado**
+-   **Arquétipo Central:** **O Potencial Concentrado. A Gestação Silenciosa. A Conclusão que Contém um Novo Início.**
 
 **Análise Arquetípica e Mítica:**
 Ingwaz é a **runa do potencial concentrado, da gestação silenciosa e da conclusão perfeita de um ciclo**. Seu glifo (ᛜ) é único no Futhark: um losango ou símbolo que lembra um **grão de semente** ou um **campo demarcado** – algo fechado em si mesmo, contendo toda a energia latente necessária para a explosão da vida. Representa o **deus Ing** (uma manifestação de Freyr), cujo culto estava associado à fertilidade da terra, à realeza e à paz. Ingwaz não é sobre ação (como Tiwaz) ou fluxo (como Laguz), mas sobre **repouso necessário, incubação e energia contida**. É a runa da **pausa antes do parto**, do **projeto finalizado antes do lançamento**, da **semente sob a terra no inverno**. O Poema Anglo-Saxão sugere que Ing partiu "sobre as ondas", indicando uma conclusão (uma vida, um reinado) que deixa um **legado pronto para brotar** – a semente está plantada.
 
 O **Poema Anglo-Saxão** é nossa fonte primária e enigmática:
 
-*   *"Ing wæs ærest mid Eástdenum gesewen secgum, oð he síððan eft ofer wæg gewát. wæn æfter ran. ðus Heardingas ðone hæle nemdon."*
-*   **"Ing foi primeiro entre os Danos do Leste visto pelos homens, até que depois ele partiu novamente sobre a onda. Sua carruagem veio depois. Assim os Hærdings nomearam aquele herói."**
-*   Este poema fala de um **ciclo completo**: aparição, estabelecimento, partida. "Sua carruagem veio depois" pode simbolizar o **legado** que ele deixou (a linhagem dos Ynglings, a terra fértil). Ingwaz é esse **legado potencial**, a energia concentrada que permanece após a conclusão de uma fase, pronta para germinar quando as condições forem adequadas.
+-   *"Ing wæs ærest mid Eástdenum gesewen secgum, oð he síððan eft ofer wæg gewát. wæn æfter ran. ðus Heardingas ðone hæle nemdon."*
+-   **"Ing foi primeiro entre os Danos do Leste visto pelos homens, até que depois ele partiu novamente sobre a onda. Sua carruagem veio depois. Assim os Hærdings nomearam aquele herói."**
+-   Este poema fala de um **ciclo completo**: aparição, estabelecimento, partida. "Sua carruagem veio depois" pode simbolizar o **legado** que ele deixou (a linhagem dos Ynglings, a terra fértil). Ingwaz é esse **legado potencial**, a energia concentrada que permanece após a conclusão de uma fase, pronta para germinar quando as condições forem adequadas.
 
 **Práxis Mágica e Oracular:**
-*   **Uso no Galdr (Magia):**
-    *   **Propósito:** **Finalizar projetos, relacionamentos ou ciclos de vida** com um senso de completude. **Incubar ideias, planos ou energias** até que estejam plenamente maduras para manifestação. Aumentar a **fertilidade masculina** e a potência criativa. **Proteger períodos de gestação** (de filhos, projetos artísticos). Garantir um **descanso reparador e regenerativo**.
-    *   **Técnica:** O som é um **"NG"** nasal, profundo e contínuo, vibrando na cabeça e no peito, como um zumbido de abelha ou um ronco suave. Visualize um losango de luz dourada ou marrom fechando-se sobre um projeto, selando-o em perfeição, ou uma semente brilhando sob a terra escura.
-    *   **Bindrune de Conclusão:** Ingwaz + Jera = O ciclo que chega ao fim e prepara a colheita futura. Ingwaz + Othala = O legado potencial que é passado adiante.
+-   **Uso no Galdr (Magia):**
+    -   **Propósito:** **Finalizar projetos, relacionamentos ou ciclos de vida** com um senso de completude. **Incubar ideias, planos ou energias** até que estejam plenamente maduras para manifestação. Aumentar a **fertilidade masculina** e a potência criativa. **Proteger períodos de gestação** (de filhos, projetos artísticos). Garantir um **descanso reparador e regenerativo**.
+    -   **Técnica:** O som é um **"NG"** nasal, profundo e contínuo, vibrando na cabeça e no peito, como um zumbido de abelha ou um ronco suave. Visualize um losango de luz dourada ou marrom fechando-se sobre um projeto, selando-o em perfeição, ou uma semente brilhando sob a terra escura.
+    -   **Bindrune de Conclusão:** Ingwaz + Jera = O ciclo que chega ao fim e prepara a colheita futura. Ingwaz + Othala = O legado potencial que é passado adiante.
 
-*   **Uso na Spá (Adivinhação):**
-    *   **Posição Direita:** Potencial latente, gestação, conclusão bem-sucedida, descanso merecido, energia contida prestes a se manifestar, legado, masculinidade interior fecunda. **"A semente está no solo. A obra está concluída. Aguarde o broto."**
-    *   **Posição Invertida (Interpretação Moderna):** **Ingwaz, por sua simetria, é frequentemente considerada sem posição invertida.** Em um contexto desafiador, pode indicar: **estagnação sem propósito** (a semente que apodrece), **incapacidade de concluir** (medo do fechamento), **aborto de projetos** por falta de incubação, ou **energia criativa bloqueada** e não-fertilizada.
+-   **Uso na Spá (Adivinhação):**
+    -   **Posição Direita:** Potencial latente, gestação, conclusão bem-sucedida, descanso merecido, energia contida prestes a se manifestar, legado, masculinidade interior fecunda. **"A semente está no solo. A obra está concluída. Aguarde o broto."**
+    -   **Posição Invertida (Interpretação Moderna):** **Ingwaz, por sua simetria, é frequentemente considerada sem posição invertida.** Em um contexto desafiador, pode indicar: **estagnação sem propósito** (a semente que apodrece), **incapacidade de concluir** (medo do fechamento), **aborto de projetos** por falta de incubação, ou **energia criativa bloqueada** e não-fertilizada.
 
-*   **Exercício Prático de Conexão (O Ritual da Semente):**
+-   **Exercício Prático de Conexão (O Ritual da Semente):**
     1.  Pegue um grão (feijão, lentilha, grão de milho) e segure-o na palma da mão fechada.
     2.  Feche os olhos e pense em um ciclo que está para se encerrar ou um projeto que precisa "amadurecer".
     3.  Visualize toda a energia, aprendizado e potencial desse ciclo sendo sugado para dentro do grão em sua mão, condensando-se em energia pura.
@@ -316,44 +317,44 @@ O **Poema Anglo-Saxão** é nossa fonte primária e enigmática:
 
 ## ᛟ - Othala: A Herança, o Lar Ancestral e o Círculo Sagrado
 
-*   **Nome Proto-Germânico:** *Ōþalan* (Propriedade Hereditária, Lar Ancestral)
-*   **Fonema:** O (profundo, como em "origem")
-*   **Divindade Regente:** Os **Ancestrais** (Alfar e Dísir) e **Týr** (como Guardião da Lei do Clã)
-*   **Elemento Primário:** **Terra Ancestral / Éter da Tradição**
-*   **Mundo Associado:** **A Fazenda Familiar (Óðal) e o Túmulo dos Ancestrais**
-*   **Arquétipo Central:** **As Raízes que Nutrem. O Legado que Define. O Santuário da Identidade.**
+-   **Nome Proto-Germânico:** *Ōþalan* (Propriedade Hereditária, Lar Ancestral)
+-   **Fonema:** O (profundo, como em "origem")
+-   **Divindade Regente:** Os **Ancestrais** (Alfar e Dísir) e **Týr** (como Guardião da Lei do Clã)
+-   **Elemento Primário:** **Terra Ancestral / Éter da Tradição**
+-   **Mundo Associado:** **A Fazenda Familiar (Óðal) e o Túmulo dos Ancestrais**
+-   **Arquétipo Central:** **As Raízes que Nutrem. O Legado que Define. O Santuário da Identidade.**
 
 **Análise Arquetípica e Mítica:**
 Othala é a **runa da herança espiritual e material, do lar sagrado e da tradição viva**. Representa o **Óðal**, o conceito germânico mais profundo de propriedade: a **terra hereditária inalienável** que passava de geração em geração, o núcleo físico e espiritual da identidade familiar. Seu glifo (ᛟ) lembra um **círculo com uma entrada ou uma casa com alicerces**, simbolizando o **lar protegido**, a **linhagem fechada mas receptiva** e os **limites sagrados do clã**. Esta runa não é sobre um pedaço qualquer de terra; é sobre o solo **sagrado pela ancestralidade**, impregnado com o sangue, suor, memória e honra dos que vieram antes. Othala nos conecta ao que nos precedeu, dando-nos fundamento, identidade e uma **responsabilidade profunda** para com as gerações futuras. É a **estabilidade última** que permite a coragem para a transformação (Dagaz).
 
 Os poemas a descrevem como a fonte máxima de segurança, valor e alegria:
 
-*   **Poema Anglo-Saxão (ênfase no valor afetivo e legal):**
-    *   *"Ēþel byþ ofer lēof āghwylcum men, gif hē mōt ðǣr rihtes and gerȳsena on brūcan on bolde bleadum oftast."*
-    *   **"A Herança é muito querida para todo homem, se ele pode desfrutar dela em sua casa, dos direitos e costumes, na morada, com prosperidade, muito frequentemente."**
-    *   A chave está em **"direitos e costumes"** (*rihtes and gerȳsena*). A herança Othala não é uma posse passiva; é um **pacote ativo de direitos, deveres e tradições** que devem ser exercidos e honrados para que seu valor se realize.
+-   **Poema Anglo-Saxão (ênfase no valor afetivo e legal):**
+    -   *"Ēþel byþ ofer lēof āghwylcum men, gif hē mōt ðǣr rihtes and gerȳsena on brūcan on bolde bleadum oftast."*
+    -   **"A Herança é muito querida para todo homem, se ele pode desfrutar dela em sua casa, dos direitos e costumes, na morada, com prosperidade, muito frequentemente."**
+    - A chave está em **"direitos e costumes"** (*rihtes and gerȳsena*). A herança Othala não é uma posse passiva; é um **pacote ativo de direitos, deveres e tradições** que devem ser exercidos e honrados para que seu valor se realize.
 
-*   **Poema Islandês:**
-    *   *"Óðal er aldar njótr ok eignar hagi ok jafnan gengi."*
-    *   **"A Herança é o benefício dos homens, e um bom patrimônio, e companhia constante."**
-    *   Vê a herança como um **benefício perene** e uma **companhia constante** – ela nunca o abandona, é sua base permanente.
+-   **Poema Islandês:**
+    -   *"Óðal er aldar njótr ok eignar hagi ok jafnan gengi."*
+    -   **"A Herança é o benefício dos homens, e um bom patrimônio, e companhia constante."**
+    - Vê a herança como um **benefício perene** e uma **companhia constante** – ela nunca o abandona, é sua base permanente.
 
-*   **Poema Norueguês:**
-    *   *"Óðal er um frama; en í frændgarði; ok húss í hæima."*
-    *   **"A Herança é muito preciosa; e no pátio dos parentes; e uma casa em casa."**
-    *   Foca no **valor inestimável** e na **segurança íntima** proporcionada pelo espaço familiar e pelos laços de sangue.
+-   **Poema Norueguês:**
+    -   *"Óðal er um frama; en í frændgarði; ok húss í hæima."*
+    -   **"A Herança é muito preciosa; e no pátio dos parentes; e uma casa em casa."**
+    - Foca no **valor inestimável** e na **segurança íntima** proporcionada pelo espaço familiar e pelos laços de sangue.
 
 **Práxis Mágica e Oracular:**
-*   **Uso no Galdr (Magia):**
-    *   **Propósito:** **Proteção poderosa do lar, da família e da propriedade**. **Conectar-se com ancestrais** para sabedoria, orientação ou pedir proteção. **Estabelecer raízes profundas** em um novo lugar. **Atrair prosperidade estável e duradoura** ligada ao trabalho e à linhagem. **Fortalecer os laços familiares** de forma positiva e curar conflitos hereditários. **Criar um "círculo sagrado"** para rituais.
-    *   **Técnica:** O som é um **"O"** profundo, redondo e ecoante, como o som dentro de um salão ancestral ou o suspiro da terra. Visualize o símbolo de Othala circundando sua casa, sua família ou a si mesmo, criando um limite luminoso e impenetrável que separa o sagrado do profano.
-    *   **Bindrune de Legado:** Othala + Ingwaz = O legado potencial sendo transmitido e incubado para o futuro. Othala + Tiwaz = A defesa da herança e da lei familiar.
+-   **Uso no Galdr (Magia):**
+    -   **Propósito:** **Proteção poderosa do lar, da família e da propriedade**. **Conectar-se com ancestrais** para sabedoria, orientação ou pedir proteção. **Estabelecer raízes profundas** em um novo lugar. **Atrair prosperidade estável e duradoura** ligada ao trabalho e à linhagem. **Fortalecer os laços familiares** de forma positiva e curar conflitos hereditários. **Criar um "círculo sagrado"** para rituais.
+    -   **Técnica:** O som é um **"O"** profundo, redondo e ecoante, como o som dentro de um salão ancestral ou o suspiro da terra. Visualize o símbolo de Othala circundando sua casa, sua família ou a si mesmo, criando um limite luminoso e impenetrável que separa o sagrado do profano.
+    -   **Bindrune de Legado:** Othala + Ingwaz = O legado potencial sendo transmitido e incubado para o futuro. Othala + Tiwaz = A defesa da herança e da lei familiar.
 
-*   **Uso na Spá (Adivinhação):**
-    *   **Posição Direita:** Herança, lar, família, tradição, raízes, estabilidade, propriedade, apoio ancestral, senso de pertencimento. **"Você está em casa. Suas raízes são profundas e nutridoras."**
-    *   **Posição Invertida:** Conflitos familiares destrutivos, perda do lar ou desenraizamento, tradição opressora que precisa ser rompida, disputas por herança, falta de estabilidade, rejeição das próprias origens. **"O lar está em desordem. As raízes estão doentes."** Um chamado para curar dinâmicas familiares, redefinir o que "lar" significa ou cortar amarras prejudiciais do passado.
+-   **Uso na Spá (Adivinhação):**
+    -   **Posição Direita:** Herança, lar, família, tradição, raízes, estabilidade, propriedade, apoio ancestral, senso de pertencimento. **"Você está em casa. Suas raízes são profundas e nutridoras."**
+    -   **Posição Invertida:** Conflitos familiares destrutivos, perda do lar ou desenraizamento, tradição opressora que precisa ser rompida, disputas por herança, falta de estabilidade, rejeição das próprias origens. **"O lar está em desordem. As raízes estão doentes."** Um chamado para curar dinâmicas familiares, redefinir o que "lar" significa ou cortar amarras prejudiciais do passado.
 
-*   **Exercício Prático de Conexão (O Altar dos Ancestrais):**
+-   **Exercício Prático de Conexão (O Altar dos Ancestrais):**
     1.  Crie um pequeno espaço sagrado em sua casa (uma prateleira, um canto).
     2.  Coloque ali objetos que conectem você aos seus ancestrais: fotos, uma pedra de sua terra natal, um objeto herdado, uma vela.
     3.  No centro, coloque uma pedra ou peça de madeira com o símbolo de Othala gravado ou desenhado.
@@ -364,44 +365,44 @@ Os poemas a descrevem como a fonte máxima de segurança, valor e alegria:
 
 ## ᛞ - Dagaz: O Amanhecer, a Transformação Radical e a Totalidade
 
-*   **Nome Proto-Germânico:** *Dagaz* (Dia)
-*   **Fonema:** D
-*   **Arquétipo Regente:** **Dagr** (a personificação do Dia), filho de Nótt (Noite)
-*   **Elemento Primário:** **Luz Primordial / Éter da Iluminação**
-*   **Mundo Associado:** **O Limiar entre Nótt e Dagr (Aurora/Crepúsculo)**
-*   **Arquétipo Central:** **O Ponto de Virada Cósmico. A Iluminação Súbita. A Síntese dos Opostos.**
+-   **Nome Proto-Germânico:** *Dagaz* (Dia)
+-   **Fonema:** D
+-   **Arquétipo Regente:** **Dagr** (a personificação do Dia), filho de Nótt (Noite)
+-   **Elemento Primário:** **Luz Primordial / Éter da Iluminação**
+-   **Mundo Associado:** **O Limiar entre Nótt e Dagr (Aurora/Crepúsculo)**
+-   **Arquétipo Central:** **O Ponto de Virada Cósmico. A Iluminação Súbita. A Síntese dos Opostos.**
 
 **Análise Arquetípica e Mítica:**
 Dagaz é a **runa da transformação radical, do despertar espiritual e da síntese final de todas as dualidades**. É a **vigésima quarta e última runa** do Futhark Antigo, fechando o ciclo com perfeição e, ao mesmo tempo, reiniciando-o em um nível superior de consciência. Seu glifo (ᛞ) é perfeitamente simétrico, um **losango ou uma borboleta** que representa o **ponto de virada** onde a noite se torna dia – o **momento do amanhecer**. Dagaz não é o "dia" pleno (isso é Sowilo, o sol), mas o **instante mágico, irreversível, em que a luz rompe a escuridão**. É a runa do **"Eureka!"**, da **mudança de paradigma**, da **revelação que altera para sempre a percepção da realidade**. Ela transcende todas as oposições do Futhark (Fogo/Gelo de Hagalaz, Luz/Escuridão de Sowilo e Isa, Vida/Morte de Eihwaz) ao ocupar e representar o **limiar onde um polo se transforma em seu oposto**. É a runa do **caminho do meio**, do **despertar do Buda**, do **Ragnarök que é também um renascimento**. É a promessa de que nenhuma escuridão é eterna.
 
 Os poemas a celebram como luz benfazeja, mensageira divina e alegria universal:
 
-*   **Poema Anglo-Saxão (o mais belo e igualitário):**
-    *   *"Dæg byþ Drihtnes sond, deore mannum, mære Metodes leoht, myrgþ and tohīht eadgum and earmum, eallum brice."*
-    *   **"O Dia é o mensageiro do Senhor, querido aos homens, a luz gloriosa do Criador, alegria e esperança para o abastado e o pobre, útil a todos."**
-    *   Aqui, Dagaz é a **luz igualitária** que traz **alegria e esperança** (*myrgþ and tohīht*) a **todos**, sem distinção de status (*eadgum and earmum*). É um dom universal de renovação.
+-   **Poema Anglo-Saxão (o mais belo e igualitário):**
+    -   *"Dæg byþ Drihtnes sond, deore mannum, mære Metodes leoht, myrgþ and tohīht eadgum and earmum, eallum brice."*
+    -   **"O Dia é o mensageiro do Senhor, querido aos homens, a luz gloriosa do Criador, alegria e esperança para o abastado e o pobre, útil a todos."**
+    -   Aqui, Dagaz é a **luz igualitária** que traz **alegria e esperança** (*myrgþ and tohīht*) a **todos**, sem distinção de status (*eadgum and earmum*). É um dom universal de renovação.
 
-*   **Poema Norueguês:**
-    *   *"Dagr er Drottins öld, himins ljóme, roðull ok ríðandi regin."*
-    *   **"O Dia é o senhor do tempo, esplendor do céu, roda e cavalgada dos deuses."**
-    *   Associa o dia ao **ciclo cósmico ordenado** ("senhor do tempo", "roda") e ao movimento divino ("cavalgada dos deuses").
+-   **Poema Norueguês:**
+    -   *"Dagr er Drottins öld, himins ljóme, roðull ok ríðandi regin."*
+    -   **"O Dia é o senhor do tempo, esplendor do céu, roda e cavalgada dos deuses."**
+    - Associa o dia ao **ciclo cósmico ordenado** ("senhor do tempo", "roda") e ao movimento divino ("cavalgada dos deuses").
 
-*   **Poema Islandês:**
-    *   *"Dagr er Drottins sendr, ok dygðar gjöf."*
-    *   **"O Dia é enviado pelo Senhor, e um dom de virtude/excelência."**
-    *   Vê o amanhecer como um **presente divino** que traz consigo o potencial para a **excelência moral e espiritual** (*dygð*).
+-   **Poema Islandês:**
+    -   *"Dagr er Drottins sendr, ok dygðar gjöf."*
+    -   **"O Dia é enviado pelo Senhor, e um dom de virtude/excelência."**
+    - Vê o amanhecer como um **presente divino** que traz consigo o potencial para a **excelência moral e espiritual** (*dygð*).
 
 **Práxis Mágica e Oracular:**
-*   **Uso no Galdr (Magia):**
-    *   **Propósito:** **Catalisar transformações pessoais profundas e positivas**. **Romper estagnações, vícios ou padrões crônicos** de forma decisiva. Trazer **iluminação e clareza mental absoluta** sobre um problema complexo. Realizar trabalhos de **"ponto de virada"** em qualquer área da vida. **Abençoar novos começos** com energia pura e integradora. **Equilibrar polaridades internas** (mente/coração, razão/emoção).
-    *   **Técnica:** O som é um **"D"** claro, decisivo e luminoso, como o primeiro raio de sol cortando a escuridão. Visualize o losango de Dagaz brilhando como um portal de luz no centro de sua testa ou no horizonte de sua vida, dissolvendo sombras e revelando novas paisagens de possibilidade.
-    *   **Bindrune de Iluminação:** Dagaz + Sowilo = A máxima clareza, vitalidade e sucesso após uma transformação. Dagaz + Ansuz = A palavra inspirada que vem da iluminação.
+-   **Uso no Galdr (Magia):**
+    -   **Propósito:** **Catalisar transformações pessoais profundas e positivas**. **Romper estagnações, vícios ou padrões crônicos** de forma decisiva. Trazer **iluminação e clareza mental absoluta** sobre um problema complexo. Realizar trabalhos de **"ponto de virada"** em qualquer área da vida. **Abençoar novos começos** com energia pura e integradora. **Equilibrar polaridades internas** (mente/coração, razão/emoção).
+    -   **Técnica:** O som é um **"D"** claro, decisivo e luminoso, como o primeiro raio de sol cortando a escuridão. Visualize o losango de Dagaz brilhando como um portal de luz no centro de sua testa ou no horizonte de sua vida, dissolvendo sombras e revelando novas paisagens de possibilidade.
+    -   **Bindrune de Iluminação:** Dagaz + Sowilo = A máxima clareza, vitalidade e sucesso após uma transformação. Dagaz + Ansuz = A palavra inspirada que vem da iluminação.
 
-*   **Uso na Spá (Adivinhação):**
-    *   **Posição Direita (e Única):** **Dagaz não possui posição invertida tradicional.** É um sinal **sempre positivo e poderoso** de mudança. Significa: **Transformação radical positiva, despertar, ponto de virada inevitável, clareza absoluta, breakthrough, esperança realizável, síntese de conflitos, um novo ciclo de luz.** **"O amanhecer chega. A noite terminou. Tudo mudará."**
-    *   **Interpretação de Sombra (Contextual):** Em um contexto extremamente negativo, pode sugerir uma **mudança tão brusca que é desorientadora**, ou alertar que uma **ilusão está prestes a ser quebrada** (o que é doloroso, mas necessário). Porém, mesmo nesses casos, a energia fundamental de Dagaz é de **clareza e avanço**.
+-   **Uso na Spá (Adivinhação):**
+    -   **Posição Direita (e Única):** **Dagaz não possui posição invertida tradicional.** É um sinal **sempre positivo e poderoso** de mudança. Significa: **Transformação radical positiva, despertar, ponto de virada inevitável, clareza absoluta, breakthrough, esperança realizável, síntese de conflitos, um novo ciclo de luz.** **"O amanhecer chega. A noite terminou. Tudo mudará."**
+    -   **Interpretação de Sombra (Contextual):** Em um contexto extremamente negativo, pode sugerir uma **mudança tão brusca que é desorientadora**, ou alertar que uma **ilusão está prestes a ser quebrada** (o que é doloroso, mas necessário). Porém, mesmo nesses casos, a energia fundamental de Dagaz é de **clareza e avanço**.
 
-*   **Exercício Prático de Conexão (Saudação ao Amanhecer):**
+-   **Exercício Prático de Conexão (Saudação ao Amanhecer):**
     1.  Procure levantar-se antes do amanhecer. Vá para um local onde possa ver o horizonte leste.
     2.  Fique de pé, em silêncio, enquanto o céu clareia. Observe as cores mudando, a escuridão recuando.
     3.  No momento exato em que o primeiro segmento do sol aparecer no horizonte, erga os braços e visualize o símbolo de Dagaz brilhando no centro do disco solar.
@@ -424,59 +425,97 @@ O **Terceiro Ætt de Týr** representa o estágio culminante da jornada rúnica:
 ### O Percurso das Oito Runas do Ætt de Týr:
 
 1.  **ᛏ TIWAZ — O Sacrifício Ético**
-    *   **Arquétipo:** A lei que transcende o indivíduo. O sacrifício consciente pela ordem.
-    *   **Energia:** A lança de Týr, a justiça cósmica, a honra inquebrantável. A mão dada ao lobo para salvar o cosmos. A aceitação de que a verdadeira vitória (*sigi*) exige perda.
-    *   **Poemas:** O deus de uma mão (Nórdicos) que "mantém a fé" e nunca falha (Anglo-Saxão).
+    -   **Arquétipo:** A lei que transcende o indivíduo. O sacrifício consciente pela ordem.
+    -   **Energia:** A lança de Týr, a justiça cósmica, a honra inquebrantável. A mão dada ao lobo para salvar o cosmos. A aceitação de que a verdadeira vitória (*sigi*) exige perda.
+    -   **Poemas:** O deus de uma mão (Nórdicos) que "mantém a fé" e nunca falha (Anglo-Saxão).
 
 2.  **ᛒ BERKANO — O Cuidado Criativo**
-    *   **Arquétipo:** O princípio feminino criativo. O crescimento protegido.
-    *   **Energia:** A bétula, o ventre do mundo, o lar. A força que **nutre, aquece e faz brotar** a vida dentro da estrutura da lei (Tiwaz). A beleza generosa que precede o fruto.
-    *   **Poemas:** A árvore frondosa e jovem (Islandês), a mais verde das folhas com o aviso de Loki (Norueguês), a árvore bela e protetora (Anglo-Saxão).
+    -   **Arquétipo:** O princípio feminino criativo. O crescimento protegido.
+    -   **Energia:** A bétula, o ventre do mundo, o lar. A força que **nutre, aquece e faz brotar** a vida dentro da estrutura da lei (Tiwaz). A beleza generosa que precede o fruto.
+    -   **Poemas:** A árvore frondosa e jovem (Islandês), a mais verde das folhas com o aviso de Loki (Norueguês), a árvore bela e protetora (Anglo-Saxão).
 
 3.  **ᛖ EHWAZ — A Jornada Conjunta**
-    *   **Arquétipo:** A confiança mútua que move montanhas. O progresso através da união.
-    *   **Energia:** O cavalo, a parceria simbiótica, a sincronia perfeita. O veículo vivo da transformação. A lição de que as maiores jornadas e mudanças são realizadas **com** e **através** dos outros.
-    *   **Poemas:** Presente apenas no **Anglo-Saxão** como alegria dos nobres e conforto ao fatigado – uma parceria que traz bem-estar.
+    -   **Arquétipo:** A confiança mútua que move montanhas. O progresso através da união.
+    -   **Energia:** O cavalo, a parceria simbiótica, a sincronia perfeita. O veículo vivo da transformação. A lição de que as maiores jornadas e mudanças são realizadas **com** e **através** dos outros.
+    -   **Poemas:** Presente apenas no **Anglo-Saxão** como alegria dos nobres e conforto ao fatigado – uma parceria que traz bem-estar.
 
 4.  **ᛗ MANNAZ — A Consciência Coletiva**
-    *   **Arquétipo:** O Self como parte do todo. A inteligência aplicada ao social.
-    *   **Energia:** A humanidade, a mente, a teia social interdependente. A alegria da companhia humana ("alegria do homem") confrontada com a **condição mortal universal** ("cada um deve trair o outro"). A responsabilidade para com a tribo.
-    *   **Poemas:** A alegria, o aumento da terra e o adornador (Islandês), o aumento da terra com a garra do falcão (Norueguês), a profunda reflexão sobre a mortalidade compartilhada (Anglo-Saxão).
+    -   **Arquétipo:** O Self como parte do todo. A inteligência aplicada ao social.
+    -   **Energia:** A humanidade, a mente, a teia social interdependente. A alegria da companhia humana ("alegria do homem") confrontada com a **condição mortal universal** ("cada um deve trair o outro"). A responsabilidade para com a tribo.
+    -   **Poemas:** A alegria, o aumento da terra e o adornador (Islandês), o aumento da terra com a garra do falcão (Norueguês), a profunda reflexão sobre a mortalidade compartilhada (Anglo-Saxão).
 
 5.  **ᛚ LAGUZ — O Fluxo do Inconsciente**
-    *   **Arquétipo:** O inconsciente coletivo. A emoção que flui. A adaptabilidade vital.
-    *   **Energia:** A água viva, o mar, a intuição, o destino (*Wyrd*) como rio. A fertilidade oculta e o potencial não manifestado. A sabedoria de **navegar, não lutar contra a corrente**.
-    *   **Poemas:** O mar interminável e aterrorizante (Anglo-Saxão), a água fervente e o caldeirão da vida (Islandês), a cachoeira pura que vale mais que ouro (Norueguês).
+    -   **Arquétipo:** O inconsciente coletivo. A emoção que flui. A adaptabilidade vital.
+    -   **Energia:** A água viva, o mar, a intuição, o destino (*Wyrd*) como rio. A fertilidade oculta e o potencial não manifestado. A sabedoria de **navegar, não lutar contra a corrente**.
+    -   **Poemas:** O mar interminável e aterrorizante (Anglo-Saxão), a água fervente e o caldeirão da vida (Islandês), a cachoeira pura que vale mais que ouro (Norueguês).
 
 6.  **ᛜ INGWAZ — A Conclusão Fértil**
-    *   **Arquétipo:** O potencial concentrado. A gestação silenciosa.
-    *   **Energia:** A semente, o deus Ing, o legado em repouso. O **losango fechado** que contém toda a vida em potencial. A conclusão perfeita de um ciclo que é, em si, o início do próximo.
-    *   **Poemas:** Presente apenas no **Anglo-Saxão** – o herói Ing que parte, deixando sua carruagem (legado) para trás.
+    -   **Arquétipo:** O potencial concentrado. A gestação silenciosa.
+    -   **Energia:** A semente, o deus Ing, o legado em repouso. O **losango fechado** que contém toda a vida em potencial. A conclusão perfeita de um ciclo que é, em si, o início do próximo.
+    -   **Poemas:** Presente apenas no **Anglo-Saxão** – o herói Ing que parte, deixando sua carruagem (legado) para trás.
 
 7.  **ᛟ OTHALA — A Herança Eterna**
-    *   **Arquétipo:** As raízes que nutrem. O santuário da identidade.
-    *   **Energia:** A propriedade hereditária (*Óðal*), o lar ancestral, a tradição viva. A **terra sagrada pela ancestralidade**. A base estável que permite a coragem para transformar. A responsabilidade de receber, honrar e transmitir.
-    *   **Poemas:** Presente apenas no **Anglo-Saxão** – a herança querida, desde que se honrem seus direitos e costumes.
+    -   **Arquétipo:** As raízes que nutrem. O santuário da identidade.
+    -   **Energia:** A propriedade hereditária (*Óðal*), o lar ancestral, a tradição viva. A **terra sagrada pela ancestralidade**. A base estável que permite a coragem para transformar. A responsabilidade de receber, honrar e transmitir.
+    -   **Poemas:** Presente apenas no **Anglo-Saxão** – a herança querida, desde que se honrem seus direitos e costumes.
 
 8.  **ᛞ DAGAZ — A Iluminação Transformadora**
-    *   **Arquétipo:** O ponto de virada cósmico. A síntese dos opostos.
-    *   **Energia:** O amanhecer, o instante em que a luz rompe a escuridão. A **transformação radical e irreversível**, o "Eureka!" que altera a percepção da realidade. A runa que **transcende todas as dualidades** do Futhark, ocupando o limiar onde os opostos se tornam um.
-    *   **Poemas:** Presente apenas no **Anglo-Saxão** – a luz igualitária, mensageira divina, alegria e esperança para **todos**.
+    -   **Arquétipo:** O ponto de virada cósmico. A síntese dos opostos.
+    -   **Energia:** O amanhecer, o instante em que a luz rompe a escuridão. A **transformação radical e irreversível**, o "Eureka!" que altera a percepção da realidade. A runa que **transcende todas as dualidades** do Futhark, ocupando o limiar onde os opostos se tornam um.
+    -   **Poemas:** Presente apenas no **Anglo-Saxão** – a luz igualitária, mensageira divina, alegria e esperança para **todos**.
 
 ### A Lição do Terceiro Ætt
 
 Este conjunto ensina que a **verdadeira soberania é ética, enraizada e transformadora**:
 
-*   Começa com o **sacrifício do ego** (Tiwaz) em nome de um princípio maior.
-*   Esse sacrifício cria o espaço para o **cuidado criativo** (Berkano) e para **parcerias significativas** (Ehwaz).
-*   A consciência se expande para perceber a **teia social** (Mannaz) e se render ao **fluxo intuitivo do destino** (Laguz).
-*   Dessa jornada, emerge um **potencial concentrado** (Ingwaz) e uma **herança a ser honrada** (Othala).
-*   Tudo culmina na **iluminação transformadora** (Dagaz) – o despertar que revela a unidade subjacente a todo o percurso.
+-   Começa com o **sacrifício do ego** (Tiwaz) em nome de um princípio maior.
+-   Esse sacrifício cria o espaço para o **cuidado criativo** (Berkano) e para **parcerias significativas** (Ehwaz).
+-   A consciência se expande para perceber a **teia social** (Mannaz) e se render ao **fluxo intuitivo do destino** (Laguz).
+-   Dessa jornada, emerge um **potencial concentrado** (Ingwaz) e uma **herança a ser honrada** (Othala).
+-   Tudo culmina na **iluminação transformadora** (Dagaz) – o despertar que revela a unidade subjacente a todo o percurso.
 
 O Terceiro Ætt é a **coroação e a transcendência**. É o retorno ao ponto de origem (o vazio potencial), mas em um nível superior de consciência. O praticante que trilha este caminho não busca poder sobre as runas, mas **alinhamento com a sabedoria que elas codificam**.
 
-*   **Do 1º Ætt (Freyr/Freyja):** Aprendeu a **manifestar a vida** em harmonia com as forças vitais.
-*   **Do 2º Ætt (Heimdallr):** Aprendeu a **navegar no destino** com resiliência e percepção aguçada.
-*   **Do 3º Ætt (Týr):** Aprende a **assumir a responsabilidade cósmica**, oferecendo seu próprio "eu" no altar da ordem maior, para então receber a herança (Othala) e a iluminação (Dagaz) que dissolvem o separativo.
+-   **Do 1º Ætt (Freyr/Freyja):** Aprendeu a **manifestar a vida** em harmonia com as forças vitais.
+-   **Do 2º Ætt (Heimdallr):** Aprendeu a **navegar no destino** com resiliência e percepção aguçada.
+-   **Do 3º Ætt (Týr):** Aprende a **assumir a responsabilidade cósmica**, oferecendo seu próprio "eu" no altar da ordem maior, para então receber a herança (Othala) e a iluminação (Dagaz) que dissolvem o separativo.
 
 Assim, as 24 runas do Futhark Antigo descrevem um **ciclo completo de existência consciente**: do impulso primordial à integração cósmica, passando pela forja no cadinho do destino. O estudante agora possui não apenas um alfabeto, mas um **mapa da psique, do cosmos e do tempo**, pronto para ser aplicado na prática mágica, oracular e, acima de tudo, no **viver com sabedoria**.
+
+---
+
+## Termos em Nórdico Antigo Utilizados neste Capítulo
+
+- **Ætt** (pl. Ættir) - Família ou grupo de oito runas. Ver: [Índice Remissivo](./indice-remissivo.md#a)
+- **Berkana** (ᛒ) - Runa da bétula, crescimento. Ver: [Índice Remissivo](./indice-remissivo.md#b)
+- **Bjǫrk** - Bétula, árvore associada a Berkana. Ver: [Índice Remissivo](./indice-remissivo.md#b)
+- **Dagaz** (ᛞ) - Runa do amanhecer e transformação. Ver: [Índice Remissivo](./indice-remissivo.md#d)
+- **Dísir** - Espíritos femininos ancestrais. Ver: [Índice Remissivo](./indice-remissivo.md#d)
+- **Dygð** - Excelência moral e espiritual. Ver: [Índice Remissivo](./indice-remissivo.md#d)
+- **Eadgum and earmum** - Ricos e pobres, todos sem distinção. Ver: [Índice Remissivo](./indice-remissivo.md#e)
+- **Ehwaz** (ᛖ) - Runa do cavalo, parceria. Ver: [Índice Remissivo](./indice-remissivo.md#e)
+- **Einhandr** - De uma mão, epíteto de Týr. Ver: [Índice Remissivo](./indice-remissivo.md#e)
+- **Frigg** - Deusa do lar e casamento. Ver: [Índice Remissivo](./indice-remissivo.md#f)
+- **Hofa hilmir** - Príncipe do templo, autoridade sagrada. Ver: [Índice Remissivo](./indice-remissivo.md#h)
+- **Ing** (Ingwaz) - Deus da fertilidade. Ver: [Índice Remissivo](./indice-remissivo.md#i)
+- **Ingwaz** (ᛜ) - Runa do deus Ing. Ver: [Índice Remissivo](./indice-remissivo.md#i)
+- **Jór** - Cavalo, associado a Ehwaz. Ver: [Índice Remissivo](./indice-remissivo.md#j)
+- **Laguz** (ᛚ) - Runa da água, fluxo vital. Ver: [Índice Remissivo](./indice-remissivo.md#l)
+- **Loki** - Deus trapaceiro. Ver: [Índice Remissivo](./indice-remissivo.md#l)
+- **Lögr** - Água, elemento fluido. Ver: [Índice Remissivo](./indice-remissivo.md#l)
+- **Maðr** - Homem, ser humano. Ver: [Índice Remissivo](./indice-remissivo.md#m)
+- **Mannaz** (ᛗ) - Runa da humanidade. Ver: [Índice Remissivo](./indice-remissivo.md#m)
+- **Midgard** - "Terra Média", mundo dos humanos. Ver: [Índice Remissivo](./indice-remissivo.md#m)
+- **Myrgþ and tohīht** - Alegria e esperança. Ver: [Índice Remissivo](./indice-remissivo.md#m)
+- **Njörðr** - Deus Vanir do mar. Ver: [Índice Remissivo](./indice-remissivo.md#n)
+- **Nornas** - Três entidades que tecem o destino. Ver: [Índice Remissivo](./indice-remissivo.md#n)
+- **Nótt** - Personificação da Noite. Ver: [Índice Remissivo](./indice-remissivo.md#n)
+- **Othala** (ᛟ) - Runa da herança, lar ancestral. Ver: [Índice Remissivo](./indice-remissivo.md#o)
+- **Ríg** - Heimdallr como estruturador social. Ver: [Índice Remissivo](./indice-remissivo.md#r)
+- **Sigi** - Vitória, conquista. Ver: [Índice Remissivo](./indice-remissivo.md#s)
+- **Sleipnir** - Corcel de oito patas de Óðinn. Ver: [Índice Remissivo](./indice-remissivo.md#s)
+- **Tiwaz** (ᛏ) - Runa da lança de Týr. Ver: [Índice Remissivo](./indice-remissivo.md#t)
+- **Týr** - Deus da lei e sacrifício soberano. Ver: [Índice Remissivo](./indice-remissivo.md#t)
+- **Ulfs leifar** - Restos do lobo, referência ao mito de Týr. Ver: [Índice Remissivo](./indice-remissivo.md#u)
+- **Wyrd** - A teia do destino em constante movimento. Ver: [Índice Remissivo](./indice-remissivo.md#w)
+- **Ynglings** - Dinastia real sueca. Ver: [Índice Remissivo](./indice-remissivo.md#y)
