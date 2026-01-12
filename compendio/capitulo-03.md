@@ -1,5 +1,5 @@
-# Capítulo III
-##### O Segundo Ætt de Heimdallr - A Ordem do Tempo e do Destino
+# Capítulo III:
+##### O Segundo Ætt de Heimdallr: A Ordem do Tempo e do Destino
 
 
 

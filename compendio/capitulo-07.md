@@ -1,10 +1,10 @@
-# Capítulo VII
-##### A Arte Oracular e a Ética do Wyrd - Do Espelho à Tecelagem
+# Capítulo VII:
+##### A Arte Oracular e a Ética do Wyrd: Do Espelho à Tecelagem
 
 
 
 
-## 7.1. Oráculo como Espelho Dinâmico: A Leitura do *Verðr* (O Tornar-Se)
+## Oráculo como Espelho Dinâmico: A Leitura do *Verðr* (O Tornar-Se)
 
 A prática oracular rúnica (*Spá*) distancia-se radicalmente de sistemas de adivinhação que buscam predizer um futuro estático e imutável. No coração da visão nórdica, o futuro não é uma linha reta, mas um **campo de potenciais** que emerge continuamente da interação entre o **Örlög** (a lei primordial, o passado causal) e o **Horlog** (as ações presentes). A tiragem rúnica, portanto, funciona como um **espelho energético dinâmico** que reflete o estado do **Wyrd** (a teia do destino) *no momento exato da consulta*.
 
@@ -19,7 +19,7 @@ Para cultivar a sensibilidade oracular, o praticante deve integrar o diálogo co
 *   **A Runa da Noite (Ao Dormir):**
     *   **Processo:** Após meditar sobre o dia que passou, escolhe-se (ou saca-se) uma runa que represente uma lição a ser integrada ou uma questão a ser esclarecida nos sonhos. Coloca-se sob o travesseiro. A runa atua como um **foco para o *draumsýn* (visão onírica)**, facilitando sonhos lúcidos ou reveladores e a cura durante o sono.
 
-## 7.2. Wyrd e Örlög: A Teia, a Lei e a Liberdade Ética
+## Wyrd e Örlög: A Teia, a Lei e a Liberdade Ética
 
 A profundidade da prática oracular exige um domínio claro da cosmologia do destino nórdico, centrada em dois conceitos interligados:
 
@@ -46,7 +46,7 @@ Manusear as runas para si ou para outrem é firmar um **pacto sagrado** com as p
 
 Esta prática honra as Nornas, equilibra a troca no Wyrd e protege o leitor da absorção passiva de *hamingja* (sorte/poder) ou energias pesadas alheias.
 
-## 7.3. Metodologia Avançada: Lendo o Campo de Forças
+## Metodologia Avançada: Lendo o Campo de Forças
 
 A maestria oracular está em interpretar não runas isoladas, mas o **campo de forças vivo** criado por sua disposição e interação.
 
@@ -76,7 +76,7 @@ A verdadeira história é contada pelas **relações** entre as runas.
 | **Invertida (Merkstave)** | A energia da runa está **bloqueada, internalizada de forma distorcida, rejeitada ou em conflito ativo** com o ambiente. A lição do arquétipo não está sendo integrada. | **Trabalho de Integração da Sombra.** 1) Meditar profundamente sobre o aspecto "negativo" ou desafiador da runa. 2) Praticar o **Galdr** da runa na posição direita, visualizando o bloqueio se dissolvendo. 3) Agir no mundo físico de modo a **corrigir o desalinhamento** (ex.: para Ansuz invertida: praticar comunicação honesta e clara). |
 | **Oculta (virada para baixo)** | Representa um **potencial latente**, um aspecto do **Örlög** ainda não manifestado, uma influência sutil de *alfar* (elfos) ou *dvergar* (anões), ou um **segredo** relacionado à questão. É uma energia adormecida no campo. | **Trabalho de Evocação e Cultivo.** 1) **Meditação e Galdr** para "despertar" essa energia. 2) **Rituais de oferenda** (leite, mel, pedacinhos de pão) a espíritos da natureza, pedindo clareza sobre esse potencial. 3) **Investigar a linhagem familiar** ou padrões inconscientes que possam estar na raiz. |
 
-## 7.4. Ritualística Oracular: Do Véu à Gratidão
+## Ritualística Oracular: Do Véu à Gratidão
 
 Um ato oracular é um **ritual em miniatura**. Estruturá-lo com solenidade amplifica sua clareza, profundidade e segurança energética.
 
@@ -131,7 +131,7 @@ A leitura só termina com o fechamento adequado do ciclo energético.
 
 \newpage
 
-## 7.5. Conclusão: Do Leitor ao Tecelão Consciente
+## Conclusão: Do Leitor ao Tecelão Consciente
 
 A verdadeira maestria oracular rúnica vai além da interpretação hábil de símbolos. Ela culmina na integração do **conhecimento** (a leitura), da **ética** (o respeito pelo Wyrd) e da **vontade ativa** (o Galdr e a ação subsequente).
 

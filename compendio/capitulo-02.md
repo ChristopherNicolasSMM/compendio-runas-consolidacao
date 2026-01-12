@@ -1,5 +1,5 @@
-# Capítulo II
-##### O Primeiro Ætt: Freyr e Freyja – O Ciclo da Vida Manifesta
+# Capítulo II:
+##### O Primeiro Ætt: Freyr e Freyja: O Ciclo da Vida Manifesta
 
 
 ## Introdução ao Universo Nórdico e às Runas
@@ -95,7 +95,7 @@ Pessoalmente gosto muito da visão os 2 primeiros mas como todo estudioso, devem
 Este capítulo desvendará o **Primeiro Ætt**, o fundamento sobre o qual toda a experiência se constrói: o ciclo da Vida que surge, cresce, floresce e frutifica.
 
 
-## Os Regentes Vanir: Freyr e Freyja – Os Senhores da Fertilidade e da Fecundidade
+## Os Regentes Vanir: Freyr e Freyja: Os Senhores da Fertilidade e da Fecundidade
 
 Para compreender a energia que permeia estas oito primeiras runas, devemos conhecer as divindades que as governam, os irmãos:  **Freyr** e **Freyja**, os mais proeminentes dos **Vanir**.
 

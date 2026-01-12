@@ -1,10 +1,10 @@
-# Capítulo VIII
-##### O Corpo como Altar - Sintonia Somática, Jornada do Mago e a Ética do Wyrd
+# Capítulo VIII:
+##### O Corpo como Altar: Sintonia Somática, Jornada do Mago e a Ética do Wyrd
 
 
 
 
-## 8.1. O Microcosmo Rúnico: O Corpo como Mapa da Realidade Cósmica
+## O Microcosmo Rúnico: O Corpo como Mapa da Realidade Cósmica
 
 A jornada através do Futhark atinge sua plenitude prática na compreensão de que o **alfabeto rúnico** não é apenas um sistema de signos externos, mas um **mapa duplo da realidade**: do macrocosmo (a teia de *Wyrd*, os Nove Mundos) e do **microcosmo humano**. Esta visão, profundamente enraizada na tradição esotérica nórdica, realiza a máxima hermética *"assim como é acima, é abaixo"* através da **ressonância somática**.
 
@@ -19,7 +19,7 @@ A eficácia da aplicação somática baseia-se em três princípios fundamentais
 
 3.  **Evidência na Tradição Mágica:** Manuscritos islandeses posteriores (*galdrabækur*) e práticas *seiðr* folclóricas preservam associações entre runas e pontos corporais para cura ou influência.
 
-## 8.2. Cartografia Vibracional Completa: As Runas na Anatomia Sutil
+## Cartografia Vibracional Completa: As Runas na Anatomia Sutil
 
 A tabela seguinte constitui um **grimório somático completo**, integrando correspondências anatômicas, terapêuticas e protocolos de ativação.
 
@@ -50,7 +50,7 @@ A tabela seguinte constitui um **grimório somático completo**, integrando corr
 | **ᛞ Dagaz** | Corpo inteiro (luz/sombra), olhos, pineal | Percepção, ritmo circadiano | **Transformação e iluminação.** Confusão, transições abruptas, depressão invernal. | "DÁÁÁ-GAAAZ" - Mãos em oração no coração, depois abrindo, visualizar amanhecer interno. |
 | **ᛟ Othala** | DNA, células-tronco, pés, raiz familiar | Herança genética, ancoragem | **Cura ancestral.** Traumas familiares, doenças hereditárias, conexão com a terra. | "ÓÓÓ-THÁÁÁ-LA" - Solas dos pés no chão, visualizar raízes conectando aos ancestrais. |
 
-## 8.3. Protocolos de Práxis Somática: Da Teoria à Transformação Corpórea
+## Protocolos de Práxis Somática: Da Teoria à Transformação Corpórea
 
 ### **Protocolo Básico de Ativação Somática (Læknir Með Rúnar)**
 1.  **Diagnóstico e Intenção (Ráða):** Identifique área/ problema. Escolha runa conforme tabela. Formule intenção clara e específica.
@@ -89,7 +89,7 @@ Combine *Galdrs* em sequência para sistemas complexos:
 * Com cada expiração, sinta galhos subindo do topo do crânio aos reinos superiores.
 * Entoe *"EIIIH-WAAAZ"* suavemente, sentindo-se como o *axis mundi* do seu próprio universo.
 
-## 8.4. Advertências e Ética Somática: Os Limites do Corpo-Templo
+## Advertências e Ética Somática: Os Limites do Corpo-Templo
 
 A aplicação somática direta exige **responsabilidade extrema**. O corpo é um templo vivo, não um laboratório.
 
@@ -99,7 +99,7 @@ A aplicação somática direta exige **responsabilidade extrema**. O corpo é um
 4.  **Escuta Corporal (Hlýða):** Se uma runa causar desconforto agudo, náusea ou dor durante o *Galdr*, **PARE IMEDIATAMENTE**. Sua energia pode não ser adequada no momento.
 5.  **Ética do Toque:** Ao realizar *Galdr* para outra pessoa, **sempre peça permissão explícita**. Aja como **condutor**, não como invasor. Use luvas energéticas (visualização de *Algiz*) para proteção mútua.
 
-## 8.5. A Jornada do Mago Rúnico: Dos Níveis de Práxis à Maestria Integrada
+## A Jornada do Mago Rúnico: Dos Níveis de Práxis à Maestria Integrada
 
 O praticante evolve através de estágios que refletem sua integração com o Futhark:
 
@@ -112,7 +112,7 @@ O praticante evolve através de estágios que refletem sua integração com o Fu
 
 \newpage
 
-## 8.6. O Legado e o Chamado Final: Vivendo como Altar
+## O Legado e o Chamado Final: Vivendo como Altar
 
 Este compêndio não oferece um fim, mas um **novo modo de existência**. O conhecimento rúnico é um *skuld* (dívida/obrigação) contraída com Óðinn, com as Nornas e consigo mesmo.
 

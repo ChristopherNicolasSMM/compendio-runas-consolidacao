@@ -1,9 +1,9 @@
-# Capítulo VI
-##### As Bindrunes - A Sinergia Geométrica e a Arquitetura do Destino
+# Capítulo VI:
+##### As Bindrunes: A Sinergia Geométrica e a Arquitetura do Destino
 
 
 
-## 6.1. Da Letra à Fórmula: A Alquimia dos Símbolos
+## Da Letra à Fórmula: A Alquimia dos Símbolos
 
 Se cada runa é um **fonema do cosmos** e o *Galdr* sua expressão sonora, a **Bindrune** (*Bandrún*, plural *Bandrúnir*) é a **linguagem molecular da magia nórdica**. Ela representa a transição do praticante de um falante do idioma rúnico para seu **poeta e engenheiro**. Uma Bindrune não é uma mera justaposição; é a fusão geométrica intencional de duas ou mais runas em um glifo único, gerando uma **nova entidade vibracional** cujas propriedades são sinérgicas e frequentemente exponenciais.
 
@@ -19,7 +19,7 @@ A palavra *band* (laço, vínculo) revela sua essência: uma Bindrune é um **n�
 
 ---
 
-## 6.2. A Engenharia do Símbolo: Metodologia em Cinco Fases
+## A Engenharia do Símbolo: Metodologia em Cinco Fases
 
 Criar uma Bindrune é um ato de **design consciente da realidade**. Segue um protocolo que mescla clareza intelectual, intuição simbólica e rigor ritual.
 
@@ -87,7 +87,7 @@ Para fixar a força ativada em todos os planos da realidade, apresente-a aos Qua
 
 ---
 
-## 6.3. Casos de Estudo: Anatomia de Fórmulas Práticas
+## Casos de Estudo: Anatomia de Fórmulas Práticas
 
 | Nome & Propósito | Runas & Análise | Geometria Sinérgica | Aplicação Prática |
 | :--- | :--- | :--- | :--- |
@@ -97,7 +97,7 @@ Para fixar a força ativada em todos os planos da realidade, apresente-a aos Qua
 
 ---
 
-## 6.4. Práxis Avançada: Galdrastafir e o Ægishjálmr
+## Práxis Avançada: Galdrastafir e o Ægishjálmr
 
 A tradição mágica islandesa posterior (séculos XVI-XIX) levou a lógica da Bindrune a sua expressão máxima nos **Galdrastafir** ("bastões de magia"). Estes são diagramas complexos, muitas vezes circulares e simétricos, compostos pela repetição e entrelaçamento de runas (especialmente **Algiz**, **Isa**, **Týr**) em padrões geométricos sagrados.
 
@@ -118,7 +118,7 @@ O mais icônico dos *Galdrastafir* não é um escudo passivo, mas um **sistema a
 
 ---
 
-## 6.5. Bindrunes, Wyrd e Ørlög: Tecendo o Próprio Fio
+## Bindrunes, Wyrd e Ørlög: Tecendo o Próprio Fio
 
 A criação de uma Bindrune é um dos atos mais diretos de **interação consciente com o *Wyrd* (a teia do destino em devenir) e o *Ørlóg* (o destino pré-tecido, a lei causal)**.
 
