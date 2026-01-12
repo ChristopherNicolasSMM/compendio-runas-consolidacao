@@ -239,41 +239,46 @@ Os poemas exploram o papel do homem como construtor, adornador e, finalmente, mo
 -   **Arquétipo Central:** **O Inconsciente Coletivo. A Emoção que Flui. A Adaptabilidade Vital.**
 
 **Análise Arquetípica e Mítica:**
-Laguz é a **runa do fluxo vital primordial, da intuição profunda e do reino do inconsciente**. Representa a **Água** (*lögr*) em todos os seus aspectos: o mar que dá vida e leva embora, o rio do tempo e do destino (*Wyrd*), as emoções que fluem, a intuição que "vem à tona". Seu glifo (ᛚ) pode ser visto como uma onda quebrando ou uma planta aquática ondulando – **movimento vivo e adaptável**. Diferente de Isa (água congelada, estase), Laguz é água em **movimento constante e transformador**. Está ligada a **Njörðr**, o Vanir que domina a costa, o comércio e a riqueza que vem do fluxo (pesca, navegação). Também está sob o domínio das **Nornas**, pois o destino é como um rio com muitas correntes. Laguz é a **fertilidade oculta**, o que está abaixo da superfície: sonhos, desejos, memórias reprimidas, potencial não manifestado. É a runa que nos ensina a **navegar, não a lutar contra a corrente**.
+Laguz é a **runa do fluxo vital primordial, da intuição profunda e do reino do inconsciente**, representa a **Água** (*lögr*) em todos os seus aspectos: o mar que dá vida e leva embora, o rio do tempo e do destino, as emoções que fluem, a intuição que "vem à tona", seu glifo (ᛚ) pode ser visto como uma onda quebrando ou uma planta aquática ondulando,  **o movimento vivo e adaptável**., diferente de Isa (água congelada, estase), Laguz é água em **movimento constante e transformador**. 
+Está ligada a **Njörðr**, o Vanir que domina a costa, o comércio e a riqueza que vem do fluxo (pesca, navegação), também está sob o domínio das **Nornas**, pois o destino é como um rio com muitas correntes, Laguz é a **fertilidade oculta**, o que está abaixo da superfície: sonhos, desejos, memórias reprimidas, potencial não manifestado, é a runa que nos ensina a **navegar, não a lutar contra a corrente**.
 
 Os poemas capturam sua beleza, utilidade e perigo inerente:
-
--   **Poema Anglo-Saxão (o mais vívido e metafórico):**
-    -   *"Lagū byþ lēodum langsum geþuht, gif hī sculun nēþan on nacan tealtum and hī sæȳþa swȳþe brēgaþ and se brimhengest brūceþ on geþwæte."*
-    -   **"O Mar parece interminável para os homens, se eles se aventurarem em um barco instável, e as ondas do mar os aterrorizam muito, e o corcel do mar (navio) não obedece ao leme."**
-    *  Esta é a descrição perfeita de Laguz: é o **campo de possibilidades** ("interminável"), que pode ser **aterrorizante** para quem não está preparado ("barco instável") e **incontrolável** quando não se respeita suas leis ("não obedece ao leme"). A jornada só é possível com a embarcação adequada (o ego integrado) e conhecimento (intuição).
 
 -   **Poema Islandês:**
     -   *"Lögr er vellanda vatn ok viðr ketill ok glömmungr grund."*
     -   **"A Água é água fervente e um caldeirão largo e terra dos peixes."**
-    - Enfatiza a água como **elemento de transformação** (fervura, caldeirão) e como **habitat de vida oculta** ("terra dos peixes" – o inconsciente povoado).
+    - Enfatiza a água como **elemento de transformação** (fervura, caldeirão) e como **habitat de vida oculta** ("terra dos peixes", o inconsciente povoado).
 
 -   **Poema Norueguês:**
     -   *"Lǫgr er, fællr ór fjalle foss; en gull ero nosser."*
-    -   **"A Água é, que cai da montanha como uma cascata; e ornamentos são de ouro."**
+    -   **"A Água é, que cai da montanha como uma cascata, e ornamentos são de ouro."**
     - Liga a água poderosa e pura (cachoeira) à **riqueza e valor** (ouro), talvez referindo-se à prosperidade que o comércio marítimo (Njörðr) trazia.
+
+-   **Poema Anglo-Saxão (o mais vívido e metafórico):**
+    -   *"Lagū byþ lēodum langsum geþuht, gif hī sculun nēþan on nacan tealtum and hī sæȳþa swȳþe brēgaþ and se brimhengest brūceþ on geþwæte."*
+    -   **"O Mar parece interminável para os homens, se eles se aventurarem em um barco instável, e as ondas do mar os aterrorizam muito, e o corcel do mar (navio) não obedece ao leme."**
+    *  Esta é a descrição perfeita de Laguz, é o **campo de possibilidades** ("interminável"), que pode ser **aterrorizante** para quem não está preparado ("barco instável") e **incontrolável** quando não se respeita suas leis ("não obedece ao leme"), a jornada só é possível com a embarcação adequada (o ego integrado) e conhecimento (intuição).
 
 **Práxis Mágica e Oracular:**
 -   **Uso no Galdr (Magia):**
-    -   **Propósito:** Aumentar a **intuição, percepção psíquica e clarividência**. Facilitar a **cura emocional** e a fluidez dos sentimentos reprimidos. Realizar magia de **sonhos lúcidos** e acesso ao inconsciente. Trabalhos de **fertilidade** (de ideias ou física). **Proteger viagens por água**. Ajudar na **adaptação** a mudanças de vida.
-    -   **Técnica:** O som é um **"L"** líquido, fluido e ondulante, como o balbuciar de um riacho ou o som das onlas na praia. Visualize-se flutuando em águas calmas e seguras, ou navegando habilmente em mar aberto, em sintonia com as correntes.
-    -   **Bindrune de Intuição:** Laguz + Perthro = Acesso a segredos e conhecimentos ocultos do inconsciente. Laguz + Ansuz = Intuição que se expressa em palavras claras (poesia, profecia).
+    -   **Propósito:** Aumentar a **intuição, percepção psíquica e clarividência**, facilitar a **cura emocional** e a fluidez dos sentimentos reprimidos, realizar magia de **sonhos lúcidos** e acesso ao inconsciente, trabalhos de **fertilidade** (de ideias ou física) e **proteger viagens por água**, ajudar na **adaptação** a mudanças de vida.
+    -   **Técnica:** O som é um **"L"** líquido, fluido e ondulante, como o balbuciar de um riacho ou o som das onlas na praia, visualize-se flutuando em águas calmas e seguras, ou navegando habilmente em mar aberto, em sintonia com as correntes.
+    -   **Bindrune de Intuição:** 
+	    - Laguz + Perthro = Acesso a segredos e conhecimentos ocultos do inconsciente. Laguz + Ansuz = Intuição que se expressa em palavras claras (poesia, profecia).
 
 -   **Uso na Spá (Adivinhação):**
-    -   **Posição Direita:** Intuição, fluxo, emoções, cura, sonhos, fertilidade, adaptabilidade, jornada interna, aceitação. **"Confie na maré. Deixe-se levar pelo fluxo correto."**
-    -   **Posição Invertida:** Estagnação emocional, intuição bloqueada, negação do inconsciente, medo do fluxo (da vida, das emoções), "afogamento" em sentimentos ou circunstâncias, perigo em viagens aquáticas. **"Você está lutando contra a corrente. Pare e flutue."**
+    -   **Posição Direita:** Intuição, fluxo, emoções, cura, sonhos, fertilidade, adaptabilidade, jornada interna, aceitação. 
+	    - **"Confie na maré. Deixe-se levar pelo fluxo correto."**
+    -   **Posição Invertida:** Estagnação emocional, intuição bloqueada, negação do inconsciente, medo do fluxo (da vida, das emoções), "afogamento" em sentimentos ou circunstâncias, perigo em viagens aquáticas. 
+	    - **"Você está lutando contra a corrente. Pare e flutue."**
 
 -   **Exercício Prático de Conexão (Meditação do Rio Submerso):**
-    1.  Sente-se em silêncio. Feche os olhos e visualize-se deitado no fundo de um rio límpido e calmo.
-    2.  Veja a luz do sol filtrando-se pela água, criando padrões móveis acima de você.
-    3.  Sinta a água sustentando seu corpo completamente. Você não precisa respirar; apenas é sustentado.
-    4.  Observe os pensamentos e emoções surgirem como bolhas de ar ou peixes coloridos que passam por você. Não os agarre; apenas observe-os subir em direção à superfície.
-    5.  Permaneça nesse estado de observação fluida por alguns minutos. Ao final, agradeça às águas. *"Eu navego nas correntes do meu ser. Minha intuição é a bússola no mar interior."*
+	- Sente-se em silêncio e feche os olhos, visualize-se deitado no fundo de um rio límpido e calmo.
+	- Veja a luz do sol filtrando-se pela água, criando padrões móveis acima de você, sinta a água sustentando seu corpo completamente, você não precisa respirar, apenas é sustentado.
+	- Observe os pensamentos e emoções surgirem como bolhas de ar ou peixes coloridos que passam por você, não os agarre, apenas observe-os subir em direção à superfície.
+	- Permaneça nesse estado de observação fluida por alguns minutos, ao final, agradeça às águas. 
+		- *"Eu navego nas correntes do meu ser,*
+		- *Minha intuição é a bússola no meu mar interior."*
 
 ---
 
@@ -288,30 +293,31 @@ Os poemas capturam sua beleza, utilidade e perigo inerente:
 -   **Arquétipo Central:** **O Potencial Concentrado. A Gestação Silenciosa. A Conclusão que Contém um Novo Início.**
 
 **Análise Arquetípica e Mítica:**
-Ingwaz é a **runa do potencial concentrado, da gestação silenciosa e da conclusão perfeita de um ciclo**. Seu glifo (ᛜ) é único no Futhark: um losango ou símbolo que lembra um **grão de semente** ou um **campo demarcado** – algo fechado em si mesmo, contendo toda a energia latente necessária para a explosão da vida. Representa o **deus Ing** (uma manifestação de Freyr), cujo culto estava associado à fertilidade da terra, à realeza e à paz. Ingwaz não é sobre ação (como Tiwaz) ou fluxo (como Laguz), mas sobre **repouso necessário, incubação e energia contida**. É a runa da **pausa antes do parto**, do **projeto finalizado antes do lançamento**, da **semente sob a terra no inverno**. O Poema Anglo-Saxão sugere que Ing partiu "sobre as ondas", indicando uma conclusão (uma vida, um reinado) que deixa um **legado pronto para brotar** – a semente está plantada.
+Ingwaz é a **runa do potencial concentrado, da gestação silenciosa e da conclusão perfeita de um ciclo**, seu glifo (ᛜ) é único no Futhark não tendo outro similar a ele, um losango ou símbolo que lembra um **grão de semente** ou um **campo demarcado**, algo fechado em si mesmo, contendo toda a energia latente necessária para a explosão da vida. 
+Representa o **deus Ing** (uma manifestação de Freyr), cujo culto estava associado à fertilidade da terra, à realeza e à paz. Ingwaz não é sobre ação (como Tiwaz) ou fluxo (como Laguz), mas sobre **repouso necessário, incubação e energia contida**, é a runa da **pausa antes do parto**, do **projeto finalizado antes do lançamento**, da **semente sob a terra no inverno**, o Poema Anglo-Saxão sugere que Ing partiu "sobre as ondas", indicando uma conclusão (uma vida, um reinado) que deixa um **legado pronto para brotar**, a semente está plantada.
 
-O **Poema Anglo-Saxão** é nossa fonte primária e enigmática:
+Os poemas Islandês e Norueguês não falam desta runa, apenas no **poema Anglo-Saxão** esta é nossa fonte primária e enigmática:
 
 -   *"Ing wæs ærest mid Eástdenum gesewen secgum, oð he síððan eft ofer wæg gewát. wæn æfter ran. ðus Heardingas ðone hæle nemdon."*
--   **"Ing foi primeiro entre os Danos do Leste visto pelos homens, até que depois ele partiu novamente sobre a onda. Sua carruagem veio depois. Assim os Hærdings nomearam aquele herói."**
--   Este poema fala de um **ciclo completo**: aparição, estabelecimento, partida. "Sua carruagem veio depois" pode simbolizar o **legado** que ele deixou (a linhagem dos Ynglings, a terra fértil). Ingwaz é esse **legado potencial**, a energia concentrada que permanece após a conclusão de uma fase, pronta para germinar quando as condições forem adequadas.
+-   **"Ing foi primeiro entre os Danos do Leste visto pelos homens, até que depois ele partiu novamente sobre a onda, sua carruagem veio depois, assim os Hærdings nomearam aquele herói."**
+-   Este poema fala de um **ciclo completo**: aparição, estabelecimento, partida. "Sua carruagem veio depois" pode simbolizar o **legado** que ele deixou (a linhagem dos Ynglings, a terra fértil),  Ingwaz é esse **legado potencial**, a energia concentrada que permanece após a conclusão de uma fase, pronta para germinar quando as condições forem adequadas.
 
 **Práxis Mágica e Oracular:**
 -   **Uso no Galdr (Magia):**
-    -   **Propósito:** **Finalizar projetos, relacionamentos ou ciclos de vida** com um senso de completude. **Incubar ideias, planos ou energias** até que estejam plenamente maduras para manifestação. Aumentar a **fertilidade masculina** e a potência criativa. **Proteger períodos de gestação** (de filhos, projetos artísticos). Garantir um **descanso reparador e regenerativo**.
-    -   **Técnica:** O som é um **"NG"** nasal, profundo e contínuo, vibrando na cabeça e no peito, como um zumbido de abelha ou um ronco suave. Visualize um losango de luz dourada ou marrom fechando-se sobre um projeto, selando-o em perfeição, ou uma semente brilhando sob a terra escura.
-    -   **Bindrune de Conclusão:** Ingwaz + Jera = O ciclo que chega ao fim e prepara a colheita futura. Ingwaz + Othala = O legado potencial que é passado adiante.
+    -   **Propósito:** **Finalizar projetos, relacionamentos ou ciclos de vida** com um senso de completude, **incubar ideias, planos ou energias** até que estejam plenamente maduras para manifestação, aumentar a **fertilidade masculina** e a potência criativa, **proteger períodos de gestação** (de filhos, projetos artísticos), garantir um **descanso reparador e regenerativo**.
+    -   **Técnica:** O som é um **"NG"** nasal, profundo e contínuo, vibrando na cabeça e no peito, como um zumbido de abelha ou um ronco suave, visualize um losango de luz dourada ou marrom fechando-se sobre um projeto, selando-o em perfeição, ou uma semente brilhando sob a terra escura.
+    -   **Bindrune de Conclusão:** 
+    - Ingwaz + Jera = O ciclo que chega ao fim e prepara a colheita futura. 
+    - Ingwaz + Othala = O legado potencial que é passado adiante.
 
 -   **Uso na Spá (Adivinhação):**
-    -   **Posição Direita:** Potencial latente, gestação, conclusão bem-sucedida, descanso merecido, energia contida prestes a se manifestar, legado, masculinidade interior fecunda. **"A semente está no solo. A obra está concluída. Aguarde o broto."**
-    -   **Posição Invertida (Interpretação Moderna):** **Ingwaz, por sua simetria, é frequentemente considerada sem posição invertida.** Em um contexto desafiador, pode indicar: **estagnação sem propósito** (a semente que apodrece), **incapacidade de concluir** (medo do fechamento), **aborto de projetos** por falta de incubação, ou **energia criativa bloqueada** e não-fertilizada.
+    -   **Posição Direita:** Potencial latente, gestação, conclusão bem-sucedida, descanso merecido, energia contida prestes a se manifestar, legado, masculinidade interior fecunda. **"A semente está no solo, a obra está concluída, aguarde o broto."**
+    -   **Posição Invertida (Interpretação Moderna):** **Ingwaz, por sua simetria, é frequentemente considerada sem posição invertida** mas em um contexto desafiador, pode indicar: **estagnação sem propósito** (a semente que apodrece), **incapacidade de concluir** (medo do fechamento), **aborto de projetos** por falta de incubação, ou **energia criativa bloqueada** e não-fertilizada.
 
 -   **Exercício Prático de Conexão (O Ritual da Semente):**
-    1.  Pegue um grão (feijão, lentilha, grão de milho) e segure-o na palma da mão fechada.
-    2.  Feche os olhos e pense em um ciclo que está para se encerrar ou um projeto que precisa "amadurecer".
-    3.  Visualize toda a energia, aprendizado e potencial desse ciclo sendo sugado para dentro do grão em sua mão, condensando-se em energia pura.
-    4.  Entoe o som "NG" suavemente, sentindo a vibração no grão.
-    5.  Decida: se for um ciclo para encerrar, **enterre o grão** (simbolicamente ou num vaso) como oferenda de conclusão. Se for um projeto para incubar, **guarde o grão** em um local especial até que seja hora de "plantá-lo". *"O que está completo descansa. O que está por vir dorme, cheio de potência."*
+	- Pegue um grão (feijão, lentilha, grão de milho) e segure-o na palma da mão fechada, feche os olhos e pense em um ciclo que está para se encerrar ou um projeto que precisa "amadurecer", depois visualize toda a energia, aprendizado e potencial desse ciclo sendo sugado para dentro do grão em sua mão, condensando-se em energia pura.
+	 - Entoe o som "IINNG-WAZZ" suavemente, sentindo a vibração no grão, decida: se for um ciclo para encerrar, **queime o grão** como oferenda de conclusão e depois assopre ao longe. Se for um projeto para incubar, **plante o grão** e cuide dele regando-o todos os dias.
+		 - *"O que está completo descansa, o que está por vir germina, cheio de potência."*
 
 ---
 
@@ -325,41 +331,43 @@ O **Poema Anglo-Saxão** é nossa fonte primária e enigmática:
 -   **Arquétipo Central:** **As Raízes que Nutrem. O Legado que Define. O Santuário da Identidade.**
 
 **Análise Arquetípica e Mítica:**
-Othala é a **runa da herança espiritual e material, do lar sagrado e da tradição viva**. Representa o **Óðal**, o conceito germânico mais profundo de propriedade: a **terra hereditária inalienável** que passava de geração em geração, o núcleo físico e espiritual da identidade familiar. Seu glifo (ᛟ) lembra um **círculo com uma entrada ou uma casa com alicerces**, simbolizando o **lar protegido**, a **linhagem fechada mas receptiva** e os **limites sagrados do clã**. Esta runa não é sobre um pedaço qualquer de terra; é sobre o solo **sagrado pela ancestralidade**, impregnado com o sangue, suor, memória e honra dos que vieram antes. Othala nos conecta ao que nos precedeu, dando-nos fundamento, identidade e uma **responsabilidade profunda** para com as gerações futuras. É a **estabilidade última** que permite a coragem para a transformação (Dagaz).
+Othala é a **runa da herança espiritual e material, do lar sagrado e da tradição viva**, representa o **Óðal**, o conceito germânico mais profundo de propriedade: a **terra hereditária inalienável** que passava de geração em geração, o núcleo físico e espiritual da identidade familiar. 
+Seu glifo (ᛟ) lembra um **círculo com uma entrada ou uma casa com alicerces**, simbolizando o **lar protegido**, a **linhagem fechada mas receptiva** e os **limites sagrados do clã**, esta runa não é sobre um pedaço qualquer de terra, é sobre o solo **sagrado pela ancestralidade**, impregnado com o sangue, suor, memória e honra dos que vieram antes, Othala nos conecta ao que nos precedeu, dando-nos fundamento, identidade e uma **responsabilidade profunda** para com as gerações futuras, é a **estabilidade última** que permite a coragem para a transformação (Dagaz).
 
 Os poemas a descrevem como a fonte máxima de segurança, valor e alegria:
-
--   **Poema Anglo-Saxão (ênfase no valor afetivo e legal):**
-    -   *"Ēþel byþ ofer lēof āghwylcum men, gif hē mōt ðǣr rihtes and gerȳsena on brūcan on bolde bleadum oftast."*
-    -   **"A Herança é muito querida para todo homem, se ele pode desfrutar dela em sua casa, dos direitos e costumes, na morada, com prosperidade, muito frequentemente."**
-    - A chave está em **"direitos e costumes"** (*rihtes and gerȳsena*). A herança Othala não é uma posse passiva; é um **pacote ativo de direitos, deveres e tradições** que devem ser exercidos e honrados para que seu valor se realize.
 
 -   **Poema Islandês:**
     -   *"Óðal er aldar njótr ok eignar hagi ok jafnan gengi."*
     -   **"A Herança é o benefício dos homens, e um bom patrimônio, e companhia constante."**
-    - Vê a herança como um **benefício perene** e uma **companhia constante** – ela nunca o abandona, é sua base permanente.
+    - Vê a herança como um **benefício perene** e uma **companhia constante**, ela nunca o abandona, é sua base permanente.
 
 -   **Poema Norueguês:**
     -   *"Óðal er um frama; en í frændgarði; ok húss í hæima."*
-    -   **"A Herança é muito preciosa; e no pátio dos parentes; e uma casa em casa."**
+    -   **"A Herança é muito preciosa, e no pátio dos parentes, e uma casa em casa."**
     - Foca no **valor inestimável** e na **segurança íntima** proporcionada pelo espaço familiar e pelos laços de sangue.
+
+-   **Poema Anglo-Saxão (ênfase no valor afetivo e legal):**
+    -   *"Ēþel byþ ofer lēof āghwylcum men, gif hē mōt ðǣr rihtes and gerȳsena on brūcan on bolde bleadum oftast."*
+    -   **"A Herança é muito querida para todo homem, se ele pode desfrutar dela em sua casa, dos direitos e costumes, na morada, com prosperidade, muito frequentemente."**
+    - A chave está em **"direitos e costumes"** (*rihtes and gerȳsena*), a herança Othala não é uma posse passiva, é um **pacote ativo de direitos, deveres e tradições** que devem ser exercidos e honrados para que seu valor se realize.
 
 **Práxis Mágica e Oracular:**
 -   **Uso no Galdr (Magia):**
-    -   **Propósito:** **Proteção poderosa do lar, da família e da propriedade**. **Conectar-se com ancestrais** para sabedoria, orientação ou pedir proteção. **Estabelecer raízes profundas** em um novo lugar. **Atrair prosperidade estável e duradoura** ligada ao trabalho e à linhagem. **Fortalecer os laços familiares** de forma positiva e curar conflitos hereditários. **Criar um "círculo sagrado"** para rituais.
-    -   **Técnica:** O som é um **"O"** profundo, redondo e ecoante, como o som dentro de um salão ancestral ou o suspiro da terra. Visualize o símbolo de Othala circundando sua casa, sua família ou a si mesmo, criando um limite luminoso e impenetrável que separa o sagrado do profano.
-    -   **Bindrune de Legado:** Othala + Ingwaz = O legado potencial sendo transmitido e incubado para o futuro. Othala + Tiwaz = A defesa da herança e da lei familiar.
+    -   **Propósito:** **Proteção poderosa do lar, da família e da propriedade**, conectar-se com ancestrais para sabedoria, orientação ou pedir proteção, **estabelecer raízes profundas** em um novo lugar, **atrair prosperidade estável e duradoura** ligada ao trabalho e à linhagem, **fortalecer os laços familiares** de forma positiva e curar conflitos hereditários. 
+    - **Criar um "círculo sagrado"** para rituais.
+    -   **Técnica:** O som é um **"O"** profundo, redondo e ecoante, como o som dentro de um salão ancestral ou o suspiro da terra, visualize o símbolo de Othala circundando sua casa, sua família ou a si mesmo, criando um limite luminoso e impenetrável que separa o sagrado do profano.
+    -   **Bindrune de Legado:** 
+    - Othala + Ingwaz = O legado potencial sendo transmitido e incubado para o futuro. Othala + Tiwaz = A defesa da herança e da lei familiar.
 
 -   **Uso na Spá (Adivinhação):**
-    -   **Posição Direita:** Herança, lar, família, tradição, raízes, estabilidade, propriedade, apoio ancestral, senso de pertencimento. **"Você está em casa. Suas raízes são profundas e nutridoras."**
-    -   **Posição Invertida:** Conflitos familiares destrutivos, perda do lar ou desenraizamento, tradição opressora que precisa ser rompida, disputas por herança, falta de estabilidade, rejeição das próprias origens. **"O lar está em desordem. As raízes estão doentes."** Um chamado para curar dinâmicas familiares, redefinir o que "lar" significa ou cortar amarras prejudiciais do passado.
+    -   **Posição Direita:** Herança, lar, família, tradição, raízes, estabilidade, propriedade, apoio ancestral, senso de pertencimento. **"Você está em casa, suas raízes são profundas e nutridoras."**
+    -   **Posição Invertida:** Conflitos familiares destrutivos, perda do lar ou desenraizamento, tradição opressora que precisa ser rompida, disputas por herança, falta de estabilidade, rejeição das próprias origens. **"O lar está em desordem, as raízes estão doentes."** Um chamado para curar dinâmicas familiares, redefinir o que "lar" significa ou cortar amarras prejudiciais do passado.
 
 -   **Exercício Prático de Conexão (O Altar dos Ancestrais):**
-    1.  Crie um pequeno espaço sagrado em sua casa (uma prateleira, um canto).
-    2.  Coloque ali objetos que conectem você aos seus ancestrais: fotos, uma pedra de sua terra natal, um objeto herdado, uma vela.
-    3.  No centro, coloque uma pedra ou peça de madeira com o símbolo de Othala gravado ou desenhado.
-    4.  Acenda a vela e fique em silêncio por um momento. Peça bênção, orientação ou simplesmente honre a presença daqueles que o precederam.
-    5.  Toque no símbolo de Othala e sinta a corrente de força que vem do passado e flui através de você para o futuro. *"Eu honro o sangue e o solo. Eu sou o guardião do legado. Eu construo sobre a rocha dos meus pais."*
+	- Crie um pequeno espaço sagrado em sua casa (uma prateleira, um canto), coloque ali objetos que conectem você aos seus ancestrais: fotos, uma pedra de sua terra natal, um objeto herdado, uma vela.
+	- No centro, coloque uma pedra ou peça de madeira com o símbolo de Othala gravado ou desenhado, acenda a vela e fique em silêncio por um momento e peça bênção, orientação ou simplesmente honre a presença daqueles que o precederam.
+	- Toque no símbolo de Othala e sinta a corrente de força que vem do passado e flui através de você para o futuro. 
+		- *"Eu honro o sangue e o solo, eu sou o guardião do legado, eu construo sobre a rocha dos meus pais."*
 
 ---
 
@@ -373,14 +381,11 @@ Os poemas a descrevem como a fonte máxima de segurança, valor e alegria:
 -   **Arquétipo Central:** **O Ponto de Virada Cósmico. A Iluminação Súbita. A Síntese dos Opostos.**
 
 **Análise Arquetípica e Mítica:**
-Dagaz é a **runa da transformação radical, do despertar espiritual e da síntese final de todas as dualidades**. É a **vigésima quarta e última runa** do Futhark Antigo, fechando o ciclo com perfeição e, ao mesmo tempo, reiniciando-o em um nível superior de consciência. Seu glifo (ᛞ) é perfeitamente simétrico, um **losango ou uma borboleta** que representa o **ponto de virada** onde a noite se torna dia – o **momento do amanhecer**. Dagaz não é o "dia" pleno (isso é Sowilo, o sol), mas o **instante mágico, irreversível, em que a luz rompe a escuridão**. É a runa do **"Eureka!"**, da **mudança de paradigma**, da **revelação que altera para sempre a percepção da realidade**. Ela transcende todas as oposições do Futhark (Fogo/Gelo de Hagalaz, Luz/Escuridão de Sowilo e Isa, Vida/Morte de Eihwaz) ao ocupar e representar o **limiar onde um polo se transforma em seu oposto**. É a runa do **caminho do meio**, do **despertar do Buda**, do **Ragnarök que é também um renascimento**. É a promessa de que nenhuma escuridão é eterna.
+Dagaz é a **runa da transformação radical, do despertar espiritual e da síntese final de todas as dualidades**, é a **vigésima quarta e última runa** do Futhark Antigo, fechando o ciclo com perfeição e, ao mesmo tempo, reiniciando-o em um nível superior de consciência, seu glifo (ᛞ) é perfeitamente simétrico, um **losango ou uma borboleta** que representa o **ponto de virada** onde a noite se torna dia, o **momento do amanhecer**. 
+Dagaz não é o "dia" pleno (isso é Sowilo, o sol), mas o **instante mágico, irreversível, em que a luz rompe a escuridão**, é a runa da **"ideia!"**, da **mudança de paradigma**, da **revelação que altera para sempre a percepção da realidade**, ela transcende todas as oposições do Futhark (Fogo/Gelo de Hagalaz, Luz/Escuridão de Sowilo e Isa, Vida/Morte de Eihwaz) ao ocupar e representar o **limiar onde um polo se transforma em seu oposto**, esta é a runa do **caminho do meio**, do **despertar do Buda**, do **Ragnarök que é também um renascimento**. 
+É a promessa de que nenhuma escuridão é eterna.
 
 Os poemas a celebram como luz benfazeja, mensageira divina e alegria universal:
-
--   **Poema Anglo-Saxão (o mais belo e igualitário):**
-    -   *"Dæg byþ Drihtnes sond, deore mannum, mære Metodes leoht, myrgþ and tohīht eadgum and earmum, eallum brice."*
-    -   **"O Dia é o mensageiro do Senhor, querido aos homens, a luz gloriosa do Criador, alegria e esperança para o abastado e o pobre, útil a todos."**
-    -   Aqui, Dagaz é a **luz igualitária** que traz **alegria e esperança** (*myrgþ and tohīht*) a **todos**, sem distinção de status (*eadgum and earmum*). É um dom universal de renovação.
 
 -   **Poema Norueguês:**
     -   *"Dagr er Drottins öld, himins ljóme, roðull ok ríðandi regin."*
@@ -392,22 +397,30 @@ Os poemas a celebram como luz benfazeja, mensageira divina e alegria universal:
     -   **"O Dia é enviado pelo Senhor, e um dom de virtude/excelência."**
     - Vê o amanhecer como um **presente divino** que traz consigo o potencial para a **excelência moral e espiritual** (*dygð*).
 
+-   **Poema Anglo-Saxão (o mais belo e igualitário):**
+    -   *"Dæg byþ Drihtnes sond, deore mannum, mære Metodes leoht, myrgþ and tohīht eadgum and earmum, eallum brice."*
+    -   **"O Dia é o mensageiro do Senhor, querido aos homens, a luz gloriosa do Criador, alegria e esperança para o abastado e o pobre, útil a todos."**
+    -   Aqui, Dagaz é a **luz igualitária** que traz **alegria e esperança** (*myrgþ and tohīht*) a **todos**, sem distinção de status (*eadgum and earmum*). É um dom universal de renovação.
+
 **Práxis Mágica e Oracular:**
 -   **Uso no Galdr (Magia):**
-    -   **Propósito:** **Catalisar transformações pessoais profundas e positivas**. **Romper estagnações, vícios ou padrões crônicos** de forma decisiva. Trazer **iluminação e clareza mental absoluta** sobre um problema complexo. Realizar trabalhos de **"ponto de virada"** em qualquer área da vida. **Abençoar novos começos** com energia pura e integradora. **Equilibrar polaridades internas** (mente/coração, razão/emoção).
-    -   **Técnica:** O som é um **"D"** claro, decisivo e luminoso, como o primeiro raio de sol cortando a escuridão. Visualize o losango de Dagaz brilhando como um portal de luz no centro de sua testa ou no horizonte de sua vida, dissolvendo sombras e revelando novas paisagens de possibilidade.
-    -   **Bindrune de Iluminação:** Dagaz + Sowilo = A máxima clareza, vitalidade e sucesso após uma transformação. Dagaz + Ansuz = A palavra inspirada que vem da iluminação.
+    -   **Propósito:** **Catalisar transformações pessoais profundas e positivas, romper estagnações, vícios ou padrões crônicos** de forma decisiva, trazer **iluminação e clareza mental absoluta** sobre um problema complexo, realizar trabalhos de **"ponto de virada"** em qualquer área da vida, **abençoar novos começos** com energia pura e integradora. **Equilibrar polaridades internas** (mente/coração, razão/emoção).
+    -   **Técnica:** O som é um **"D"** claro, decisivo e luminoso, como o primeiro raio de sol cortando a escuridão, visualize o losango de Dagaz brilhando como um portal de luz no centro de sua testa ou no horizonte de sua vida, dissolvendo sombras e revelando novas paisagens de possibilidade.
+    -   **Bindrune de Iluminação:** 
+    - Dagaz + Sowilo = A máxima clareza, vitalidade e sucesso após uma transformação. 
+    - Dagaz + Ansuz = A palavra inspirada que vem da iluminação.
 
 -   **Uso na Spá (Adivinhação):**
-    -   **Posição Direita (e Única):** **Dagaz não possui posição invertida tradicional.** É um sinal **sempre positivo e poderoso** de mudança. Significa: **Transformação radical positiva, despertar, ponto de virada inevitável, clareza absoluta, breakthrough, esperança realizável, síntese de conflitos, um novo ciclo de luz.** **"O amanhecer chega. A noite terminou. Tudo mudará."**
+    -   **Posição Direita (e Única):** **Dagaz não possui posição invertida tradicional,** é um sinal **sempre positivo e poderoso** de mudança.
+    - Significa: **Transformação radical positiva, despertar, ponto de virada inevitável, clareza absoluta, breakthrough, esperança realizável, síntese de conflitos, um novo ciclo de luz.** **"O amanhecer chega, a noite terminou, tudo mudará."**
     -   **Interpretação de Sombra (Contextual):** Em um contexto extremamente negativo, pode sugerir uma **mudança tão brusca que é desorientadora**, ou alertar que uma **ilusão está prestes a ser quebrada** (o que é doloroso, mas necessário). Porém, mesmo nesses casos, a energia fundamental de Dagaz é de **clareza e avanço**.
 
 -   **Exercício Prático de Conexão (Saudação ao Amanhecer):**
-    1.  Procure levantar-se antes do amanhecer. Vá para um local onde possa ver o horizonte leste.
-    2.  Fique de pé, em silêncio, enquanto o céu clareia. Observe as cores mudando, a escuridão recuando.
-    3.  No momento exato em que o primeiro segmento do sol aparecer no horizonte, erga os braços e visualize o símbolo de Dagaz brilhando no centro do disco solar.
-    4.  Respire profundamente, inspirando essa primeira luz. Sinta-a dissolver dúvidas, medos e padrões antigos dentro de você.
-    5.  Ao expirar, entoe um "D" claro e suave. Afirme: *"Eu aceito o amanhecer. Minha consciência se transforma. Hoje, tudo é novo."*
+	- Procure levantar-se antes do amanhecer, depois vá para um local onde possa ver o horizonte leste, fique de pé, em silêncio, enquanto o céu clareia, observe as cores mudando, a escuridão recuando.
+	- No momento exato em que o primeiro segmento do sol aparecer no horizonte, erga os braços e visualize o símbolo de Dagaz brilhando no centro do disco solar.
+	- Respire profundamente, inspirando essa primeira luz, sinta-a dissolver dúvidas, medos e padrões antigos dentro de você.
+	- Ao expirar, entoe um "DAAAA-GA-LA-Z" claro e suave, afirme: 
+	- *"Eu aceito o amanhecer, minha consciência se transforma. Hoje, tudo é novo."*
 
 
 

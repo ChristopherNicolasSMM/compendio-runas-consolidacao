@@ -12,32 +12,32 @@ Este apêndice reúne as principais correspondências e dados técnicos das 24 r
 
 #### **Tabela B.1: O Futhark Antigo Completo – Dados Essenciais**
 
-| Glifo | Nome (Port.) | Nome (Norrænt) | Fonema | Valor Numérico | Ætt (Família) | Correspondência Astral Aprox. |
-| :---: | :--- | :--- | :--- | :--- | :--- | :--- |
-| ᚠ | **Fehu** | *Fé* | F | 1 | Frey/Freyja | Áries |
-| ᚢ | **Uruz** | *Úr* | U | 2 | Frey/Freyja | Touro |
-| ᚦ | **Thurisaz** | *Þurs* | TH (surdo) | 3 | Frey/Freyja | Gêmeos |
-| ᚨ | **Ansuz** | *Óss* | A | 4 | Frey/Freyja | Câncer |
-| ᚱ | **Raidho** | *Reið* | R | 5 | Frey/Freyja | Leão |
-| ᚲ | **Kenaz** | *Kaun* | K | 6 | Frey/Freyja | Virgem |
-| ᚷ | **Gebo** | *Gifu* | G | 7 | Frey/Freyja | Libra |
-| ᚹ | **Wunjo** | *Wynn* | W | 8 | Frey/Freyja | Escorpião |
-| ᚺ | **Hagalaz** | *Hagall* | H | 9 | Heimdall | Sagitário |
-| ᚾ | **Nauthiz** | *Nauðr* | N | 10 | Heimdall | Capricórnio |
-| ᛁ | **Isa** | *Íss* | I | 11 | Heimdall | Aquário |
-| ᛃ | **Jera** | *Jár* | J/Y | 12 | Heimdall | Peixes |
-| ᛇ | **Eihwaz** | *Ýr* | EI, I | 13 | Heimdall | (Eixo Lunar) |
-| ᛈ | **Perthro** | *Unknown* | P | 14 | Heimdall | Plutão |
-| ᛉ | **Algiz** | *Elgr* | Z/R | 15 | Heimdall | Lua Crescente |
-| ᛊ | **Sowilo** | *Sól* | S | 16 | Heimdall | Sol |
-| ᛏ | **Tiwaz** | *Týr* | T | 17 | Týr | Marte |
-| ᛒ | **Berkana** | *Bjarkan* | B | 18 | Týr | Lua |
-| ᛖ | **Ehwaz** | *Unknown* | E | 19 | Týr | Gêmeos |
-| ᛗ | **Mannaz** | *Maðr* | M | 20 | Týr | Aquário |
-| ᛚ | **Laguz** | *Lögr* | L | 21 | Týr | Escorpião/Peixes |
-| ᛜ | **Ingwaz** | *Ing* | NG | 22 | Týr | Virgem/Touro |
-| ᛞ | **Dagaz** | *Dagr* | D | 23 | Týr | Gêmeos/Sagitário |
-| ᛟ | **Othala** | *Óðal* | O | 24 | Týr | Saturno/Virgem |
+| Glifo | Nome (Port.) | Nome (Norrænt) | Fonema     | Valor Numérico | Ætt (Família) | Correspondência Astral Aprox. |
+| :---: | :----------- | :------------- | :--------- | :------------- | :------------ | :---------------------------- |
+|   ᚠ   | **Fehu**     | *Fé*           | F          | 1              | Frey/Freyja   | Áries                         |
+|   ᚢ   | **Uruz**     | *Úr*           | U          | 2              | Frey/Freyja   | Touro                         |
+|   ᚦ   | **Thurisaz** | *Þurs*         | TH (surdo) | 3              | Frey/Freyja   | Gêmeos                        |
+|   ᚨ   | **Ansuz**    | *Óss*          | A          | 4              | Frey/Freyja   | Câncer                        |
+|   ᚱ   | **Raidho**   | *Reið*         | R          | 5              | Frey/Freyja   | Leão                          |
+|   ᚲ   | **Kenaz**    | *Kaun*         | K          | 6              | Frey/Freyja   | Virgem                        |
+|   ᚷ   | **Gebo**     | *Gifu*         | G          | 7              | Frey/Freyja   | Libra                         |
+|   ᚹ   | **Wunjo**    | *Wynn*         | W          | 8              | Frey/Freyja   | Escorpião                     |
+|   ᚺ   | **Hagalaz**  | *Hagall*       | H          | 9              | Heimdall      | Sagitário                     |
+|   ᚾ   | **Nauthiz**  | *Nauðr*        | N          | 10             | Heimdall      | Capricórnio                   |
+|   ᛁ   | **Isa**      | *Íss*          | I          | 11             | Heimdall      | Aquário                       |
+|   ᛃ   | **Jera**     | *Jár*          | J/Y        | 12             | Heimdall      | Peixes                        |
+|   ᛇ   | **Eihwaz**   | *Ýr*           | EI, I      | 13             | Heimdall      | (Eixo Lunar)                  |
+|   ᛈ   | **Perthro**  | *Unknown*      | P          | 14             | Heimdall      | Plutão                        |
+|   ᛉ   | **Algiz**    | *Elgr*         | Z/R        | 15             | Heimdall      | Lua Crescente                 |
+|   ᛊ   | **Sowilo**   | *Sól*          | S          | 16             | Heimdall      | Sol                           |
+|   ᛏ   | **Tiwaz**    | *Týr*          | T          | 17             | Týr           | Marte                         |
+|   ᛒ   | **Berkana**  | *Bjarkan*      | B          | 18             | Týr           | Lua                           |
+|   ᛖ   | **Ehwaz**    | *Unknown*      | E          | 19             | Týr           | Gêmeos                        |
+|   ᛗ   | **Mannaz**   | *Maðr*         | M          | 20             | Týr           | Aquário                       |
+|   ᛚ   | **Laguz**    | *Lögr*         | L          | 21             | Týr           | Escorpião/Peixes              |
+|   ᛜ   | **Ingwaz**   | *Ing*          | NG         | 22             | Týr           | Virgem/Touro                  |
+|   ᛞ   | **Dagaz**    | *Dagr*         | D          | 23             | Týr           | Gêmeos/Sagitário              |
+|   ᛟ   | **Othala**   | *Óðal*         | O          | 24             | Týr           | Saturno/Virgem                |
 
 #### **Tabela B.2: Correspondências Elementais e de Cor**
 
