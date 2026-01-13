@@ -40,42 +40,32 @@ if (Test-Path $pandocLocal) {
 $outputFile = "Compendio_Futhark_Antigo.docx"
 
 # Lista de arquivos na ordem correta (pasta livro)
-#$arquivos = @(
-#    "compendio\sumario.md",
-#    "compendio\prefacio.md",
-#    "compendio\prologo.md",
-#    "compendio\capitulo-01.md",
-#    "compendio\capitulo-02.md",
-#    "compendio\capitulo-03.md",
-#    "compendio\capitulo-04.md",
-#    "compendio\capitulo-05.md",
-#    "compendio\capitulo-06.md",
-#    "compendio\capitulo-07.md",
-#    "compendio\capitulo-08.md",
-#    "compendio\capitulo-09.md",
-#
-#    "compendio\bibliografia.md",
-#
-#    "compendio\apendice-a.md",
-#    "compendio\apendice-b.md",
-#    "compendio\apendice-c.md",
-#    "compendio\apendice-d.md",
-#    "compendio\apendice-e.md",
-#    "compendio\apendice-f.md",
-#
-#    "compendio\indice-remissivo.md"
-#)
-
-#Teste de arquivos
 $arquivos = @(
-#    "compendio\sumario.md",
+    "compendio\sumario.md",
     "compendio\prefacio.md",
     "compendio\prologo.md",
     "compendio\capitulo-01.md",
     "compendio\capitulo-02.md",
     "compendio\capitulo-03.md",
-    "compendio\capitulo-04.md"
+    "compendio\capitulo-04.md",
+    "compendio\capitulo-05.md",
+    "compendio\capitulo-06.md",
+    "compendio\capitulo-07.md",
+    "compendio\capitulo-08.md",
+    "compendio\capitulo-09.md",
+
+    "compendio\bibliografia.md",
+
+    "compendio\apendice-a.md",
+    "compendio\apendice-b.md",
+    "compendio\apendice-c.md",
+    "compendio\apendice-d.md",
+    "compendio\apendice-e.md",
+    "compendio\apendice-f.md",
+
+    "compendio\indice-remissivo.md"
 )
+
 
 # Verificar se todos os arquivos existem
 $arquivosFaltando = @()

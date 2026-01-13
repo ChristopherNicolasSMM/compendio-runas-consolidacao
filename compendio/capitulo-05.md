@@ -89,53 +89,52 @@ Baseando-se na análise dos grimórios e em metodologias de estudiosos como **La
 
 ### **ETAPA 1: PREPARAÇÃO DO SISTEMA (VÉ & INTENÇÃO)**
 
-- **Ação:** Purificação do espaço com fumo (artemísia, zimbro) e som (sino, címbalo). Estabelecimento de um *vé* (círculo, espaço delimitado), clarificação mental da intenção, escrita de forma concisa e afirmativa.
-- **Objetivo Vibrotúrgico:** Reduzir o **"ruído de fundo"** ambiental e psíquico, inicializar a consciência para a tarefa mágica, definir com precisão os parâmetros do P.E.M.
-- **Dica Histórica:** Muitos feitiços no *Galdrabók* começam com uma invocação (ex: "Em nome do Pai, do Filho...", ou "Óðinn, ajuda-me!"), funcionando como um **protocolo de inicialização do canal** e uma declaração de autoridade.
+- **Ação:** Purificação do espaço com incenso natural, por exemplo artemísia e zimbro, som como por exemplo de uma sino que pode ser utilizado e consagrado para este propósito, também é importante o estabelecimento de um *vé* (círculo, espaço delimitado), clarificação mental da intenção, escrita de forma concisa e afirmativa.
+- Reduzir os som e barulhos externos e ambientes, fazer um momento de introspecção e alinhamento psíquico, inicializar a consciência para a tarefa mágica, definir com precisão os parâmetros do P.E.M.
+- **Dica Histórica:** Muitos feitiços no *Galdrabók* começam com uma invocação exemplo: "Em nome do Pai, do Filho...", ou "Óðinn, ajuda-me!", funcionando como um **protocolo de inicialização do canal** e uma declaração de autoridade, é importante se estabelecer um protocolo inicial para que ao fazer o mesmo, seja feito a mudança de chave no subconsciente onde já estará ocorrendo a mudança de estado mental, o famoso "virada de chave".
 
 ### **ETAPA 2: CARGA & ENDEREÇAMENTO (VISUALIZAÇÃO RÚNICA)**
 
-- **Ação:** Selecionar a runa ou *bindrune*, visualizá-la brilhando intensamente (em fogo, luz, gelo) no espaço mental e projetá-la no altar ou no ar. Sentir sua qualidade energética no corpo.
-- **Objetivo Vibrotúrgico:** Carregar na "memória de trabalho" da consciência o **"endereço" e o "programa"** a ser executado. Sintonizar a mente com a frequência-alvo.
+- Selecione a runa ou *bindrune*, visualizá-la brilhando intensamente (em fogo, luz ou gelo) no espaço mental e projetá-la no altar ou no ar, sentir sua qualidade energética no corpo.
+- Lembre sempre de carregar na "memória de trabalho" da consciência o **"endereço" e o "programa"** a ser executado, sintonizar a mente com a frequência-alvo.
 - **Dica Histórica:** As instruções frequentemente mandam "escrever este estafe" **antes** do encantamento, preparando o símbolo como um **receptor e cache de energia**.
 
 ### **ETAPA 3: TRANSMISSÃO (ENTOAÇÃO DO GALDR)**
 
-- **Ação:** Entoar o som da runa (ex: "R-R-R" vibrante para Raidho) ou uma fórmula de *galdr*. Fazer em um único fôlego longo e poderoso, repetindo 3, 8 ou 9 vezes. Envolver o corpo: bater o pé no ritmo, tensionar os músculos em sintonia.
-- **Objetivo Vibrotúrgico:** **Modular a onda portadora de Ónd com a frequência específica da runa.** A repetição aumenta a **amplitude (potência)** do sinal. O envolvimento corporal amplifica a ressonância e a ancoragem.
+- Entoar o som da runa (ex: "R-R-R" vibrante para Raidho) ou uma fórmula de *galdr*, faça em um único fôlego longo e poderoso, repetindo 3, 8 ou 9 vezes, se deve envolver o corpo, bater o pé no ritmo, tensionar os músculos em sintonia, traçar e lançar as runas.
+- Como objetivo Vibrotúrgico deverá modular a Ónd com a frequência específica da runa, a repetição aumenta a **amplitude (potência)** do sinal, o envolvimento corporal amplifica a ressonância e a ancoragem.
 - **Dica Histórica:** Fórmulas como "*Galath, Malgalath, Sarathim*" (para facilitar o parto) são **sequências vibratórias** destinadas a produzir um efeito físico preciso através da ressonância sonora.
 
 ### **ETAPA 4: POTENCIALIZAÇÃO (SORCERY BREATH & TRANSE)**
 
-- **Ação:** Utilizar técnicas de respiração ofegante ou profunda (inspiração rápida, retenção, expiração forçada) para elevar o estado de consciência a um **frenesi controlado**. Permitir que a emoção correspondente (fúria para Thurisaz, êxtase para Wunjo) funda-se completamente com o som.
-- **Objetivo Vibrotúrgico:** Aumentar exponencialmente a **amplitude e a carga de Ónd** do sinal transmitido. O estado de transe **reduz a resistência do ego/censura mental**, permitindo uma transferência de energia mais pura e potente.
-- **Conceito-Chave:** O **"Sopro do Feiticeiro"** (*Sorcery Breath*) é o que diferencia um murmúrio de um **comando cósmico**. É a **voltagem** aplicada ao circuito.
+- Utilizar técnicas de respiração ofegante ou profunda (inspiração rápida, retenção, expiração forçada) para elevar o estado de consciência a um **frenesi controlado**, com isso permitir que a emoção correspondente (fúria para Thurisaz, êxtase para Wunjo) funda-se completamente com o som.
+- Busque aumentar exponencialmente a **amplitude e a carga de Ónd** do sinal transmitido, o estado de transe **reduz a resistência do ego/censura mental**, permitindo uma transferência de energia mais pura e potente.
+- **Conceito-Chave:** O **"Sopro do Feiticeiro"** (*Sorcery Breath*) é o que diferencia um murmúrio de um **comando cósmico**, é como a **voltagem** aplicada ao circuito.
 
 ### **ETAPA 5: FIXAÇÃO & ANCORAGEM (TALISMÃS & GESTOS FINAIS)**
 
-- **Ação:** Direcionar a energia acumulada para um objeto (pedra, talismã, papel) soprando sobre ele, ou para o próprio corpo traçando a runa no ar sobre um chakra. Fazer um gesto de selamento (ex: o *signum hamr* – punho cerrado). Declarar um comando final inequívoco.
-- **Objetivo Vibrotúrgico:** **Ancorar o P.E.M.** no plano físico, criando um **ponto de acesso permanente** (talismã) ou **fixando o efeito** em um alvo específico. Transforma energia dinâmica em potencial estável.
-- **Dica Histórica:** Praticamente todo feitiço no *Galdrabók* resulta em algo a ser **carregado, enterrado, bebido ou aplicado**. A fixação é a etapa final obrigatória para a manifestação.
+- Direcionar a energia acumulada para um objeto (pedra, talismã, papel) soprando sobre ele, ou para o próprio corpo traçando a runa no ar sobre um chakra, fazer um gesto de selamento (ex: o *signum hamr*, punho cerrado), declarar um comando final inequívoco.
+- Ancorar o P.E.M. no plano físico, criando um **ponto de acesso permanente** (talismã) ou **fixando o efeito** em um alvo específico, transforma energia dinâmica em potencial estável.
+- **Dica Histórica:** Praticamente todo feitiço no *Galdrabók* resulta em algo a ser **carregado, enterrado, bebido ou aplicado**, a fixação é a etapa final obrigatória para a manifestação.
 
 ### **ETAPA 6: INTEGRAÇÃO & DISSOLUÇÃO (DESCARGA & RETORNO)**
 
-- **Ação:** Agradecer às forças invocadas (se aplicável). Realizar um gesto de corte (bater palmas, golpear o ar com a mão) para dissolver o *vé*. Consumir comida e bebida (hidromel, pão) para aterrar-se. Observar atentamente os sinais e sincronicidades nos dias seguintes.
-- **Objetivo Vibrotúrgico:** Encerrar a "sessão" de forma ordenada, dissipar energia residual e reintegrar a consciência ao estado ordinário. Iniciar o processo de **observação dos resultados** no fluxo do *Wyrd*, completando o ciclo de *Freista* (testar).
-- **Nota:** Diferente da magia cerimonial que exige "licença para partir", o *Galdr* nórdico é muitas vezes um **comando direto e final**. A dissolução aqui é sobre **fechar o próprio canal do operador**, não dispensar entidades.
+- Agradecer às forças invocadas (se aplicável) e realizar um gesto de corte (bater palmas, golpear o ar com a mão) para dissolver o *vé*, consumir comida e bebida (hidromel, pão) para aterrar-se, observar atentamente os sinais e sincronicidades nos dias seguintes.
+- Encerrar a "sessão" de forma ordenada, dissipar energia residual e reintegrar a consciência ao estado ordinário, iniciar o processo de **observação dos resultados** no fluxo do *Wyrd*, completando o ciclo de *Freista* (testar).
+- **Nota:** Diferente da magia cerimonial que exige "licença para partir", o *Galdr* nórdico é muitas vezes um **comando direto e final**, a dissolução aqui é sobre **fechar o próprio canal do operador**, não dispensar entidades.
 
 ## Otimização do Sinal: Os Fatores Críticos de Eficácia
 
 A eficácia do protocolo depende da otimização de três fatores de "qualidade do sinal":
 
-1.  **Clareza (Largura de Banda):** Uma intenção vaga ou contraditória produz um **sinal ruidoso e incoerente** que se perde no *Wyrd*. A visualização precisa e a fórmula correta **maximizam a largura de banda** da transmissão, carregando mais informação útil.
-2.  **Convicção (Amplitude/Sinal):** A dúvida é **ruído que atenua o sinal**. A certeza absoluta, alimentada pela emoção genuína e pela força de vontade (*Ørlög* pessoal), **amplifica a amplitude** do P.E.M., fazendo-o "chegar mais longe" e com mais força na teia do destino.
-3. **Ressonância (Sintonia Fina):** A experimentação prática é crucial. Deve-se testar:
+-  **Clareza (Largura de Banda):** Uma intenção vaga ou contraditória produz um **sinal ruidoso e incoerente** que se perde no *Wyrd*, a visualização precisa e a fórmula correta **maximizam a largura de banda** da transmissão, carregando mais informação útil.
+-  **Convicção (Amplitude/Sinal):** A dúvida é **ruído que atenua o sinal**, a certeza absoluta, alimentada pela emoção genuína e pela força de vontade (*Ørlög* pessoal), **amplifica a amplitude** do P.E.M., fazendo-o "chegar mais longe" e com mais força na teia do destino.
+- **Ressonância (Sintonia Fina):** A experimentação prática é crucial. Deve-se testar:
     - **Tom:** Grave (Uruz, para força física), Agudo (Ansuz, para mente), Médio (Gebo, para equilíbrio).
     - **Volume:** Grito (Thurisaz, para banimento), Murmúrio (Perthro, para segredos), Voz projetada (Tiwaz, para justiça).
-    - **Ritmo:** Lento e pesado (Isa, para paralisia), Rápido e vibrante (Raidho, para jornada).
+    - **Ritmo:** Lento e pesado (Isa, para paralisia), rápido e vibrante (Raidho, para jornada).
 
-**Conclusão do Capítulo:**
-O **Galdr** se revela, portanto, como a **tecnologia vibrotúrgica fundamental** do caminho rúnico. É a disciplina que transforma o estudioso de símbolos em um **operador ativo do tecido da realidade**, capacitando-o a usar seu próprio sopro, voz e vontade para dialogar diretamente com as forças arquetípicas que estruturam o cosmos. Dominar o Galdr é dominar o **verbo criativo** que, em microcosmo, replica e direciona o som primordial do Ginnungagap.
+O **Galdr** se revela, portanto, como a **tecnologia vibrotúrgica fundamental** do caminho rúnico, é a disciplina que transforma o estudioso de símbolos em um **operador ativo do tecido da realidade**, capacitando-o a usar seu próprio sopro, voz e vontade para dialogar diretamente com as forças arquetípicas que estruturam o cosmos, dominar o Galdr é dominar o **verbo criativo** que, em microcosmo, replica e direciona o som primordial do Ginnungagap.
 
 ---
 
