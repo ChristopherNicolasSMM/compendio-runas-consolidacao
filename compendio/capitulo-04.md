@@ -1,4 +1,4 @@
-# Capítulo IV:
+# Capítulo IV
 
 ##### O Terceiro Ætt de Týr: A Soberania do Espírito e o Legado Eterno
 

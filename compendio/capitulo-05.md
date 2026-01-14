@@ -1,4 +1,4 @@
-# Capítulo V:
+# Capítulo V
 
 ##### O Galdr: A Arquitetura do Som Primordial e a Vibroturgia do Destino
 
@@ -28,9 +28,9 @@ Neste modelo, cada runa funciona como um **oscilador ressonante único** com uma
 
 **Os Três Princípios Vibrotúrgicos:**
 
-1.  **Princípio da Ressonância Simpática:** Frequências iguais ou harmônicas se atraem e se amplificam, emitir a frequência de **Sowilo** (luz, vitória) atrai circunstâncias que ressoam com essa qualidade.
-2.  **Princípio da Modulação por Intenção:** A consciência do praticante age como um **transdutor**, gerando uma onda portadora de *Ónd* que é **modulada** pela intenção específica e pelo som da runa.
-3.  **Princípio da Interferência no Wyrd:** O sinal mágico coerente, emitido com clareza e potência suficientes, **induz uma interferência construtiva ou destrutiva** na teia do destino, alterando padrões de probabilidade e atraindo ou repelindo eventos.
+-  **Princípio da Ressonância Simpática:** Frequências iguais ou harmônicas se atraem e se amplificam, emitir a frequência de **Sowilo** (luz, vitória) atrai circunstâncias que ressoam com essa qualidade.
+-  **Princípio da Modulação por Intenção:** A consciência do praticante age como um **transdutor**, gerando uma onda portadora de *Ónd* que é **modulada** pela intenção específica e pelo som da runa.
+-  **Princípio da Interferência no Wyrd:** O sinal mágico coerente, emitido com clareza e potência suficientes, **induz uma interferência construtiva ou destrutiva** na teia do destino, alterando padrões de probabilidade e atraindo ou repelindo eventos.
 
 ## Evidência Histórica: Os Manuscritos como Manuais de uma Tecnologia da Vontade
 

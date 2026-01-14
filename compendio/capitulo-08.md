@@ -1,4 +1,4 @@
-# Capítulo VIII:
+# Capítulo VIII
 
 ##### O Corpo como Altar: Sintonia Somática, Jornada do Mago e a Ética do Wyrd
 

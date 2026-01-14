@@ -1,4 +1,4 @@
-# Capítulo II:
+# Capítulo II
 
 ##### O Primeiro Ætt: Freyr e Freyja: O Ciclo da Vida Manifesta
 

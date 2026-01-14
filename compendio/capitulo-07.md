@@ -1,4 +1,4 @@
-# Capítulo VII:
+# Capítulo VII
 
 ##### A Arte Oracular e a Ética do Wyrd: Do Espelho à Tecelagem
 

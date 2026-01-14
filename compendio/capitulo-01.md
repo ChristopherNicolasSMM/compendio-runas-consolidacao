@@ -1,4 +1,4 @@
-# Capítulo I:
+# Capítulo I
 
 ##### O segredo do cosmos: da gênese ao domínio da força rúnica
 
