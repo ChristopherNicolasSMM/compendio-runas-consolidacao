@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "956dfb2b226a7584",
+        "id": "daae709b9a47c21c",
         "type": "tabs",
         "children": [
           {
-            "id": "3b5468f402e894e2",
+            "id": "621c9f67b4afea56",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "compendio/indice-remissivo.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "indice-remissivo"
             }
           }
         ]
@@ -179,44 +183,52 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "3b5468f402e894e2",
+  "active": "621c9f67b4afea56",
   "lastOpenFiles": [
-    "compendio/capitulo-05.md",
-    "compendio/apendice-b.md",
     "compendio/capitulo-06.md",
     "compendio/capitulo-04.md",
-    "compendio/capitulo-02.md",
-    "compendio/apendice-a.md",
-    "arquivo_melhorias.md",
-    "compendio/apendice-c.md",
     "compendio/capitulo-03.md",
-    "compendio/capitulo-01.md",
+    "compendio/imagem/jera.png",
+    "compendio/imagem/algiz.png",
+    "compendio/imagem/sowilo.png",
+    "compendio/imagem/fehu.png",
+    "compendio/imagem/uruz.png",
+    "compendio/imagem/thurisaz.png",
+    "compendio/imagem/ansuz.png",
+    "compendio/imagem/raidho.png",
+    "compendio/imagem/gebo.png",
+    "compendio/imagem/hagalaz.png",
+    "~$mpendio_Futhark_Antigo.docx",
+    "Compendio_Futhark_Antigo.docx",
+    "compendio/capitulo-02.md",
     "poemas runicos.md",
+    "compendio/arquivo_melhorias.md",
+    "jogos/Atendimentos.md",
+    "jogos/auto-resposta.md",
+    "Auto-resposta para whatsapp.md",
+    "Sem título",
+    "jogos",
+    "compendio/apendice-b.md",
+    "compendio/capitulo-05.md",
+    "compendio/capitulo-01.md",
     "compendio/capitulo-07.md",
     "compendio/capitulo-08.md",
     "compendio/capitulo-09.md",
     "compendio/sumario.md",
     "compendio/prologo.md",
     "compendio/prefacio.md",
-    "~$mpendio_Futhark_Antigo.docx",
     "compendio/bibliografia.md",
+    "compendio/apendice-a.md",
+    "compendio/indice-remissivo.md",
+    "arquivo_melhorias.md",
+    "compendio/apendice-c.md",
     "compendio/apendice-d.md",
     "compendio/apendice-e.md",
-    "Compendio_Futhark_Antigo.docx",
     "custom-reference.docx",
     "Custom Reference - Templates/custom-reference-a5.docx",
     "Custom Reference - Templates/custom-reference.docx",
     "Custom Reference - Templates",
     "Nova pasta",
-    "~$stom-reference-a5.docx",
-    "~WRL0003.tmp",
-    "~WRD0002.tmp",
-    "revisado/prefacio-human.md",
-    "revisado/capitulo-01.md",
-    "revisado/imagem/Élivágar.png",
-    "revisado/sumario.md",
-    "revisado/prologo.md",
-    "compendio/imagem/Élivágar.png",
-    "teste-word-conver.md"
+    "~$stom-reference-a5.docx"
   ]
 }
